@@ -18,9 +18,9 @@ Therefore from the total predictions:
     
 true positives (TP) are 207 cases: These are cases in which we predicted yes (they have the fundraiser), and they do have the fundraiser.
 
-true negatives (TN) are 71 cases: We predicted no, and they don't fundraisers
+true negatives (TN) are 71 cases: We predicted no, and they did not do fundraising 
 
-false positives (FP) are 143 cases: We predicted yes, but they don't actually have the fundraiser i.e: "Type I error."
+false positives (FP) are 143 cases: We predicted yes, but they did a fundraiser i.e: "Type I error."
 
-false negatives (FN) are 34 cases: We predicted no, but they actually do have the fundraiser. "Type II error."
+false negatives (FN) are 34 cases: We predicted no, but they actually did not have the fundraiser. "Type II error."
 
