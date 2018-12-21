@@ -4,7 +4,7 @@
 
 2. Predict deaths that are likely to need fundraising. Use algorithm of your own choice. Include the confusion matrix, F1 score, sensitivity, and specificity.
 
-Conclusion:
+Conclusion from using the Confusion Matrix (Refer to code in the Obituaries_Dataset.ipynb):
 
 The classifer is using a total of 455 predictions. 
 
