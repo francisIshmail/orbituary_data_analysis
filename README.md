@@ -1,4 +1,7 @@
 # orbituary_data_analysis
+
+NB: The data contains the explanations. 
+
 #Tasks on the data are:
 1. Create a Kaplan-meier survival curve using one of the following variables; gender, colour, fundraising, spouse alive, spouse gender. Explain the difference/significance of the result. 
 
