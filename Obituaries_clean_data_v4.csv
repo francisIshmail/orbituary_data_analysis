@@ -1,0 +1,854 @@
+Name,Announcement,Death,Burial,Burial_Day,Burial_Week,Gender,Age,Color,Size,Word_Count,No_of_Children,Significant_Children,Significant_Relatives,Fundraising,Death_to_Announce,Death_to_Burial,Announce_to_Burial,No_of_Relatives,County_Burial,County_Death,County_Morgue,Distance_Death,Distance_Morgue,Cause_of_Death,Married,Spouse_Alive,Spouse_gender,Hospital,Morgue,Same_Morgue,Cost_Morgue,Occupation,Announcement_Date,Death_Date,Burial_Date,duration
+Eng. Paul Chemweno,11/8/2017,11/2/2017,11/17/2017,Friday,Weekday,Male,66,Yes,55.18,179,7,0,0,Yes,6,15,9,35,Uasin Gishu,Uasin Gishu,Uasin Gishu,0,0,illness,Yes,Yes,Female,Memorial Hospital Eldoret,MTRH Eldoret,No,,Director,11/8/2017,11/2/2017,1,6
+Edith Kiende Kiogora,11/8/2017,10/27/2017,11/11/2017,Saturday,Weekend,Female,43,Yes,83.6,293,4,0,7,Yes,12,15,3,8,Tharaka Nithi,Nairobi,Tharaka Nithi,224,0,illness,Yes,Yes,Male,Nairobi West Hospital,Chogoria Hospital Mortuary,No,,Teacher,11/8/2017,10/27/2017,1,12
+Simon Muchiri Ngigii Mbaria,11/8/2017,11/1/2017,8/11/2017,Wednesday,Weekday,Male,35,Yes,109.12,206,4,0,2,No,7,7,0,7,Nyandarua,Nyandarua,Nakuru,0,77,illness,Yes,Yes,Female,Charity Hospital Nyahururu,Umash Nakuru,No,,Teacher,11/8/2017,11/1/2017,1,7
+Mwalimu Erick Namusasi Werunga,11/8/2017,10/24/2017,9/11/2017,Thursday,Weekday,Male,54,Yes,83.6,171,4,0,0,No,15,16,1,33,Trans Nzioa,,Trans Nzioa,0,,illness,Yes,No,Female,,Maida Mortuary,,,Teacher,11/8/2017,10/24/2017,1,15
+Catherine Mueni Sina,11/8/2017,11/2/2017,11/11/2017,Saturday,Weekend,Female,41,No,55.18,150,1,0,,,6,9,3,17,Machakos,Uasin Gishu,,378,,accident,,,Male,,,,,,11/8/2017,11/2/2017,1,6
+Maritha Mwendwa Mbui (Kaka),11/8/2017,11/2/2017,9/11/2017,Thursday,Weekday,Female,92,Yes,55.18,174,4,1,7,No,6,7,1,19,Meru,,Meru,,0,,Yes,No,Male,,Meru Funeral Home,,,,11/8/2017,11/2/2017,1,6
+Mama Fransisca Nyarinda Mose,11/7/2017,10/18/2017,10/11/2017,Friday,Weekday,Female,79,Yes,145.96,450,11,1,0,No,20,23,3,115,Nyamira,Nairobi,Nairobi,304,304,,Yes,Yes,Male,,Umash Nairobi,,,,11/7/2017,10/18/2017,1,20
+Onesmus Mwangi Gachahi,11/7/2017,11/2/2017,9/11/2017,Thursday,Weekday,Male,86,Yes,55.18,154,7,0,0,No,5,7,2,2,Nairobi,,Nairobi,,0,illness,Yes,No,Female,,Kenyatta University,,,,11/7/2017,11/2/2017,1,5
+WO1 (RTD) Jackson Gitonga Kirimania,11/7/2017,11/3/2017,11/11/2017,Saturday,Weekend,Male,72,Yes,55.18,"2,014",3,0,0,No,4,8,4,24,Meru,Nairobi,Nairobi,272,272,illness,Yes,Yes,Female,St. Francis Hospital Kasarani,St. Francis Funeral Home Kasarani,Yes,,Soldier,11/7/2017,11/3/2017,1,4
+Mama Lenah Nekesa Mamati,11/7/2017,11/2/2017,11/11/2017,Saturday,Weekend,Female,87,Yes,84.55,236,19,3,7,Yes,5,9,4,26,Bungoma,Nairobi,Nairobi,418,418,illness,Yes,No,Male,,St. Francis Funeral Home Kasarani,,,,11/7/2017,11/2/2017,1,5
+Senior Chief Julius Cheruiyot Ng'eno,11/7/2017,10/30/2017,8/11/2017,Wednesday,Weekend,Male,90,Yes,159.6,172,11,0,0,No,8,9,1,0,Bomet,,,,,,Yes,No,Female,,Lazarus Funeral Home,,,,11/7/2017,10/30/2017,1,8
+Andrew Omolo Okal Stephen,11/8/2017,10/18/2017,11/11/2017,Saturday,Weekend,Male,,Yes,68.53,240,9,0,0,No,21,24,3,27,Kisumu,Abroad,Nairobi,"10,000",341,illness,Yes,Yes,Female,UNC Hospital,Lee Funeral Home,No,,,11/8/2017,10/18/2017,1,21
+Onesmus Mwangi Gachahi,11/8/2017,10/29/2017,10/11/2017,Friday,Weekday,Male,,Yes,66.88,200,4,0,1,No,10,12,2,18,Murang'a,Nairobi,Nairobi,73,73,illness,Yes,Yes,Female,Aga Khan Hospital,Kenyatta University,No,,Banker,11/8/2017,10/29/2017,1,10
+Stanley Maina Githua,11/7/2017,11/1/2017,8/11/2017,Wednesday,Weekday,Male,,Yes,53.68,172,8,0,0,No,6,7,1,11,Murang'a,Nairobi,Nairobi,73,73,illness,Yes,No,Female,Nairobi Hospital,Kenyatta University,No,,,11/7/2017,11/1/2017,1,6
+Rosalia Murugi Ngari,11/7/2017,10/31/2017,10/11/2017,Friday,Weekday,Female,,Yes,54.56,138,7,0,0,No,7,10,3,4,Embu,Embu,Embu,0,0,illness,Yes,No,Male,Tenri Hospital Embu,Gakwegori Funeral Home,No,,,11/7/2017,10/31/2017,1,7
+Simon Guandaru Ndegwa (Karumaindo),11/7/2017,10/24/2017,10/11/2017,Friday,Weekday,Male,72,Yes,81.7,184,4,3,0,No,14,17,3,13,Nairobi,Nairobi,Nairobi,0,0,illness,Yes,No,Female,,Kenyatta University,,,Businessman,11/7/2017,10/24/2017,1,14
+Lucy Wanjiru Mareru,11/7/2017,11/1/2017,8/11/2017,Wednesday,Weekday,Female,49,Yes,83.52,171,3,1,1,No,6,7,1,27,Kajiado,,Shalom Hospital,,70,illness,Yes,Yes,Male,,Shalom Hospital,,,,11/7/2017,11/1/2017,1,6
+Mikierina Wairimu Mbugua,11/7/2017,11/1/2017,10/11/2017,Friday,Weekday,Female,,Yes,55.44,200,8,5,2,No,6,9,3,19,Nyandarua,Nyeri,Nyandarua,167,0,illness,Yes,No,Male,,Nyandarua County Referral Hospital,,,,11/7/2017,11/1/2017,1,6
+Leah Wanjiru Gaceru Kiratu,11/7/2017,11/2/2017,11/14/2017,Tuesday,Weekday,Female,,Yes,85.44,199,10,9,,,5,12,7,7,Murang'a,,,,,,Yes,No,Male,,,,,,11/7/2017,11/2/2017,1,5
+Peris Nyokabi Karugi,11/7/2017,11/1/2017,9/11/2017,Thursday,Weekday,Female,,No,55.44,164,2,0,0,No,6,8,2,17,Kiambu,,Kiambu,,0,,,,Male,,Mokoe Funeral Home,,,,11/7/2017,11/1/2017,1,6
+Superintendent Zilpah Ajali Fazan,11/7/2017,10/30/2017,11/11/2017,Saturday,Weekend,Female,58,Yes,55.44,185,3,0,0,Yes,8,12,4,17,Tana River,,Mombasa,,392,,Yes,,Male,,Jocham Hospital ,,,Soldier,11/7/2017,10/30/2017,1,8
+Esther Otinga Sakwa,11/7/2017,10/29/2017,11/11/2017,Saturday,Weekend,Female,62,Yes,154.1,267,4,2,0,Yes,9,13,4,29,Kakamega,,Uasin Gishu,,93,,Yes,Yes,Male,,Eldoret Hospital Mortuary,,,,11/7/2017,10/29/2017,1,9
+John Kiriro Githaiga,11/8/2017,11/1/2017,10/11/2017,Friday,Weekday,Male,93,Yes,54.56,146,13,0,0,No,7,9,2,,Nakuru,Nairobi,Nakuru,160,0,illness,Yes,No,Female,Kenyatta Hospital,Umash Funeral Home - Lanet,No,,,11/8/2017,11/1/2017,1,7
+Morris Moses (Mutha) Kariuki,11/8/2017,11/3/2017,11/11/2017,Thursday,Weekday,Male,,Yes,83.6,233,5,5,0,No,5,8,3,12,Murang'a,,Nairobi,,74,illness,Yes,Yes,Female,,Kenyatta University,,,,11/8/2017,11/3/2017,1,5
+Bernard Wachunga Ngari,11/8/2017,11/3/2017,10/11/2017,Friday,Weekday,Male,,Yes,54.56,24,0,0,1,No,5,7,2,6,Nyeri,,Nyeri,,0,,No,None,None,,Nyeri Provincial Hospital,,,,11/8/2017,11/3/2017,1,5
+Daniel Mwaniki Timothy,11/8/2017,10/30/2017,10/11/2017,Friday,Weekday,Male,,Yes,84.48,159,2,1,0,No,9,11,2,8,Murang'a,,Nairobi,,74,illness,Yes,Yes,Female,,Kenyatta University,,,,11/8/2017,10/30/2017,1,9
+Alexander Karugi Gichuru,11/8/2017,11/4/2017,10/11/2017,Friday,Weekday,Male,,Yes,84.48,153,6,0,0,No,4,6,2,14,Kiambu,,Kiambu,,0,illness,Yes,Yes,Female,,Kikuyu Hospital Mortuary,,,,11/8/2017,11/4/2017,1,4
+Bertha Awuor Diero,11/8/2017,10/28/2017,10/11/2017,Friday,Weekday,Female,,Yes,84.48,270,3,0,0,Yes,11,13,2,25,Homa Bay,,,,,illness,Yes,Yes,Male,,,,,,11/8/2017,10/28/2017,1,11
+Fredrick j. Wafula Makaba,11/8/2017,10/31/2017,11/11/2017,Saturday,Weekend,Male,,Yes,54.56,197,0,0,0,Yes,8,11,3,38,Busia,Nairobi,Nairobi,455,455,illness,No,None,None,Mater Hospital,Mater Hospital,Yes,,,11/8/2017,10/31/2017,1,8
+David Kinyanjui Wataaru (Wagathoni),11/7/2017,11/1/2017,8/11/2017,Wednesday,Weekday,Male,,Yes,54.56,191,8,0,0,No,6,7,1,12,Kiambu,,Kenyatta University,,,,Yes,Yes,Female,,,,,,11/7/2017,11/1/2017,1,6
+Mama Herina Obuya Oyugi,11/7/2017,10/22/2017,10/11/2017,Friday,Weekday,Female,,Yes,63.36,269,4,1,0,No,16,19,3,57,Migori,Migori,Migori,0,0,,Yes,No,Male,Migori Levl 4 Hospital,Migori Levl 4 Hospital,Yes,,,11/7/2017,10/22/2017,1,16
+Jemimah Majala Mwaniki,11/7/2017,10/28/2017,11/11/2017,Thursday,Weekday,Female,87,Yes,55.18,146,8,0,0,No,10,14,4,7,Taita Taveta,,Mombasa,,154,,Yes,No,Male,,Shalom Hospital,,,,11/7/2017,10/28/2017,1,10
+lucy Consolata Achieng Ocholla,11/1/2017,10/24/2017,3/11/2017,Friday,Weekday,Female,46,Yes,56.07,178,1,0,0,No,8,10,2,32,Nairobi,Nairobi,Nairobi,0,0,illness,,,,Nairobi West Hospital,,,,,11/1/2017,10/24/2017,1,8
+Maureen Nyokabi Mungai,11/1/2017,10/28/2017,3/11/2017,Friday,Weekday,Female,,Yes,145.96,202,0,0,6,No,4,6,2,29,Nairobi,,Nairobi,0,,accident,No,None,None,Umash Funeral Home Nairobi,,,,Student,11/1/2017,10/28/2017,1,4
+Marion Waithira Gacheru,1/7/2017,1/5/2017,10/1/2017,Tuesday,Weekday,Female,,No,443.88,282,9,3,0,No,2,5,3,21,Kiambu,Nairobi,Nairobi,27,0,illness,Yes,No,Male,Aga Khan Hospital,Lee Funeral Home,No,,,1/7/2017,1/5/2017,1,2
+Mary Muhonja Lulu,11/3/2017,10/30/2017,11/11/2017,Thursday,Weekday,Female,68,Yes,154.86,214,4,0,1,No,4,12,8,25,Vihiga,,,,,,Yes,Yes,Male,,,,,Dilplomat,11/3/2017,10/30/2017,1,4
+Marcella Margaret Bochere Maiko,11/27/2016,11/20/2016,11/30/2016,Wednesday,Weekday,Female,77,Yes,144.32,172,6,0,0,No,7,10,3,14,Kisii,,,,,,Yes,No,Male,,,,,,11/27/2016,11/20/2016,1,7
+Samson Waruhiu Minjire,11/8/2017,11/5/2017,10/11/2017,Friday,Weekday,Male,,Yes,67.76,182,5,0,0,No,3,5,2,9,Nyeri,,Nyeri,,0,,Yes,,,,Outspan Funeral Home,,,Civil Servant,11/8/2017,11/5/2017,1,3
+Moses Mathenge Kariuki,11/8/2017,10/31/2017,10/11/2017,Friday,Weekday,Male,78,Yes,55.18,231,16,0,0,No,8,10,2,19,Embu,,Embu,,0,illness,Yes,Yes,Female,,Gakwegori Funeral Home,,,,11/8/2017,10/31/2017,1,8
+Judith Kamene Julianah,11/1/2017,10/28/2017,4/11/2017,Saturday,Weekend,Female,,Yes,55.18,153,0,0,0,Yes,4,7,3,5,Makueni,,Nairobi,,135,illness,No,None,None,,Montezuma Nairobi,,,,11/1/2017,10/28/2017,1,4
+Julia Wanjiru Githure,11/3/2017,10/30/2017,7/11/2017,Tuesday,Weekday,Female,85,Yes,54.56,252,,,,,4,8,4,,Murang'a,Nairobi,,,,,Yes,,,,,,,,11/3/2017,10/30/2017,1,4
+Daniel Mbugua Githuba,11/3/2017,10/24/2017,4/11/2017,Saturday,Weekend,Male,,Yes,54.56,142,,,,,10,11,1,,Murang'a,Murang'a,,,,,Yes,,,,,,,,11/3/2017,10/24/2017,1,10
+Rodgers Apamo Omulando,11/3/2017,10/24/2017,4/11/2017,Saturday,Weekend,Male,,Yes,54.56,114,5,0,,No,10,11,1,,Kakamega,,,,,illness,Yes,,,,,,,,11/3/2017,10/24/2017,1,10
+Samuel Murithii Miani (Mzee Moja),1/7/2017,1/1/2017,11/1/2017,Saturday,Weekend,Male,85,Yes,84.48,251,9,0,,No,6,10,4,,Laikipia,Nyahururu,,,,,Yes,Yes,Female,,,,,,1/7/2017,1/1/2017,1,6
+Joseph Kamau Wainaina (ithe wa Karimi),10/30/2017,10/18/2017,1/11/2017,Wednesday,Weekday,Male,,Yes,84.48,230,,,,No,12,14,2,,Nairobi,Nairobi,,,,,Yes,No,Female,,,,,,10/30/2017,10/18/2017,1,12
+Dancan Onyango Okeyo Okombo,10/30/2017,10/20/2017,3/11/2017,Friday,Weekday,Male,,Yes,54.56,193,,,,Yes,10,14,4,,Nairobi,Homa Bay,,,,accident,,,,,,,,Lawyer,10/30/2017,10/20/2017,1,10
+Jane Mugure Gitahi,1/7/2017,1/2/2017,12/1/2017,Thursday,Weekday,Female,,Yes,54.56,117,5,1,1,No,5,10,5,16,Nyeri,Abroad,Nairobi,"10,000",152,illness,,,,Shalby,Kenyatta University,,,,1/7/2017,1/2/2017,1,5
+Elizabeth Wanjiru Muriu (Mama Kamau),10/31/2017,10/25/2017,2/11/2017,Thursday,Weekday,Female,71,Yes,54.56,234,7,0,0,No,6,8,2,34,Murang'a,Nyandarua,Nairobi,133,72,,Yes,Yes,Male,,Kenyatta University,,,,10/31/2017,10/25/2017,1,6
+Rosemary Wamaitha Mwangi,10/31/2017,10/24/2017,3/11/2017,Friday,Weekday,Female,54,Yes,54.56,188,2,0,0,Yes,7,10,3,9,Nairobi,Nairobi,Nairobi,0,0,illness,,,,,Montezuma Nairobi,,,,10/31/2017,10/24/2017,1,7
+Jenifer Atieno Modi,10/31/2017,10/18/2017,4/11/2017,Saturday,Weekend,Female,,Yes,110,262,6,0,0,Yes,13,17,4,20,Siaya,Nairobi,Nairobi,0,412,,Yes,No,Male,,Montezuma Nairobi,,,,10/31/2017,10/18/2017,1,13
+Wilder Kemunto Moturi,10/31/2017,10/10/2017,3/11/2017,Friday,Weekday,Female,,Yes,84.48,270,3,0,1,Yes,21,24,3,29,Nyamira,Nairobi,Nairobi,316,316,illness,Yes,Yes,Male,Nairobi Hospital,Lee Funeral Home,,,Director,10/31/2017,10/10/2017,1,21
+Bilhah Lugiri,10/31/2017,10/10/2017,4/11/2017,Saturday,Weekend,Female,63,Yes,54.56,149,2,0,0,No,21,25,4,14,Kakamega,Abroad,,"13,713",0,,Yes,Yes,Male,,Kaimosi Jumuia Mortuary,No,,,10/31/2017,10/10/2017,1,21
+Margaret Nyokabi Mbuti,10/31/2017,10/28/2017,2/11/2017,Thursday,Weekday,Female,,Yes,84.48,152,2,0,0,No,3,5,2,15,Kiambu,Kiambu,Kiambu,0,0,,,,,,PCEA Thogoto Funeral Home,,,,10/31/2017,10/28/2017,1,3
+Anthony Kipyegon Kipsang,10/31/2017,10/21/2017,4/11/2017,Saturday,Weekend,Male,28,Yes,145.96,194,0,0,0,Yes,10,14,4,67,Baringo,Nakuru,Nakuru,40,40,accident,No,None,None,,Umash Nairobi,No,,Blogger,10/31/2017,10/21/2017,1,10
+Mrs. MaryAnne Muthoni Kibathi (Mama Getty),10/31/2017,10/26/2017,2/11/2017,Thursday,Weekday,Female,70,Yes,84.48,231,6,0,1,No,5,7,2,,Kiambu,Kiambu,Kiambu,0,0,illness,Yes,Yes,Male,Vineyard Hospital Thika,Bishop Okoye Funeral Home,No,,,10/31/2017,10/26/2017,1,5
+Esther Ayago Jagemi,10/31/2017,10/21/2017,4/11/2017,Saturday,Weekend,Female,77,Yes,67.76,221,8,1,0,No,10,14,4,,Vihiga,,Nairobi,,374,,Yes,No,Male,,Montezuma Nairobi,,,,10/31/2017,10/21/2017,1,10
+Nehemiah Nyambane Obiero,10/31/2017,10/29/2017,3/11/2017,Friday,Weekday,Male,60,Yes,54.56,294,6,1,3,Yes,2,5,3,,Kisii,Nairobi,Nairobi,0,316,illness,Yes,Yes,Female,Mariakani Cottage Hospital,Umash Nairobi,No,,,10/31/2017,10/29/2017,1,2
+Fridah Kagendo Ireri (Wa-Urafiki),10/31/2017,10/17/2017,1/11/2017,Wednesday,Weekday,Female,70,Yes,84.48,273,6,0,0,No,14,15,1,,Tharaka Nithi,,Nairobi,,224,illness,Yes,Yes,Male,,Kenyatta University,,,,10/31/2017,10/17/2017,1,14
+Elizabeth Njeri Ndua,1/7/2017,1/4/2017,11/1/2017,Wednesday,Weekday,Female,,Yes,111.25,279,10,2,0,No,3,7,4,,Kiambu,Nairobi,Nairobi,0,32,,Yes,No,Male,,Kenyatta University,,,,1/7/2017,1/4/2017,1,3
+Elder Simon Mwaniki Kamutu,11/27/2016,12/22/2016,9/1/2017,Monday,Weekday,Male,,Yes,68.53,157,6,2,0,No,-25,18,43,,Nyandarua,Nairobi,Nairobi,144,144,illness,Yes,Yes,Female,Nairobi Womens Hospital,Nairobi Women's Hospital Funeral Home,Yes,,,11/27/2016,12/22/2016,1,25
+Wilson Newton Oluoch,11/27/2016,11/20/2016,2/12/2016,Friday,Weekday,Male,76,No,109.12,287,9,8,0,Yes,7,12,5,,Siaya,,,,,,Yes,Yes,Female,,,,,,11/27/2016,11/20/2016,1,7
+James Njoroge Kuria,10/30/2017,10/25/2017,1/11/2017,Wednesday,Weekday,Male,,Yes,84.48,178,0,0,2,No,5,7,2,,Nairobi,Nairobi,Nairobi,0,0,,Yes,Yes,Female,,Montezuma Nairobi,,,,10/30/2017,10/25/2017,1,5
+Naomi Njeri Jasho (Mama George),10/30/2017,10/22/2017,10/31/2017,Tuesday,Weekday,Female,,yes,218.7,202,,,,,8,9,1,,Kiambu,Nairobi,,,,,,,,,,,,,10/30/2017,10/22/2017,1,8
+Miriam Nyathogora Ichang'i,10/30/2017,10/19/2017,3/11/2017,Friday,Weekday,Female,,Yes,218.7,550,,,,,11,15,4,,Nyeri,,,,,,,,,,,,,,10/30/2017,10/19/2017,1,11
+Samson Mulahane Ondede,10/30/2017,10/21/2017,4/11/2017,Saturday,Weekend,Male,,Yes,128.16,332,21,12,13,Yes,9,14,5,,Vihiga,Kisumu,,,,,Yes,No,Female,Kisumu Specialist Hospital,,,,,10/30/2017,10/21/2017,1,9
+Zurie Biyaki Nyandigisi,10/30/2017,10/27/2017,1/11/2017,Wednesday,Weekday,Female,4,Yes,128.16,172,0,0,,No,3,5,2,,Kisii,Kisii,,,,,No,,,,,,,,10/30/2017,10/27/2017,1,3
+Damaris Wanjiru Githumbi,10/30/2017,10/24/2017,3/11/2017,Friday,Weekday,Female,,Yes,54.56,175,2,2,2,No,6,10,4,13,Nairobi,,Nairobi,,0,illness,Yes,No,Male,,Kenyatta University,,,,10/30/2017,10/24/2017,1,6
+Charles Njagi Gitoo,11/27/2017,11/21/2017,11/29/2017,Wednesday,Weekday,Male,71,Yes,85.44,242,8,7,3,No,6,8,2,,Kirinyaga,,,,,,Yes,Yes,Female,,Kibugi Funeral Home,,,,11/27/2017,11/21/2017,1,6
+Hellen Amunga Oronje,10/31/2017,10/26/2017,4/11/2017,Saturday,Weekend,Female,,No,84.48,134,4,0,0,Yes,5,9,4,8,Nairobi,Nairobi,,,,illness,,,,Nairobi Women's Hospital,,,,,10/31/2017,10/26/2017,1,5
+Moses Munga Ngururi,10/31/2017,10/25/2017,2/11/2017,Thursday,Weekday,Male,,Yes,110,247,9,1,0,No,6,8,2,22,Kiambu,Nairobi,,,,,Yes,Yes,Female,Avenue Hospital,Kenyatta University,,,,10/31/2017,10/25/2017,1,6
+Anthony Justus Makau Mwanza,10/31/2017,10/21/2017,3/11/2017,Friday,Weekday,Male,,No,84.48,181,3,0,0,No,10,13,3,,Makueni,Makueni,,,,,Yes,Yes,Female,,,,,,10/31/2017,10/21/2017,1,10
+Wilson Magena Mwembi,11/1/2017,10/22/2017,2/11/2017,Thursday,Weekday,Male,82,No,54.56,150,16,0,0,No,10,11,1,85,Kisii,Kisii,Kisii,0,0,illness,Yes,Yes,Female,Christamariane Hospital,Christamariane Hospital,,,,11/1/2017,10/22/2017,1,10
+Monicah Yula Mutie,11/1/2017,10/25/2017,4/11/2017,Saturday,Weekend,Female,,No,67.76,272,9,6,6,Yes,7,10,3,20,Machakos,Nairobi,Machakos,58,0,illness,Yes,No,Male,Texas Cancer Centre,Montezuma Machakos,,,,11/1/2017,10/25/2017,1,7
+Joseph Kinaa Mwove,11/1/2017,10/27/2017,4/11/2017,Saturday,Weekend,Male,,Yes,54.56,146,4,0,0,No,5,8,3,14,Kitui,,Machakos,,182,,Yes,Yes,Female,,Montezuma Machakos,,,,11/1/2017,10/27/2017,1,5
+Hon. JZ Kase EBS,11/15/2017,11/6/2017,11/18/2017,Saturday,Weekend,Male,,No,124.96,140,,,,,9,12,3,,,,,,,,,,,,,,,,11/15/2017,11/6/2017,1,9
+Boniface Musyoka Masua,11/15/2017,11/2/2017,11/18/2017,Saturday,Weekend,Male,,Yes,54.56,238,,,,,13,16,3,,,,,,,,,,,,,,,,11/15/2017,11/2/2017,1,13
+Rev. David Nzioka Kimata,11/15/2017,11/9/2017,11/20/2017,Monday,Weekday,Male,40,Yes,54.56,269,,,,,6,11,5,,,,,,,,,,,,,,,,11/15/2017,11/9/2017,1,6
+Isabella Nyambura Wakahu,11/15/2017,11/11/2017,11/17/2017,Friday,Weekday,Female,,Yes,54.56,188,,,,,4,6,2,,,,,,,,,,,,,,,,11/15/2017,11/11/2017,1,4
+Ivy Wanjiru Macharia,11/15/2017,11/11/2017,11/17/2017,Friday,Weekday,Female,,Yes,54.56,159,,,,,4,6,2,,,,,,,,,,,,,,,,11/15/2017,11/11/2017,1,4
+Hellen Nyaboke Mongiti Matagaro,11/2/2017,10/25/2017,10/11/2017,Friday,Weekday,Female,,Yes,67.76,261,3,3,4,Yes,8,16,8,23,Kisii,Nairobi,Nairobi,306,306,illness,Yes,Yes,Male,MP Shah,MP Shah Hospital Mortuary,Yes,,,11/2/2017,10/25/2017,1,8
+Lazarus Omondi Jackinda,11/2/2017,10/21/2017,4/11/2017,Saturday,Weekend,Male,,Yes,54.56,190,3,0,0,No,12,14,2,40,Siaya,,,,,,Yes,Yes,Female,,,,,Civil Servant,11/2/2017,10/21/2017,1,12
+Ruby Paula Apudo Owelle,11/2/2017,10/16/2017,4/11/2017,Saturday,Weekend,Female,,Yes,67.76,234,0,0,5,No,17,19,2,26,Siaya,Nairobi,Nairobi,407,407,illness,No,None,None,Aga Khan Hospital,Montezuma Nairobi,No,,Student,11/2/2017,10/16/2017,1,17
+Edith Watahi Mutero,11/2/2017,10/30/2017,4/11/2017,Saturday,Weekend,Female,,Yes,84.48,183,8,3,0,No,3,5,2,7,Murang'a,,Murang'a,,0,,Yes,No,Male,,Kiria-ini Mission Hospital mortuary,,,,11/2/2017,10/30/2017,1,3
+Lawrence Karanja Gakoi,11/2/2017,10/28/2017,4/11/2017,Saturday,Weekend,Male,,Yes,54.56,183,4,0,2,No,5,7,2,15,Machakos,,Machakos,,0,,Yes,Yes,Female,,Machakos Funeral Home,,,Teacher,11/2/2017,10/28/2017,1,5
+Godfrey Ndegwa Mungai,11/2/2017,10/28/2017,7/11/2017,Tuesday,Weekday,Male,,Yes,67.76,181,2,0,0,No,5,10,5,19,Nairobi,,Nairobi,,0,,Yes,Yes,Female,,Umash Nairobi,,,,11/2/2017,10/28/2017,1,5
+Irene Njoki Wanyagi,11/2/2017,10/25/2017,3/11/2017,Friday,Weekday,Female,,Yes,54.56,146,5,0,0,No,8,9,1,5,Kiambu,,Nairobi,,29,,Yes,Yes,Male,,Kenyatta University,,,,11/2/2017,10/25/2017,1,8
+Mama Agnes Muli Muia,11/2/2017,10/26/2017,4/11/2017,Saturday,Weekend,Female,,Yes,67.76,265,6,1,3,Yes,7,9,2,36,Machakos,,Machakos,,0,,Yes,No,Male,,Montezuma Mortuary Machakos,,,,11/2/2017,10/26/2017,1,7
+Thomas Kibet Kiplagat,11/2/2017,10/29/2017,4/11/2017,Saturday,Weekend,Male,,Yes,54.56,205,2,0,12,Yes,4,6,2,26,Baringo,Nairobi,Nairobi,296,296,illness,,,,Kenyatta National Hospital,Kenyatta National Hospital,Yes,,,11/2/2017,10/29/2017,1,4
+Joy Cynthia Waruguru,11/2/2017,10/29/2017,4/11/2017,Saturday,Weekend,Female,29,Yes,54.56,155,0,0,5,Yes,4,6,2,15,Nyeri,,Nairobi,,151,,No,None,None,,Montezuma Nairobi,,,,11/2/2017,10/29/2017,1,4
+Cyril Injehu Kadenge Wendoh,11/2/2017,10/28/2017,4/11/2017,Saturday,Weekend,Male,55,No,54.56,130,5,0,0,No,5,7,2,3,Kakamega,,Kakamega,,0,,,,,,Kakamega General Hospital Mortuary,,,Teacher,11/2/2017,10/28/2017,1,5
+Nelly Kananzi Kumbatha,11/2/2017,10/29/2017,4/11/2017,Saturday,Weekend,Female,99,Yes,110,206,9,5,11,No,4,6,2,19,Kilifi,,Kilifi,,0,,Yes,No,Male,,Star Funeral Home Malindi,,,,11/2/2017,10/29/2017,1,4
+Loyford Bosco Mbae Mutembei,11/2/2017,10/22/2017,3/11/2017,Friday,Weekday,Male,49,Yes,84.48,200,3,0,0,No,11,12,1,29,Tharaka Nithi,,Nairobi,,222,,Yes,Yes,Female,,Kenyatta University,,,Teacher,11/2/2017,10/22/2017,1,11
+Lalji Pethraj Shah,11/2/2017,10/27/2017,4/11/2017,Saturday,Weekend,Male,92,Yes,110,110,5,0,0,No,6,8,2,18,Nakuru,Nakuru,,0,,,Yes,No,Female,,,,,,11/2/2017,10/27/2017,1,6
+Christine Cheptum Tororey,11/2/2017,10/31/2017,3/11/2017,Friday,Weekday,Female,75,Yes,154,324,16,7,0,Yes,2,3,1,38,Nandi,,Uasin Gishu,,59,illness,Yes,No,Male,,MTRH,,,,11/2/2017,10/31/2017,1,2
+Rose Kahonzi Karisa,11/2/2017,10/25/2017,3/11/2017,Friday,Weekday,Female,72,Yes,54.56,208,9,6,0,No,8,9,1,30,Kilifi,,Mombasa,,116,,Yes,No,Male,,Pandya MemoriaL Hospital Mortuary,,,,11/2/2017,10/25/2017,1,8
+Mama Mary Talai Tanui,11/2/2017,10/19/2017,4/11/2017,Saturday,Weekend,Female,,Yes,54.56,154,,,,,14,16,2,,,,,,,,,,,,,,,,11/2/2017,10/19/2017,1,14
+Godfrey Mate Mwaniki,11/2/2017,10/31/2017,,,,Male,65,Yes,219.6,198,4,0,0,,2,,,15,,,,,,,Yes,Yes,Female,,,,,,11/2/2017,10/31/2017,0,2
+Pastor Paul Kisaa Kimilu,11/2/2017,10/22/2017,4/11/2017,Saturday,Weekend,Male,,Yes,68.53,142,3,0,1,No,11,13,2,11,Makueni,,Uasin Gishu,,450,,Yes,Yes,Female,,Moi Teaching and Referral Hospital,,,Lecturer,11/2/2017,10/22/2017,1,11
+Godfrey Mwangi Kihia (Mwarimu),11/15/2017,11/7/2017,11/17/2017,Friday,Weekday,Male,,Yes,67.76,145,,,,,8,10,2,,,,,,,,,,,,,,,,11/15/2017,11/7/2017,1,8
+Charles Otieno Ogutu,11/15/2017,10/29/2017,11/17/2017,Friday,Weekday,Male,23,Yes,54.56,228,,,,,17,19,2,,,,,,,,,,,,,,,,11/15/2017,10/29/2017,1,17
+John Odondi Mujenyi,11/15/2017,10/27/2017,11/18/2017,Saturday,Weekend,Male,59,Yes,84.48,252,,,,,19,22,3,,,,,,,,,,,,,,,,11/15/2017,10/27/2017,1,19
+Joseph Mwangi Nderitu a.k.a Gichinga wa Mithiri,11/15/2017,11/11/2017,11/21/2017,Tuesday,Weekday,Male,,Yes,84.48,212,,,,,4,10,6,,,,,,,,,,,,,,,,11/15/2017,11/11/2017,1,4
+Malisela Mbeke Kisesi,11/15/2017,11/3/2017,11/18/2017,Saturday,Weekend,Female,,Yes,54.56,248,,,,,12,15,3,,,,,,,,,,,,,,,,11/15/2017,11/3/2017,1,12
+Leah Wanjiru Gacheru Kiratu,11/11/2017,11/2/2017,11/14/2017,Tuesday,Weekday,Female,,Yes,83.52,221,,,,,9,12,3,,,,,,,,,,,,,,,,11/11/2017,11/2/2017,1,9
+Juliet Njeri Ngugi,11/10/2017,11/5/2017,11/14/2017,Tuesday,Weekday,Female,,Yes,84.48,197,,,,,5,9,4,,,,,,,,,,,,,,,,11/10/2017,11/5/2017,1,5
+Mama Margaret Akungu Odido (Dada),11/10/2017,11/5/2017,11/18/2017,Saturday,Weekend,Female,,Yes,110,264,8,0,0,Yes,5,13,8,55,Siaya,,Kisumu,,61,,Yes,No,Male,,,,,,11/10/2017,11/5/2017,1,5
+Monica Muthoni Kariuki,11/10/2017,11/7/2017,11/15/2017,Wednesday,Weekday,Female,,Yes,84.48,200,,,,,3,8,5,,,,,,,,,,,,,,,,11/10/2017,11/7/2017,1,3
+Jackson Mwandola Musili,11/10/2017,11/4/2017,11/16/2017,Thursday,Weekday,Male,,Yes,54.56,200,,,,,6,12,6,,,,,,,,,,,,,,,,11/10/2017,11/4/2017,1,6
+Sarah Taptulmat Chepkoros Kosgei (Obot Edna),11/10/2017,11/6/2017,11/13/2017,Monday,Weekday,Female,,Yes,110,241,,,,,4,7,3,,,,,,,,,,,,,,,,11/10/2017,11/6/2017,1,4
+Prof. Duncan Okoth Okombo,11/10/2017,11/2/2017,11/17/2017,Friday,Weekday,Male,67,Yes,110,393,3,0,0,Yes,8,15,7,50,Homa Bay,,,,,,Yes,Yes,Female,,,,,,11/10/2017,11/2/2017,1,8
+Esther Muthoni Nderi,11/10/2017,11/5/2017,11/15/2017,Wednesday,Weekday,Female,64,Yes,67.76,192,,,,,5,10,5,,,,,,,,,,,,,,,,11/10/2017,11/5/2017,1,5
+Micke Onyango Abok,10/31/2017,10/18/2017,4/11/2017,Saturday,Weekend,Male,,Yes,54.56,214,,,,,13,17,4,,,,,,,,,,,,,,,,10/31/2017,10/18/2017,1,13
+Emma Wanjiku Ndonga,11/6/2017,10/31/2017,7/11/2017,Tuesday,Weekday,Female,41,Yes,84.48,202,,,,,6,7,1,,,,,,,,,,,,,,,,11/6/2017,10/31/2017,1,6
+Kevin Karanja Chege,11/6/2017,10/24/2017,8/11/2017,Wednesday,Weekday,Male,,Yes,54.56,189,,,,,13,15,2,,,,,,,,,,,,,,,,11/6/2017,10/24/2017,1,13
+Hon. Peter Rambeka Oibi,11/6/2017,10/19/2017,10/11/2017,Friday,Weekday,Male,,Yes,146.85,334,6,0,5,Yes,18,22,4,75,Kisii,Nairobi,Nairobi,0,316,illness,Yes,No,Female,Nairobi West Hospital,Umash Funeral Home,,,,11/6/2017,10/19/2017,1,18
+Joseph Kaaria Matiri,11/6/2017,10/31/2017,7/11/2017,Tuesday,Weekday,Male,,Yes,67.76,229,,,,,6,7,1,,,,,,,,,,,,,,,,11/6/2017,10/31/2017,1,6
+John Kiige Gichuki,11/6/2017,10/30/2017,7/11/2017,Tuesday,Weekday,Male,73,Yes,110,197,,,,,7,8,1,,,,,,,,,,,,,,,,11/6/2017,10/30/2017,1,7
+Mary Muhonja Lulu,11/6/2017,10/30/2017,11/11/2017,Saturday,Weekend,Female,68,Yes,155.75,228,,,,,7,12,5,,,,,,,,,,,,,,,,11/6/2017,10/30/2017,1,7
+Harun Jevons Nyamongo Omari,11/6/2017,11/1/2017,10/11/2017,Friday,Weekday,Male,65,No,54.56,225,,,,,5,9,4,,,,,,,,,,,,,,,,11/6/2017,11/1/2017,1,5
+Sabina Ndunge Muasya,11/6/2017,10/27/2017,8/11/2017,Wednesday,Weekday,Female,68,Yes,84.48,242,,,12,No,10,12,2,,,,,,,,,,,,,,,,11/6/2017,10/27/2017,1,10
+Professor William Okelo Odongo,11/6/2017,10/26/2017,11/18/2017,Saturday,Weekend,Male,,Yes,54.56,185,3,1,5,Yes,11,23,12,11,Kisumu,,,,,,Yes,Yes,Female,,,,,,11/6/2017,10/26/2017,1,11
+Mary Njeri Chege,11/6/2017,10/18/2017,7/11/2017,Tuesday,Weekday,Female,70,Yes,54.56,162,,,,,19,20,1,,,,,,,,,,,,,,,,11/6/2017,10/18/2017,1,19
+Mzee Patrick Masibo Wangoywa,11/3/2017,10/18/2017,4/11/2017,Saturday,Weekend,Male,,Yes,67.76,169,,,,,16,17,1,,,,,,,,,,,,,,,,11/3/2017,10/18/2017,1,16
+Mama Monica Orime Odus,11/3/2017,10/14/2017,11/18/2017,Saturday,Weekend,Female,,Yes,105.6,189,,,,,20,35,15,,,,,,,,,,,,,,,,11/3/2017,10/14/2017,1,20
+Mwalimu Fredrick John Munge (Bishop),11/3/2017,10/27/2017,10/11/2017,Friday,Weekday,Male,75,Yes,84.48,197,,,,,7,14,7,,,,,,,,,,,,,,,,11/3/2017,10/27/2017,1,7
+Eunice Nyawira Ikaba,11/3/2017,10/30/2017,7/11/2017,Tuesday,Weekday,Female,90,Yes,54.56,203,,,,,4,8,4,,,,,,,,,,,,,,,,11/3/2017,10/30/2017,1,4
+Rev. Fr. Evans Juma Oduor,11/3/2017,10/23/2017,6/11/2017,Monday,Weekday,Male,,Yes,54.56,179,,,,,11,14,3,,,,,,,,,,,,,,,,11/3/2017,10/23/2017,1,11
+Margaret Nyambura Mwangi,11/3/2017,10/31/2017,5/11/2017,Sunday,Weekend,Female,,Yes,84.48,167,8,1,2,Yes,3,5,2,9,,,,,,,Yes,Yes,Male,,,,,,11/3/2017,10/31/2017,1,3
+Mama Leah Akeyo Odida,11/3/2017,10/22/2017,10/11/2017,Friday,Weekday,Female,,Yes,110,304,,,,,12,19,7,,,,,,,,,,,,,,,,11/3/2017,10/22/2017,1,12
+Mwalimu Thathi Francis M'riua,11/3/2017,10/31/2017,7/11/2017,Tuesday,Weekday,Male,,Yes,54.56,162,,,,,3,7,4,,,,,,,,,,,,,,,,11/3/2017,10/31/2017,1,3
+Rebecca Wanjiru Macharia,11/3/2017,10/29/2017,8/11/2017,Wednesday,Weekday,Female,75,Yes,54.56,170,,,,,5,10,5,,,,,,,,,,,,,,,,11/3/2017,10/29/2017,1,5
+Catherine Mueni,11/3/2017,10/29/2017,,,,Female,,Yes,110,122,,,0,Yes,5,,,,,,,,,,,,,,,,,,11/3/2017,10/29/2017,0,5
+Sarah M. Mwamba,11/8/2017,10/31/2017,11/11/2017,Saturday,Weekend,Female,,Yes,67.76,245,,,,,8,11,3,,,,,,,,,,,,,,,,11/8/2017,10/31/2017,1,8
+Joyce Wangechi Ngacha,11/8/2017,11/4/2017,11/11/2017,Saturday,Weekend,Female,,Yes,67.76,190,,,,,4,7,3,,,,,,,,,,,,,,,,11/8/2017,11/4/2017,1,4
+Calsine Aketch Omoga,11/10/2017,11/4/2017,11/11/2017,Saturday,Weekend,Female,75,No,54.56,261,,,,,6,7,1,,,,,,,,,,,,,,,,11/10/2017,11/4/2017,1,6
+Peter Odinga Omogah,11/10/2017,11/10/2017,11/11/2017,Saturday,Weekend,Male,56,No,54.56,219,,,,,0,1,1,,,,,,,,,,,,,,,,11/10/2017,11/10/2017,1,0
+James Macheneri Isigi,11/10/2017,11/4/2017,11/14/2017,Tuesday,Weekday,Male,88,Yes,84.48,187,22,1,0,Yes,6,10,4,98,Kisii,,Kisumu,,105,,Yes,No,Female,,Nightingale Mortuary Kisumu,,,,11/10/2017,11/4/2017,1,6
+Rev. Eunice Achungo Osango,11/10/2017,10/29/2017,11/11/2017,Saturday,Weekend,Female,78,Yes,153.12,242,,,0,No,12,13,1,,,,,,,,,,,,,,,,11/10/2017,10/29/2017,1,12
+Mzee Lawrence Machinji Muhembi,11/10/2017,11/4/2017,11/11/2017,Saturday,Weekend,Male,,Yes,54.56,166,,,,,6,7,1,,,,,,,,,,,,,,,,11/10/2017,11/4/2017,1,6
+Jackton Paul Agik Okello (Lichman),11/10/2017,10/27/2017,11/18/2017,Saturday,Weekend,Male,70,Yes,67.76,257,2,2,2,Yes,14,22,8,33,Siaya,Mombasa,,894,,,Yes,Yes,Female,,,,,,11/10/2017,10/27/2017,1,14
+Anthony Kenneth Mbote,11/10/2017,11/8/2017,11/14/2017,Tuesday,Weekday,Male,50,Yes,84.48,129,,,,,2,6,4,,,,,,,,,,,,,,,,11/10/2017,11/8/2017,1,2
+Hezekiah Kinuthia Ngoci,11/15/2017,11/9/2017,11/16/2017,Thursday,Weekday,Male,,Yes,67.76,194,5,2,0,No,6,7,1,16,Murang'a,,Murang'a,,0,illness,Yes,Yes,Female,,AIC Githumu Mission Hospital,,,,11/15/2017,11/9/2017,1,6
+Zilpporah Nyawira Mwangi,11/1/2017,10/23/2017,3/11/2017,Friday,Weekday,Female,66,Yes,84.48,262,6,3,1,Yes,9,11,2,48,Kirinyaga,,Kirinyaga,,0,illness,Yes,Yes,Male,,Jamii Hospital Mortuary,,,,11/1/2017,10/23/2017,1,9
+Jane Nyawira Ndwiga,11/1/2017,10/3/2017,,,,Female,39,Yes,145.96,369,,,,,29,,,,,,,,,,,,,,,,,,11/1/2017,10/3/2017,0,29
+Albert Maina Kimari,11/1/2017,10/28/2017,3/11/2017,Friday,Weekday,Male,63,Yes,54.56,146,,,,,4,6,2,,,,,,,,,,,,,,,,11/1/2017,10/28/2017,1,4
+Japheth Albert Kagolla (Jeff),11/1/2017,10/20/2017,3/11/2017,Friday,Weekday,Male,30,Yes,84.48,223,,,,,12,14,2,,,,,,,,,,,,,,,,11/1/2017,10/20/2017,1,12
+Ruth Monchada,11/1/2017,10/20/2017,2/11/2017,Thursday,Weekday,Female,,Yes,67.76,210,,,,,12,13,1,,,,,,,,,,,,,,,,11/1/2017,10/20/2017,1,12
+Nancy Nduta - Mumo (Mama Lucky),11/2/2017,10/27/2017,4/11/2017,Saturday,Weekday,Female,,Yes,67.76,156,,,,,6,8,2,,,,,,,,,,,,,,,,11/2/2017,10/27/2017,1,6
+Samson Njuguna Njoroge,11/13/2017,11/7/2017,11/15/2017,Wednesday,Weekday,Male,,Yes,,,,,,,6,8,2,,,,,,,,,,,,,,,,11/13/2017,11/7/2017,1,6
+Millicent Nyambura Muriuki,11/13/2017,11/8/2017,11/15/2017,Wednesday,Weekday,Female,,Yes,,,,,,,5,7,2,,,,,,,,,,,,,,,,11/13/2017,11/8/2017,1,5
+Naftali Hutton Ayodi,11/13/2017,11/9/2017,11/16/2017,Thursday,Weekday,Male,78,Yes,,,,,,,4,7,3,,,,,,,,,,,,,,,,11/13/2017,11/9/2017,1,4
+Alexander Macharia Kagunyu,11/13/2017,11/7/2017,11/15/2017,Wednesday,Weekday,Male,,Yes,,,,,,,6,8,2,,,,,,,,,,,,,,,,11/13/2017,11/7/2017,1,6
+Lilian Akinyi Afande,11/13/2017,11/3/2017,11/18/2017,Saturday,Weekend,Female,,Yes,,,,,,,10,15,5,,,,,,,,,,,,,,,,11/13/2017,11/3/2017,1,10
+Senior Chief (Rtd) Naoh Shivukule Omukamani Ambunya,11/13/2017,11/4/2017,11/18/2017,Saturday,Weekend,Male,,Yes,,,,,,,9,14,5,,,,,,,,,,,,,,,,11/13/2017,11/4/2017,1,9
+Mama Justine Ateng'e Barasa,11/13/2017,11/3/2017,11/18/2017,Saturday,Weekend,Female,55,Yes,,,,,,,10,15,5,,,,,,,,,,,,,,,,11/13/2017,11/3/2017,1,10
+Thomas Otipa Aseka,11/13/2017,11/9/2017,11/18/2017,Saturday,Weekend,Male,24,Yes,,,,,,,4,9,5,,,,,,,,,,,,,,,,11/13/2017,11/9/2017,1,4
+Mary Nyambura Githinji (Wa Kimbo),11/13/2017,10/30/2017,11/15/2017,Wednesday,Weekday,Female,,Yes,,,,,,,14,16,2,,,,,,,,,,,,,,,,11/13/2017,10/30/2017,1,14
+Mzee Micah Matundura Onsando,11/13/2017,10/31/2017,11/17/2017,Friday,Weekday,Male,95,Yes,,,,,,,13,17,4,,,,,,,,,,,,,,,,11/13/2017,10/31/2017,1,13
+Elizabeth Wambui Macharia,11/13/2017,11/7/2017,11/16/2017,Thursday,Weekday,Female,65,Yes,,,,,,,6,9,3,,,,,,,,,,,,,,,,11/13/2017,11/7/2017,1,6
+Robert Githaiga Gathima,11/13/2017,11/6/2017,11/15/2017,Wednesday,Weekday,Male,68,Yes,,,,,,,7,9,2,,,,,,,,,,,,,,,,11/13/2017,11/6/2017,1,7
+Mzee Peter Kinuthia Gathere,11/13/2017,11/5/2017,11/15/2017,Wednesday,Weekday,Male,,Yes,,,,,,,8,10,2,,,,,,,,,,,,,,,,11/13/2017,11/5/2017,1,8
+Naftali Mwiti Kirachia,11/13/2017,11/7/2017,11/14/2017,Tuesday,Weekday,Male,48,Yes,,,,,,,6,7,1,,,,,,,,,,,,,,,,11/13/2017,11/7/2017,1,6
+Monica Muthoni Kariuki,11/13/2017,11/7/2017,11/15/2017,Wednesday,Weekday,Female,,Yes,,,,,,,6,8,2,,,,,,,,,,,,,,,,11/13/2017,11/7/2017,1,6
+Mary Karuana Gathungu,11/13/2017,11/6/2017,11/14/2017,Tuesday,Weekday,Female,,Yes,,,,,,,7,8,1,,,,,,,,,,,,,,,,11/13/2017,11/6/2017,1,7
+Mama Loyce Moreng'ania Onyari,11/13/2017,10/31/2017,11/14/2017,Tuesday,Weekday,Female,89,Yes,,,,,,,13,14,1,,,,,,,,,,,,,,,,11/13/2017,10/31/2017,1,13
+Prafulbhai Jayantibhai,11/13/2017,11/11/2017,11/14/2017,Tuesday,Weekday,Male,75,Yes,,,,,,,2,3,1,,,,,,,,,,,,,,,,11/13/2017,11/11/2017,1,2
+Peter Mukhwana Wekesa,11/17/2017,11/5/2017,11/25/2017,Saturday,Weekend,Male,,Yes,,,,,,,12,20,8,,,,,,,,,,,,,,,,11/17/2017,11/5/2017,1,12
+John Mulongo Wekesa,11/17/2017,11/5/2017,11/25/2017,Saturday,Weekend,Male,,Yes,,,,,,,12,20,8,,,,,,,,,,,,,,,,11/17/2017,11/5/2017,1,12
+Dr. Anthony Benard Ayieko Ong'any,11/17/2017,10/27/2017,2/12/2017,Saturday,Weekend,Male,45,Yes,,,,,,,21,36,15,,,,,,,,,,,,,,,,11/17/2017,10/27/2017,1,21
+Marion Muthoni Mwaura,11/17/2017,11/14/2017,11/21/2017,Tuesday,Weekday,Female,85,Yes,,,,,,,3,7,4,,,,,,,,,,,,,,,,11/17/2017,11/14/2017,1,3
+Elizabeth Jeptalam Tarus,11/17/2017,11/9/2017,11/20/2017,Monday,Weekday,Female,91,Yes,,,,,,,8,11,3,,,,,,,,,,,,,,,,11/17/2017,11/9/2017,1,8
+Dominic Kabutu,11/17/2017,11/13/2017,11/20/2017,Monday,Weekday,Male,,Yes,,,,,,,4,7,3,,,,,,,,,,,,,,,,11/17/2017,11/13/2017,1,4
+Hussey K. Byama (Hosea),11/17/2017,10/15/2017,,,,Male,,Yes,,,,,,,33,"-43,023","-43,056",,,,,,,,,,,,,,,,11/17/2017,10/15/2017,0,33
+H.E Governor Dr. Wahome Gakuru PhD,11/17/2017,11/7/2017,11/18/2017,Saturday,Weekend,Male,,Yes,,,,,,,10,11,1,,,,,,,,,,,,,,,,11/17/2017,11/7/2017,1,10
+Joseph Mwangi Nderitu a.k.a Gichinga wa Mithiri,11/17/2017,11/11/2017,11/21/2017,Tuesday,Weekday,Male,,Yes,,,,,,,6,10,4,,,,,,,,,,,,,,,,11/17/2017,11/11/2017,1,6
+Mwangi Macharia,11/17/2017,11/13/2017,11/21/2017,Tuesday,Weekday,Male,,Yes,,,,,,,4,8,4,,,,,,,,,,,,,,,,11/17/2017,11/13/2017,1,4
+Apostle Elijah Njeru Benson E.N. Benson,11/17/2017,11/13/2017,11/21/2017,Tuesday,Weekday,Male,70,Yes,,,,,,,4,8,4,,,,,,,,,,,,,,,,11/17/2017,11/13/2017,1,4
+Elder Alexander Kibebe Kungu,11/17/2017,11/13/2017,11/21/2017,Tuesday,Weekday,Male,,Yes,,,,,,,4,8,4,,,,,,,,,,,,,,,,11/17/2017,11/13/2017,1,4
+Moses Nthiga Nyaga (Musa),11/17/2017,11/11/2017,11/22/2017,Wednesday,Weekday,Male,,Yes,,,,,,,6,11,5,,,,,,,,,,,,,,,,11/17/2017,11/11/2017,1,6
+Major (rtd) Jacob Aseto (OGW),11/17/2017,11/14/2017,,,,Male,,Yes,,,,,,,3,"-43,053","-43,056",,,,,,,,,,,,,,,,11/17/2017,11/14/2017,0,3
+John Ngochi Murichu,11/17/2017,11/10/2017,11/18/2017,Saturday,Weekend,Male,,Yes,,,,,,,7,8,1,,,,,,,,,,,,,,,,11/17/2017,11/10/2017,1,7
+Emily Wambui Nguni,11/17/2017,11/15/2017,11/23/2017,Thursday,Weekday,Female,108,Yes,,,,,,,2,8,6,,,,,,,,,,,,,,,,11/17/2017,11/15/2017,1,2
+Peris Wanjiru Kahuko (Chiru),11/17/2017,10/21/2017,,,,Female,52,Yes,,,,,,,27,"-43,029","-43,056",,,,,,,,,,,,,,,,11/17/2017,10/21/2017,0,27
+Lincoln George Kinyanjui Ngugi,11/17/2017,11/14/2017,11/21/2017,Tuesday,Weekday,Male,,Yes,,,,,,,3,7,4,,,,,,,,,,,,,,,,11/17/2017,11/14/2017,1,3
+Mzee Peter Odingo Omore,11/17/2017,11/13/2017,11/25/2017,Saturday,Weekend,Male,83,Yes,,,,,,,4,12,8,,,,,,,,,,,,,,,,11/17/2017,11/13/2017,1,4
+"Elizabeth Gathoni wa Koinange ""Cucu Nyakanini""",11/17/2017,11/9/2017,11/24/2017,Friday,Weekday,Female,117,Yes,,,,,,,8,15,7,,,,,,,,,,,,,,,,11/17/2017,11/9/2017,1,8
+Henry Njiru Nyaga,11/17/2017,11/12/2017,11/20/2017,Monday,Weekday,Male,,Yes,,,,,,,5,8,3,,,,,,,,,,,,,,,,11/17/2017,11/12/2017,1,5
+Vincent Musabi Majisu (Mzee),11/17/2017,11/13/2017,11/18/2017,Saturday,Weekend,Male,38,Yes,,,,,,,4,5,1,,,,,,,,,,,,,,,,11/17/2017,11/13/2017,1,4
+Miriam Nyathogora Ichang'i,11/17/2017,10/19/2017,,,,Female,86,Yes,,,,,,,29,"-43,027","-43,056",,,,,,,,,,,,,,,,11/17/2017,10/19/2017,0,29
+Sharon Mwikali Mukemba,11/17/2017,11/15/2017,11/25/2017,Saturday,Weekend,Female,,Yes,,,,,,,2,10,8,,,,,,,,,,,,,,,,11/17/2017,11/15/2017,1,2
+Penninah Yakwa,11/17/2017,11/12/2017,11/21/2017,Tuesday,Weekday,Female,,Yes,,,,,,,5,9,4,,,,,,,,,,,,,,,,11/17/2017,11/12/2017,1,5
+Richard Kariuki Joel,11/17/2017,11/11/2017,11/22/2017,Wednesday,Weekday,Male,,Yes,,,,,,,6,11,5,,,,,,,,,,,,,,,,11/17/2017,11/11/2017,1,6
+Hemdan Githaiga Muita (Retired Elder),11/17/2017,11/13/2017,11/21/2017,Tuesday,Weekday,Male,,Yes,,,,,,,4,8,4,,,,,,,,,,,,,,,,11/17/2017,11/13/2017,1,4
+Margret Wangeci Kiragu,5/23/2017,5/16/2017,5/24/2017,Wednesday,Weekday,Female,79,Yes,56.07,266,9,3,12,Yes,#VALUE!,8,1,41,Kirinyaga,,Kirinyaga,,0,illness,Yes,No,Male,,ACK Mt. Kenya mortuary,No,,,5/23/2017,5/16/2017,1,7
+Eunice Chebii Tonui,5/23/2017,5/16/2017,5/23/2017,Tuesday,Weekday,Female,,Yes,56.07,239,8,0,0,No,#VALUE!,7,0,9,Kericho,,Kericho,,0,illness,Yes,No,Male,,Lazarus Funeral Home,No,,,5/23/2017,5/16/2017,1,7
+Stephen Njeru Mbora,5/23/2017,5/18/2017,5/25/2017,Thursday,Weekday,Male,83,Yes,66.75,312,12,12,1,Yes,#VALUE!,7,2,26,Embu,,Embu,,0,illness,Yes,Yes,Female,,Gakwegori Funeral Home,No,,Teacher,5/23/2017,5/18/2017,1,5
+John Kimutai Chebii,5/23/2017,5/16/2017,5/27/2017,Saturday,Weekend,Male,,No,56.07,212,5,0,5,Yes,#VALUE!,11,4,7,Elgeyo Marakwet,Garissa,Nairobi,685,421,Accident,Yes,Yes,Female,,Kenyatta University,No,,,5/23/2017,5/16/2017,1,7
+John Njoroge Mube,5/23/2017,5/17/2017,5/25/2017,Thursday,Weekday,Male,,Yes,56.07,231,6,3,2,No,#VALUE!,8,2,17,Kiambu,Kiambu,Kiambu,0,0,illness,Yes,No,Female,Nazareth Hospital,Nazareth Hospital,Yes,,,5/23/2017,5/17/2017,1,6
+Anthony Ngaruiya Njanthi,5/23/2017,5/17/2017,5/25/2017,Thursday,Weekday,Male,42,Yes,85.44,306,2,0,0,Yes,#VALUE!,8,2,70,Nairobi,,Nairobi,,0,illness,Yes,Yes,Female,,Umash Nairobi,No,,,5/23/2017,5/17/2017,1,6
+Clarah Wawuda Mawalla,5/23/2017,5/18/2017,5/27/2017,Saturday,Weekend,Female,48,Yes,56.07,221,2,0,2,No,#VALUE!,9,4,17,Taita Taveta,,Nairobi,,305,illness,No,,,,Umash Nairobi,No,,Teacher,5/23/2017,5/18/2017,1,5
+Chandrabai L Kimatria,5/23/2017,5/20/2017,5/23/2017,Tuesday,Weekday,Female,97,No,111.25,108,1,0,0,No,#VALUE!,3,0,6,Nairobi,,Nairobi,,0,illness,Yes,No,Male,,,,,,5/23/2017,5/20/2017,1,3
+Mama Ezina Malina Lugadiru,5/23/2017,5/16/2017,5/27/2017,Saturday,Weekend,Female,82,Yes,56.07,194,10,5,3,No,#VALUE!,11,4,22,Vihiga,,Vihiga,,0,illness,Yes,Yes,Male,,Jumuia Hospital Morgue,,,,5/23/2017,5/16/2017,1,7
+Miriam Njeri Mwangi,5/23/2017,5/16/2017,5/25/2017,Thursday,Weekday,Female,,Yes,56.07,273,14,4,0,Yes,#VALUE!,9,2,53,Embu,Nairobi,Nairobi,130,0,illness,Yes,No,Male,,Kenyatta University,,,,5/23/2017,5/16/2017,1,7
+Mama Rael Kavata Musaba,5/23/2017,5/14/2017,5/27/2017,Saturday,Weekend,Female,89,Yes,85.44,151,8,3,0,Yes,#VALUE!,13,4,0,Machakos,,Machakos,,0,illness,Yes,No,Male,,Montezuma Nairobi,,,,5/23/2017,5/14/2017,1,9
+Dr. Moses Gitahi Otsyula,5/23/2017,5/19/2017,5/26/2017,Friday,Weekday,Male,,Yes,111.25,167,2,0,2,No,#VALUE!,7,3,5,Nakuru,,Nairobi,,165,illness,Yes,Yes,Female,,Kenyatta National Hospital Mortuary,,,Doctor,5/23/2017,5/19/2017,1,4
+Samwel Kipngeno Keter,5/23/2017,5/16/2017,5/24/2017,Wednesday,Weekday,Male,,Yes,56.07,153,4,0,0,No,#VALUE!,8,1,2,Kericho,,Uasin Gishu,,278,illness,Yes,Yes,Female,,Moi Teaching And Referral Funeral Home,,,Teacher,5/23/2017,5/16/2017,1,7
+Lt.Kennedy Opiyo Okeyo,5/23/2017,5/13/2017,5/26/2017,Friday,Weekday,Male,,Yes,69.42,279,0,0,2,Yes,#VALUE!,13,3,49,Migori,,Nairobi,,420,Accident,No,,,,Forces Memorial Mortuary,,,Soldier,5/23/2017,5/13/2017,1,10
+Gideon Kimathi Kibua,5/23/2017,5/13/2017,5/26/2017,Friday,Weekday,Male,65,Yes,145.07,286,5,0,4,No,#VALUE!,13,3,23,Meru,,Nairobi,,356,illness,Yes,Yes,Female,,Nairobi Womens Hospital,,,Senior Chief,5/23/2017,5/13/2017,1,10
+Arnoda Akelo Mackonya,5/23/2017,5/15/2017,6/2/2017,Friday,Weekday,Female,64,Yes,56.07,253,12,0,0,Yes,#VALUE!,18,10,12,Homa Bay,,Nairobi,,412,illness,Yes,Yes,Male,,Aga Khan Funeral Home,,,Retired Teacher,5/23/2017,5/15/2017,1,8
+Ezekiel Munyao Mwanthi,5/23/2017,5/16/2017,5/27/2017,Saturday,Weekend,Male,51,Yes,69.42,256,3,0,0,Yes,#VALUE!,11,4,30,Kitui,,Kitui,,0,illness,Yes,Yes,Female,,Kitui County Referral Hospital Mortuary,,,Teacher,5/23/2017,5/16/2017,1,7
+Jemmimah Wambui Mburu,5/23/2017,5/14/2017,5/26/2017,Friday,Weekday,Male,,Yes,85.44,261,10,4,3,No,#VALUE!,12,3,29,Murang'a,,Nairobi,,73,illness,No,,,,Kenyatta University,,,,5/23/2017,5/14/2017,1,9
+Jane Wambura Machiri,5/23/2017,5/18/2017,5/25/2017,Thursday,Weekday,Female,43,Yes,56.07,211,3,0,2,No,#VALUE!,7,2,10,Nyeri,Nairobi,Nyeri,237,0,illness,Yes,Yes,Male,Coptic Church Hospital,Jamii Hospital Mortuary,No,,,5/23/2017,5/18/2017,1,5
+Stephen Kidake Musalia,5/23/2017,5/16/2017,5/27/2017,Saturday,Weekend,Male,,Yes,111.25,183,5,0,8,Yes,#VALUE!,11,4,15,Vihiga,,,,,illness,Yes,Yes,Female,,,,,Businessman,5/23/2017,5/16/2017,1,7
+Gertrude Shighadi Lago,5/23/2017,5/15/2017,5/26/2017,Friday,Weekday,Female,72,Yes,111.25,317,6,0,0,Yes,#VALUE!,11,3,43,Vihiga,,Nairobi,,357,illness,Yes,No,Male,,Lee Funeral Home,,,,5/23/2017,5/15/2017,1,8
+Trufosa Jeserem Mengech,5/23/2017,5/20/2017,5/27/2017,Saturday,Weekend,Female,58,Yes,128.16,264,4,0,0,Yes,#VALUE!,7,4,23,Uasin Gishu,,Uasin Gishu,,0,illness,Yes,No,Male,,Moi Teaching And Referral Mortuary,,,Teacher,5/23/2017,5/20/2017,1,3
+Dan Jared Nyambuga Omollo,3/31/2017,3/26/2017,4/8/2017,Saturday,Weekend,Male,,No,56.07,151,3,0,0,No,#VALUE!,13,8,7,Kisumu,,Nairobi,,360,illness,No,,,,Chiromo,,,,3/31/2017,3/26/2017,1,5
+Christine Adamba Luchendo,3/31/2017,3/21/2017,4/1/2017,Saturday,Weekend,Female,46,Yes,56.07,245,2,0,4,No,#VALUE!,11,1,8,Kakamega,Nairobi,,401,,illness,Yes,Yes,Male,Coptic Hospital,,,,,3/31/2017,3/21/2017,1,10
+Mzee Rutto Chepkurui,3/31/2017,3/23/2017,4/1/2017,Saturday,Weekend,Male,,Yes,56.07,191,13,0,0,No,#VALUE!,9,1,147,Baringo,,Baringo,,0,illness,Yes,Yes,Female,,Baringo County Refferal Hospital,,,,3/31/2017,3/23/2017,1,8
+Mary Wamaitha Muchoki,3/31/2017,3/28/2017,4/4/2017,Tuesday,Weekday,Female,,Yes,85.44,239,6,0,0,Yes,#VALUE!,7,4,25,Murang'a,,Nairobi,,73,illness,Yes,Yes,Male,,Kenyatta University,,,,3/31/2017,3/28/2017,1,3
+Charles Maina Macharia Siparo,3/31/2017,3/27/2017,4/1/2017,Saturday,Weekend,Male,65,No,85.44,236,5,0,0,No,#VALUE!,5,1,25,Narok,,Narok,,0,illness,Yes,Yes,Female,,St.Josephs Mission Hospital Funeral Home,,,,3/31/2017,3/27/2017,1,4
+Patrick Mutinda Manzi,3/31/2017,3/27/2017,4/5/2017,Wednesday,Weekday,Male,28,Yes,56.07,210,0,0,0,Yes,#VALUE!,9,5,32,Kitui,,Nairobi,,324,illness,No,,,,Kenyatta National Hospital Funeral Home,,,,3/31/2017,3/27/2017,1,4
+Mwalimu Duncan Ndungu Muchemi,3/31/2017,3/31/2016,,,,Male,,Yes,111.25,120,,,,,#VALUE!,9/29/1783,9/29/1782,,,,,,,,,,,,,,,,3/31/2017,3/31/2016,0,365
+Rachael Salome Atieno Aduka,3/31/2017,2/3/2017,4/3/2017,Monday,Weekday,Female,,Yes,111.25,245,2,2,8,No,#VALUE!,32,3,45,Kakamega,Abroad,,,,,,,,,,,,,3/31/2017,2/3/2017,1,56
+Grace Oluoch Auma,3/31/2017,3/23/2017,4/7/2017,Friday,Weekday,Male,,Yes,85.44,204,11,4,0,Yes,#VALUE!,15,7,68,Kisii,,Kisumu,,165,illness,Yes,Yes,Male,,Star Mortuary,,,,3/31/2017,3/23/2017,1,8
+Caroline Achieng Oduor,3/31/2017,3/13/2017,4/1/2017,Saturday,Weekday,Female,,Yes,111.25,228,2,0,8,No,#VALUE!,19,1,26,Homa Bay,,Nairobi,,412,illness,Yes,Yes,Male,,Umash Nairobi,,,Advocate,3/31/2017,3/13/2017,1,18
+Mzee Thomas Arap Soi,3/31/2017,3/21/2017,4/1/2017,Saturday,Weekend,Male,90,Yes,218.7,221,28,0,0,No,#VALUE!,11,1,113,Kericho,,Kericho,,0,illness,Yes,Yes,Female,,Litein Hospital Mortuary,,,,3/31/2017,3/21/2017,1,10
+Josephine Wambui Muui,3/31/2017,3/23/2017,4/4/2017,Tuesday,Weekday,Female,,Yes,56.07,267,8,3,0,No,#VALUE!,12,4,13,Kiambu,,Kiambu,,0,illness,Yes,No,Male,,PCEA Kikuyu Funeral Home,,,,3/31/2017,3/23/2017,1,8
+Nixon Kiptoo Teno,3/31/2017,3/27/2017,4/5/2017,Wednesday,Weekday,Male,,Yes,85.44,249,0,0,5,Yes,#VALUE!,9,5,57,Baringo,,,,210,Accident,Yes,Yes,Female,,,,,Accountant,3/31/2017,3/27/2017,1,4
+Naomi Wairimu Ndia,3/31/2017,3/26/2017,4/3/2017,Monday,Weekday,Female,91,Yes,56.07,227,10,0,0,No,#VALUE!,8,3,20,Nyeri,,Nyeri,,0,illness,Yes,No,Male,,Tumutumu Mission Hospital Funeral Home,,,,3/31/2017,3/26/2017,1,5
+Dennis Cheruiyot Kipyakwai,3/31/2017,3/27/2017,4/1/2017,Saturday,Weekend,Male,,Yes,85.44,203,1,0,0,No,#VALUE!,5,1,10,Uasin Gishu,,Uasin Gishu,,0,Accident,Yes,Yes,Female,,Moi Teaching And Refferal Hospital Mortuary,,,Student,3/31/2017,3/27/2017,1,4
+Dinah Mmbaitsa,3/31/2017,3/22/2017,4/2/2017,Sunday,Weekend,Female,93,Yes,85.44,158,17,3,0,No,#VALUE!,11,2,34,Kakamega,,Kakamega,,0,illness,Yes,No,Male,,St.Mary's Mukumu Hospital Mortuary,,,,3/31/2017,3/22/2017,1,9
+Joshua Kimoni Ondicho,3/31/2017,3/22/2017,4/7/2017,Friday,Weekday,Male,85,No,85.44,309,9,9,3,Yes,#VALUE!,16,7,81,Nyamira,,Nairobi,,340,illness,Yes,Yes,Female,,Chiromo,,,Teacher,3/31/2017,3/22/2017,1,9
+Peninah Warura Mwangi Gicho,3/31/2017,3/27/2017,4/4/2017,Tuesday,Weekday,Female,82,Yes,111.25,232,7,0,0,No,#VALUE!,8,4,37,Kiambu,,Nairobi,,32,illness,Yes,No,Male,,Kenyatta University,,,,3/31/2017,3/27/2017,1,4
+Rev.Sr.Jovita Nyaboke,3/31/2017,3/26/2017,4/3/2017,Monday,Weekday,Female,77,Yes,69.42,186,0,0,0,No,#VALUE!,8,3,11,Kakamega,,Kakamega,,0,illness,No,,,,St.Elizabeth Mukumu Mission Hospital Mortuary,,,Nun,3/31/2017,3/26/2017,1,5
+Henry Mwalavu Ndonye,3/31/2017,3/24/2017,4/4/2017,Tuesday,Weekday,Male,85,Yes,69.42,339,15,4,6,No,#VALUE!,11,4,46,Machakos,,Machakos,,0,illness,Yes,Yes,Female,,Machakos Funeral Home,,,,3/31/2017,3/24/2017,1,7
+Yosabia Mocheche Kemunto Otara,3/31/2017,3/24/2017,4/7/2017,Friday,Weekday,Female,,Yes,69.42,206,3,2,5,Yes,#VALUE!,14,7,43,Kisii,,,,,illness,Yes,No,Male,,,,,,3/31/2017,3/24/2017,1,7
+James Matu Kagondu,3/31/2017,3/31/2007,,,,Male,,Yes,69.42,83,,,,,#VALUE!,9/29/1792,9/29/1782,,,,,,,,,,,,,,,,3/31/2017,3/31/2007,0,5
+Gabriel Mithamo Ndunyu,3/31/2017,2/20/2017,,,,Male,67,Yes,56.07,136,3,,,,#VALUE!,"-42,905",9/29/1782,,,,,,,,Yes,Yes,Female,,,,,,3/31/2017,2/20/2017,0,39
+Charles Eliseus Asiba,3/31/2017,3/26/2017,4/8/2017,Saturday,Weekend,Male,,Yes,56.07,119,14,0,0,Yes,#VALUE!,13,8,12,Busia,,,,,illness,Yes,Yes,Female,,,,,Legislature,3/31/2017,3/26/2017,1,5
+Margaret Muthoni Muchiga,3/31/2017,3/27/2017,4/4/2017,Tuesday,Weekday,Female,,Yes,69.42,175,6,0,0,No,#VALUE!,8,4,23,Kirinyaga,,Kirinyaga,,0,illness,Yes,No,Male,,Gakwegori Funeral Home,,,,3/31/2017,3/27/2017,1,4
+Christine mukami Njuguna,3/31/2017,3/26/2017,4/3/2017,Monday,Weekday,Female,84,Yes,56.07,230,8,3,6,No,#VALUE!,8,3,46,Kiambu,,Nairobi,,32,illness,Yes,No,Male,,Kenyatta University,,,,3/31/2017,3/26/2017,1,5
+Maurice Makokha,3/31/2017,3/31/2015,,,,Male,,Yes,111.25,91,,,,,#VALUE!,9/29/1784,9/29/1782,,,,,,,,,,,,,,,,3/31/2017,3/31/2015,0,7
+Zakaria Omwanwa Kururia,3/31/2017,3/24/2017,4/7/2017,Friday,Weekday,Male,86,Yes,162,265,8,8,5,Yes,#VALUE!,14,7,67,Nyamira,,Nairobi,,340,illness,Yes,Yes,Female,,Lee Funeral Home,,,,3/31/2017,3/24/2017,1,7
+Sr.Anna Makio,2/16/2017,2/14/2017,2/17/2017,Friday,Weekday,Female,89,Yes,56.07,159,0,0,0,No,#VALUE!,3,1,24,Tana River,Tana River,Tana River,0,0,illness,No,,,St.Martha Home-Voi,Shelter of Hope Hospital Mortuary,,,Nun,2/16/2017,2/14/2017,1,2
+George Kubai  Rugiri,2/16/2017,10/2/2017,2/17/2017,Friday,Weekday,Male,75,Yes,68.53,231,10,8,0,No,#VALUE!,7,1,35,Meru,,Meru,,0,illness,Yes,Yes,Female,,Kiirua Mission Hospital,,,Carpenter,2/16/2017,10/2/2017,1,6
+Wayne Mugodo Musasiah,2/16/2017,10/2/2017,2/18/2017,Saturday,Weekend,Male,,Yes,68.53,186,2,0,0,No,#VALUE!,8,2,38,Bungoma,,Bungoma,,0,illness,Yes,Yes,Female,,Lumboka Funeral Home,,,,2/16/2017,10/2/2017,1,22
+Mildred Florida Eshikumo,2/16/2017,12/2/2017,2/18/2017,Saturday,Weekend,Female,,Yes,68.53,187,8,0,0,No,#VALUE!,6,2,27,Kakamega,Nairobi,Nairobi,360,360,illness,Yes,Yes,Male,Nairobi Hospital,Lee Funeral Home,,,,2/16/2017,12/2/2017,1,6
+Linet Minagi Mshamba,2/16/2017,12/2/2017,2/23/2017,Thursday,Weekday,Female,,Yes,56.07,151,6,0,0,Yes,#VALUE!,11,7,10,Uasin Gishu,Uasin Gishu,Uasin Gishu,0,0,illness,Yes,Yes,Male,Mediheal Hospital Eldoret,Moi refferal Mortuary,,,,2/16/2017,12/2/2017,1,3
+Duncan Kariuki Gichuki,2/16/2017,11/2/2017,2/18/2017,Saturday,Weekend,Male,,Yes,56.07,188,6,1,0,No,#VALUE!,7,2,11,Kirinyaga,,Kirinyaga,,0,illness,Yes,Yes,Female,,Kibugi Funeral Home,,,,2/16/2017,11/2/2017,1,13
+Prof.Joshua J.Akonga,2/16/2017,7/2/2017,2/18/2017,Saturday,Weekend,Male,,Yes,111.25,283,6,5,8,Yes,#VALUE!,11,2,25,Kakamega,,Uasin Gishu,,168,illness,Yes,Yes,Female,,Moi refferal Mortuary,,,professor,2/16/2017,7/2/2017,1,13
+Meresa Auma Okudo,2/16/2017,1/30/2017,2/17/2017,Friday,Weekday,Female,,Yes,56.07,273,2,2,6,No,#VALUE!,18,1,42,Homa Bay,,Nairobi,,0,illness,Yes,Yes,Male,Mater Hospital,Mater Hospital Mortuary,Yes,,,2/16/2017,1/30/2017,1,17
+Josephat Manene,2/16/2017,12/2/2017,2/17/2017,Friday,Weekday,Male,,Yes,56.07,161,6,0,0,No,#VALUE!,5,1,32,Meru,,Meru,,0,illness,Yes,No,Female,,Nkubu Mission Hospital,,,Teacher,2/16/2017,12/2/2017,1,6
+Envoy Rael Kavuu Kitwili,2/16/2017,9/2/2017,2/17/2017,Friday,Weekday,Female,,Yes,68.53,220,10,0,0,No,#VALUE!,8,1,27,Kiambu,,Kiambu,,0,illness,Yes,No,Male,,Bishop Okeyo Funeral Home,,,,2/16/2017,9/2/2017,1,7
+Alice Wamaitha Gakaria,2/16/2017,2/16/1997,,,,Female,,Yes,147.15,119,,,,,#VALUE!,"-35,448","-42,782",,,,,,,,,,,,,,,,2/16/2017,2/16/1997,0,7
+Peter Gakaria Mondo,2/16/2017,8/14/2000,,,,Male,,Yes,147.15,119,,,,,#VALUE!,5/16/1799,"-42,782",,,,,,,,,,,,,,,,2/16/2017,8/14/2000,0,7
+David Njenga Gakaria,2/16/2017,6/13/1996,,,,Male,,Yes,147.15,119,,,,,#VALUE!,7/18/1803,"-42,782",,,,,,,,,,,,,,,,2/16/2017,6/13/1996,0,7
+Lena Kavemba Muli,2/16/2017,12/2/2017,2/18/2017,Saturday,Weekend,Female,,Yes,56.07,252,6,4,8,No,#VALUE!,6,2,47,Machakos,,Nairobi,,62,illness,Yes,Yes,Male,,Montezuma Nairobi,,,,2/16/2017,12/2/2017,1,9
+Martin Pius Kunguru,2/16/2017,11/2/2017,,,,Male,71,Yes,85.44,157,12,0,0,Yes,#VALUE!,11/16/1782,"-42,782",8,,,,,,illness,Yes,Yes,Female,,,,,,2/16/2017,11/2/2017,0,9
+Isaac Nyamache Rwenyo,2/16/2017,5/2/2017,2/19/2017,Sunday,Weekend,Male,,Yes,68.53,285,13,4,7,No,#VALUE!,14,3,58,Kisii,,Kisii,,0,illness,Yes,Yes,Female,,Christa Marriane Hospital,,,,2/16/2017,5/2/2017,1,9
+Edward Nyabuto Matara,2/16/2017,6/2/2017,,,,Male,,Yes,56.07,254,4,2,8,No,#VALUE!,11/21/1782,"-42,782",38,Kisii,Nairobi,Nairobi,342,342,illness,Yes,Yes,Female,Meridian Equator Hospital,Chiromo,No,,,2/16/2017,6/2/2017,0,9
+Washington Laban Kisivuli,2/16/2017,9/2/2017,2/18/2017,Saturday,Weekend,Male,84,Yes,56.07,198,6,3,8,No,#VALUE!,9,2,43,Kakamega,,Kakamega,,0,illness,Yes,Yes,Female,,St.Elizabeth Mukumu Hospital Mortuary,,,,2/16/2017,9/2/2017,1,9
+Paul Ndichu Mbua,2/16/2017,11/2/2017,2/21/2017,Tuesday,Weekday,Male,58,Yes,85.44,203,3,0,0,No,#VALUE!,10,5,21,Nyandarua,,Nyandarua,,0,illness,Yes,Yes,Female,,Nyahururu District Mortuary,,,Teacher,2/16/2017,11/2/2017,1,9
+Grace Wairimu Muthende,2/16/2017,10/2/2017,2/18/2017,Saturday,Weekend,Female,72,Yes,56.07,137,12,0,0,Yes,#VALUE!,8,2,12,Murang'a,Nairobi,Nairobi,73,73,illness,Yes,No,Male,Nairobi East Hospital,Kenyatta University,,,,2/16/2017,10/2/2017,1,25
+Dorothy Yiapaso Kimiti,2/16/2017,11/2/2017,2/18/2017,Saturday,Weekend,Female,,Yes,56.07,128,5,0,0,No,#VALUE!,7,2,15,Kajiado,,Kajiado,,0,illness,No,,,,Loitokitok District Hospital,,,,2/16/2017,11/2/2017,1,15
+Elizabeth Gakenia Muriuki,2/16/2017,10/2/2017,2/18/2017,Saturday,Weekend,Female,,Yes,111.25,181,5,0,0,No,#VALUE!,8,2,34,Nyeri,Nairobi,,151,,illness,No,,,Nairobi Hospital,,,,,2/16/2017,10/2/2017,1,14
+Gladys Achieng Aman,2/16/2017,3/2/2017,2/17/2017,Friday,Weekday,Female,,Yes,56.07,301,8,5,4,No,#VALUE!,14,1,56,Siaya,Siaya,Kisumu,0,102,illness,Yes,No,Male,,Star Mortuary,,,,2/16/2017,3/2/2017,1,12
+Grace Wanjiru Ndegwa,2/16/2017,12/2/2017,,,,Female,,Yes,56.07,127,4,3,0,No,#VALUE!,11/15/1782,"-42,782",0,,,,,,,Yes,Yes,Male,,,,,,2/16/2017,12/2/2017,0,14
+Douglas Bugunye Imbadu,2/16/2017,5/2/2017,2/17/2017,Friday,Weekday,Male,51,Yes,85.44,156,2,0,0,No,#VALUE!,12,1,10,Kakamega,Kakamega,Kakamega,0,0,illness,Yes,Yes,Female,Lugulu Mission Hospital,,,,,2/16/2017,5/2/2017,1,14
+Stacy Samba Kilinda,2/16/2017,2/13/2017,2/18/2017,Saturday,Weekend,Female,25,Yes,85.44,187,0,0,0,Yes,#VALUE!,5,2,27,Nairobi,,Nairobi,,0,Accident,No,,,,Montezuma Nairobi,,,,2/16/2017,2/13/2017,1,3
+Charles Gicovi Njogu,2/22/2017,2/17/2017,2/24/2017,Friday,Weekday,Male,68,Yes,56.07,202,7,0,6,No,#VALUE!,7,2,32,Embu,,Embu,,0,illness,Yes,No,Female,,Gakwegori Funeral Home,,,Presenter,2/22/2017,2/17/2017,1,5
+Jennifer Gathoni Mwangi,2/22/2017,2/16/2017,2/24/2017,Friday,Weekday,Female,,Yes,56.07,181,3,0,7,No,#VALUE!,8,2,23,Murang'a,Nairobi,Nairobi,73,73,illness,Yes,Yes,Male,Coptic Hospital,Kenyatta University,No,,Revenue Officer,2/22/2017,2/16/2017,1,6
+Eunice Njeri Mwangi,2/22/2017,2/15/2017,2/23/2017,Thursday,Weekday,Female,,Yes,56.07,168,3,2,0,No,#VALUE!,8,1,15,Nyandarua,,Nairobi,,275,illness,No,,,,Kenyatta University,,,,2/22/2017,2/15/2017,1,7
+Vincent Lukorito Changalwa,2/22/2017,2/19/2017,2/25/2017,Saturday,Weekend,Male,77,Yes,85.44,292,9,0,0,No,#VALUE!,6,3,35,Bungoma,,Nairobi,,439,illness,Yes,Yes,Female,,Chiromo,,,,2/22/2017,2/19/2017,1,3
+Margaret Wambui Kuria,2/22/2017,2/14/2017,2/24/2017,Friday,Weekday,Female,,Yes,56.07,169,3,0,2,No,#VALUE!,10,2,17,Nairobi,,Nairobi,,0,illness,Yes,No,Male,,Umash Nairobi,,,,2/22/2017,2/14/2017,1,8
+Patrick Kariuki,2/22/2017,2/16/2017,2/25/2017,Saturday,Weekday,Male,,Yes,68.53,186,4,3,6,Yes,#VALUE!,9,3,11,Nairobi,,,,,illness,Yes,Yes,Female,,,,,,2/22/2017,2/16/2017,1,6
+Beatrice Wangui Muchugia,2/22/2017,2/20/2017,2/25/2017,Saturday,Weekend,Female,91,Yes,159.3,214,7,4,2,No,#VALUE!,5,3,9,Murang'a,,Nairobi,,73,illness,Yes,No,Male,,Kenyatta University,,,,2/22/2017,2/20/2017,1,2
+Esthel Waki Nzioka,2/22/2017,2/14/2017,2/25/2017,Saturday,Weekend,Female,96,No,68.53,204,13,0,0,No,#VALUE!,11,3,112,Machakos,,Machakos,,0,illness,Yes,No,Male,,Montezuma Nairobi,,,,2/22/2017,2/14/2017,1,8
+Moses Kipchumba Kimosop,2/22/2017,2/14/2017,2/25/2017,Saturday,Weekend,Male,,Yes,85.44,247,3,0,0,No,#VALUE!,11,3,58,Baringo,Nairobi,Nairobi,320,320,illness,Yes,Yes,Female,Nairobi,Umash Nairobi,No,,Public Servant,2/22/2017,2/14/2017,1,8
+Jane Wambui Kiragu,2/22/2017,2/15/2017,2/23/2017,Thursday,Weekday,Female,,Yes,85.44,172,2,0,0,No,#VALUE!,8,1,31,Nyeri,,Nairobi,,151,illness,No,,,Nairobi West Hospital,Kenyatta University,No,,,2/22/2017,2/15/2017,1,7
+Peter Mutemi Muthui,2/22/2017,2/15/2017,2/25/2017,Saturday,Weekend,Male,87,Yes,159.3,361,8,0,0,Yes,#VALUE!,10,3,110,Kitui,Nairobi,Nairobi,179,179,illness,Yes,Yes,Female,Coptic Hospital,Lee Funeral Home,,,,2/22/2017,2/15/2017,1,7
+Martin Pius Kunguru,2/22/2017,11/2/2017,2/25/2017,Saturday,Weekend,Male,71,Yes,85.44,186,11,0,0,Yes,#VALUE!,14,3,33,Busia,,Kisumu,,67,illness,Yes,Yes,Female,,Aga Khan Hospital,,,,2/22/2017,11/2/2017,1,25
+Rebecca Chepkasi,2/22/2017,2/19/2017,2/24/2017,Friday,Weekday,Female,,Yes,145.07,175,3,0,0,No,#VALUE!,5,2,130,Nandi,,,,,illness,Yes,No,Male,,,,,,2/22/2017,2/19/2017,1,3
+John Njoroge Ngotho,2/22/2017,2/17/2017,2/24/2017,Friday,Weekday,Male,,Yes,68.53,205,7,0,0,No,#VALUE!,7,2,28,Kiambu,,Nairobi,,32,illness,Yes,Yes,Female,,Montezuma Nairobi,,,,2/22/2017,2/17/2017,1,5
+Margaret M.Nandama,2/22/2017,8/2/2017,2/25/2017,Saturday,Weekend,Female,65,Yes,153.97,390,6,4,11,No,#VALUE!,17,3,54,Kakamega,Nairobi,,395,,illness,Yes,No,Male,Nairobi South Hospital,,,,,2/22/2017,8/2/2017,1,61
+Consolata Adhiambo Otera,2/22/2017,2/17/2017,,,,Female,55,Yes,85.44,217,4,4,7,Yes,#VALUE!,"-42,813","-42,966",28,,,,,,,,,,,,,,,2/22/2017,2/17/2017,0,5
+Salome Wanjiku Njiru,2/22/2017,2/20/2017,2/28/2017,Tuesday,Weekday,Female,,Yes,85.44,233,10,0,0,No,#VALUE!,8,6,41,Embu,,Embu,,0,illness,Yes,No,Male,,Gakwegori Funeral Home,,,,2/22/2017,2/20/2017,1,2
+Ruth Ngina Mulala,2/22/2017,12/2/2017,2/25/2017,Saturday,Weekend,Female,77,Yes,85.44,218,7,0,2,Yes,#VALUE!,13,3,31,Machakos,Nairobi,Machakos,62,0,illness,No,,,Guru nanak,Montezuma Nairobi,,,,2/22/2017,12/2/2017,1,3
+Juliet Suubi Ntalo,2/22/2017,2/16/2017,2/24/2017,Friday,Weekday,Female,,Yes,85.44,223,0,0,5,Yes,#VALUE!,8,2,34,Nairobi,Nairobi,Nairobi,0,0,illness,No,,,Nairobi Hospital,Lee Funeral Home,,,,2/22/2017,2/16/2017,1,6
+Gabriel Ochieng Madung,2/22/2017,8/2/2017,2/25/2017,Saturday,Weekend,Male,57,Yes,110.36,283,4,3,8,No,#VALUE!,17,3,68,Siaya,,,,,illness,Yes,Yes,Female,,,,,,2/22/2017,8/2/2017,1,16
+Yvonne Veronica Ngusye Musau,2/22/2017,2/18/2017,2/25/2017,Saturday,Weekend,Female,32,Yes,85.44,220,2,0,0,Yes,#VALUE!,7,3,25,Makueni,,Nairobi,,132,illness,Yes,Yes,Male,,Montezuma Nairobi,,,,2/22/2017,2/18/2017,1,4
+Elizabeth Ongeri Baraza,2/22/2017,2/16/2017,2/25/2017,Saturday,Weekend,Female,,Yes,56.07,224,0,0,0,Yes,#VALUE!,9,3,58,Busia,Kajiado,Nairobi,420,452,illness,No,,,Magadi Hospital,Chiromo,No,,,2/22/2017,2/16/2017,1,6
+Samuel Williamson Guantai,2/22/2017,2/18/2017,2/24/2017,Friday,Weekday,Male,,Yes,85.44,212,4,3,4,No,#VALUE!,6,2,29,Meru,,Meru,,0,illness,Yes,Yes,Female,,Meru Funeral Home,,,Teacher,2/22/2017,2/18/2017,1,4
+Enock Nyasinga Nyamache,3/15/2017,8/3/2017,3/17/2017,Friday,Weekday,Male,,Yes,56.07,260,7,0,0,Yes,#VALUE!,9,2,54,Nyamira,Nairobi,Nairobi,320,320,illness,Yes,Yes,Female,Coptic Hospital,Coptic Hospital Mortuary,Yes,,Teacher,3/15/2017,8/3/2017,1,22
+Benjamin Njeru Murage,3/15/2017,4/3/2017,3/18/2017,Saturday,Weekend,Male,99,Yes,56.07,250,10,0,0,No,#VALUE!,14,3,40,Kirinyaga,,Kirinyaga,,0,illness,Yes,No,Female,,ACK  Mount Kenya Funeral Home,,,,3/15/2017,4/3/2017,1,19
+Moses Kariuki Njoroge,3/15/2017,11/3/2017,3/16/2017,Thursday,Weekday,Male,39,Yes,56.07,160,0,0,6,No,#VALUE!,5,1,20,Nakuru,,Nakuru,,0,illness,No,,,,St.Joseph Nursing Home,,,,3/15/2017,11/3/2017,1,4
+Rose Chelanga,3/15/2017,6/3/2017,3/18/2017,Saturday,Weekend,Female,44,Yes,56.07,160,1,0,0,Yes,#VALUE!,12,3,16,Baringo,,Nakuru,,139,illness,No,,,,Evans Sunrise Hospital,,,,3/15/2017,6/3/2017,1,8
+Deadan Mwangi Kubuthu,3/15/2017,10/3/2017,3/16/2017,Thursday,Weekday,Male,,Yes,56.07,231,8,3,4,No,#VALUE!,6,1,5,Laikipia,,Nyandarua,,56,illness,Yes,No,Female,Karatina Jamii Hospital,Nyahururu District Hospital,No,,,3/15/2017,10/3/2017,1,6
+Agnes Mukenye Kisilia,3/15/2017,6/3/2017,3/18/2017,Saturday,Weekend,Female,84,No,56.07,210,9,0,0,No,#VALUE!,12,3,22,Machakos,,Machakos,,0,illness,Yes,No,Male,,Montezuma Nairobi,,,,3/15/2017,6/3/2017,1,5
+Evans Ngigi Gitau,3/15/2017,11/3/2017,3/21/2017,Tuesday,Weekday,Male,,Yes,111.25,255,4,0,1,Yes,#VALUE!,10,6,20,Nairobi,Nairobi,Nairobi,0,0,illness,Yes,Yes,Female,Nairobi West,Montezuma Nairobi,No,,,3/15/2017,11/3/2017,1,6
+Josephine C.Osano,3/15/2017,8/3/2017,,,,Female,63,No,111.25,240,5,0,3,Yes,#VALUE!,10/22/1782,10/15/1782,47,,Nairobi,,,,illness,Yes,Yes,Male,Nairobi Womens Hospital,,,,Auditor General,3/15/2017,8/3/2017,0,3
+Lucas Munguti Nthoo,3/15/2017,9/3/2017,3/18/2017,Saturday,Weekend,Male,,Yes,68.53,220,5,4,4,No,#VALUE!,9,3,35,Makueni,,Machakos,,67,illness,Yes,Yes,Female,,Montezuma Nairobi,,,,3/15/2017,9/3/2017,,16
+Mary Njeri Wakianda,3/15/2017,12/3/2017,3/17/2017,Friday,Weekday,Female,67,Yes,68.53,204,3,2,0,No,#VALUE!,5,2,15,Kiambu,Nairobi,Nairobi,32,32,illness,Yes,Yes,Male,Nairobi West Hospital,Kenyatta University,No,,Nurse,3/15/2017,12/3/2017,1,5
+Miriam Muthoni Njuguna,3/15/2017,8/3/2017,3/17/2017,Friday,Weekday,Female,87,Yes,68.53,288,10,0,0,No,#VALUE!,9,2,48,Nakuru,,Nakuru,,0,illness,Yes,No,Male,,Umash Nairobi,,,,3/15/2017,8/3/2017,1,15
+Joseph Daniel Otiende,3/15/2017,8/3/2017,3/18/2017,Saturday,Weekday,Male,100,Yes,218.7,227,9,0,0,No,#VALUE!,10,3,16,Vihiga,,Kisumu,,56,illness,Yes,No,Female,,Avenue Hospital,,,,3/15/2017,8/3/2017,1,16
+Anne Wanjiku Gachanja,3/15/2017,11/3/2017,3/17/2017,Friday,Weekday,Female,60,Yes,434.7,270,5,0,0,No,#VALUE!,6,2,29,Nyeri,Nyeri,Nyeri,0,0,illness,Yes,Yes,Male,Outspan Hospital,Outspan Hospital Mortuary,Yes,,,3/15/2017,11/3/2017,1,15
+Dorcas Nduta Ndungu,3/15/2017,9/3/2017,3/17/2017,Friday,Weekday,Female,77,Yes,56.07,246,6,1,1,No,#VALUE!,8,2,18,Kiambu,,Nairobi,,32,illness,Yes,No,Male,,Kenyatta University,,,,3/15/2017,9/3/2017,1,4
+Susan Wahuini Mwangi Solomon,3/15/2017,12/3/2017,3/17/2017,Friday,Weekday,Female,87,Yes,56.07,224,13,0,0,No,#VALUE!,5,2,0,Nyeri,,Nyeri,,o,illness,Yes,No,Male,,Outspan Hospital Mortuary,,,,3/15/2017,12/3/2017,1,6
+Lucy Makungu,3/15/2017,11/3/2017,3/23/2017,Thursday,Weekday,Female,,Yes,56.07,225,3,0,1,Yes,#VALUE!,12,8,28,Kakamega,Nairobi,Nairobi,537,537,illness,Yes,Yes,Male,Nairibi Womens Hospital,Chiromo,No,,Police officer,3/15/2017,11/3/2017,1,8
+Paul Akoko Ndolo,3/15/2017,2/23/2017,3/17/2017,Friday,Weekday,Male,,Yes,56.07,254,12,0,0,Yes,#VALUE!,22,2,31,Homa Bay,Homa Bay,Homabay,0,0,illness,Yes,No,Female,Kendu Adventist Hospital,Kendu Adventist Hospital Mortuary,Yes,,,3/15/2017,2/23/2017,1,20
+Rosemary Njoki Ndwiga,3/15/2017,10/3/2017,3/17/2017,Friday,Weekday,Female,,Yes,56.07,216,5,0,0,No,#VALUE!,7,2,17,Embu,,Embu,,0,illness,Yes,Yes,Male,,Gakwegori Funeral Home,,,,3/15/2017,10/3/2017,1,61
+Charles Kabera Mahindi,3/15/2017,7/3/2017,,,,Male,,Yes,56.07,234,,,,,#VALUE!,10/23/1782,10/15/1782,,,,,,,,,,,,,,,,3/15/2017,7/3/2017,0,6
+Bernard Mutune Nzoka,3/15/2017,10/3/2017,3/18/2017,Saturday,Weekend,Male,,Yes,56.07,223,4,0,0,Yes,#VALUE!,8,3,33,Machakos,,Machakos,,0,illness,Yes,Yes,Female,,Montezuma Nairobi,,,,3/15/2017,10/3/2017,1,2
+Peter Wainana Njoroge,3/15/2017,9/3/2017,3/16/2017,Thursday,Weekday,Male,41,Yes,56.07,157,1,0,0,No,#VALUE!,7,1,7,Kiambu,,Nairobi,,32,illness,Yes,Yes,Female,,Kenyatta University,,,,3/15/2017,9/3/2017,1,17
+Timothy Muraya Gatheru,3/15/2017,10/3/2017,3/17/2017,Friday,Weekday,Male,30,Yes,56.07,195,1,0,0,No,#VALUE!,7,2,22,Nyeri,Nairobi,Nyeri,163,0,illness,Yes,Yes,Female,Nairobi West Hospital,Jamii Nursing Home,No,,Police officer,3/15/2017,10/3/2017,1,5
+George Kingoina Maranga,3/15/2017,8/3/2017,3/20/2017,Monday,Weekday,Male,57,Yes,68.53,278,5,1,2,Yes,#VALUE!,12,5,54,Nakuru,,Nakuru,,0,illness,Yes,Yes,Female,,Umash Nairobi,,,,3/15/2017,8/3/2017,1,45
+Cyprian M'Iringo,3/15/2017,11/3/2017,3/17/2017,Friday,Weekday,Male,104,Yes,68.53,167,13,1,2,Yes,#VALUE!,6,2,7,Meru,,Nairobi,,342,illness,Yes,Yes,Female,,Kenyatta University,,,,3/15/2017,11/3/2017,1,6
+Evans Ngoko Makori,3/15/2017,8/3/2017,,,,Male,51,Yes,56.07,194,3,0,0,Yes,#VALUE!,10/22/1782,10/15/1782,32,,,,,,illness,Yes,Yes,Female,,Umash Nairobi,,,Police officer,3/15/2017,8/3/2017,0,15
+Kimurei Arap Lelmengit,3/15/2017,7/3/2017,3/17/2017,Friday,Weekday,Male,82,Yes,56.07,254,16,4,0,No,#VALUE!,10,2,14,Nandi,,Uasin Gishu,,54,illness,Yes,Yes,Female,,Racecourse Hospital Mortuary,,,,3/15/2017,7/3/2017,1,11
+James M Mwangi,3/15/2017,11/3/2017,3/16/2017,Thursday,Weekday,Male,49,Yes,85.44,138,1,0,0,Yes,#VALUE!,5,1,19,Nairobi,,Nairobi,,0,illness,Yes,Yes,Female,,Montezuma Nairobi,,,Teacher,3/15/2017,11/3/2017,1,21
+Virginiah Njoki Mungai,3/15/2017,10/3/2017,3/17/2017,Friday,Weekday,Female,,Yes,56.07,194,5,0,1,No,#VALUE!,7,2,10,Nakuru,,Nakuru,,0,illness,Yes,No,Male,,Uplands Funeral Home,,,,3/15/2017,10/3/2017,1,22
+Alice Odipo Onyiso,3/15/2017,8/3/2017,3/18/2017,Saturday,Weekend,Female,68,Yes,111.25,259,11,1,0,Yes,#VALUE!,10,3,44,Siaya,,Siaya,,0,illness,Yes,No,Male,,Star Mortuary,,,,3/15/2017,8/3/2017,1,14
+Jane Wanjiru Kaniu,3/15/2017,11/3/2017,3/22/2017,Wednesday,Weekday,Female,73,Yes,111.25,214,12,3,0,No,#VALUE!,11,7,4,Kiambu,Abroad,Nairobi,,32,illness,Yes,No,Male,,Kenyatta University,,,,3/15/2017,11/3/2017,1,26
+Manubhai Jethabhai Patel,3/15/2017,11/3/2017,3/15/2017,Wednesday,Weekday,Male,81,Yes,111.25,172,3,1,0,No,#VALUE!,4,0,14,,,,,,,,,,,,,,,3/15/2017,11/3/2017,1,23
+David Mumo Kisambu,3/15/2017,3/3/2017,3/18/2017,Saturday,Weekend,Male,,No,56.07,290,5,0,1,Yes,#VALUE!,15,3,32,Kitui,,Kitui,,0,illness,Yes,Yes,Female,,Tribute Funeral Home,,,,3/15/2017,3/3/2017,1,12
+Mary E.J.Nevill,3/15/2017,12/3/2017,,,,Female,,No,56.07,23,3,0,,Yes,#VALUE!,10/18/1782,10/15/1782,,,,,,,,,,,,,,,,3/15/2017,12/3/2017,0,63
+Betty Sifuna Oyieke,3/15/2017,5/3/2017,3/18/2017,Saturday,Weekend,Female,,No,56.07,132,3,0,0,No,#VALUE!,13,3,20,Kisumu,Kisumu,,0,,illness,Yes,Yes,Male,Aga Khan Hospital,,,,Teacher,3/15/2017,5/3/2017,1,49
+Joseph Wambua Muteti,3/15/2017,9/3/2017,3/18/2017,Saturday,Weekend,Male,63,Yes,56.07,268,4,0,1,Yes,#VALUE!,9,3,37,Makueni,,Machakos,,156,illness,Yes,No,Female,,Montezuma Nairobi,,,,3/15/2017,9/3/2017,1,17
+Eunice Wambua Kiama,3/15/2017,10/3/2017,3/18/2017,Saturday,Weekend,Female,,Yes,56.07,203,9,2,3,No,#VALUE!,8,3,4,Nyeri,,Nyeri,,0,illness,Yes,No,Male,,P.C.E.A Tumutumu Hospital,,,,3/15/2017,10/3/2017,1,20
+Mary Njuguna,3/15/2017,4/3/2017,3/17/2017,Friday,Weekday,Female,,Yes,85.44,179,6,3,0,Yes,#VALUE!,13,2,15,Embu,Embu,Embu,0,0,illness,Yes,Yes,Male,MP Shah Hospital,Gakwegori Funeral Home,No,,,3/15/2017,4/3/2017,1,19
+John Owuor Ochieng,3/15/2017,6/3/2017,3/18/2017,Saturday,Weekend,Male,45,Yes,56.07,164,3,3,0,No,#VALUE!,12,3,14,Siaya,,Machakos,,568,illness,Yes,Yes,Female,,Machakos Funeral Home,,,,3/15/2017,6/3/2017,1,20
+Michael Manase Manyola Magwilu,3/15/2017,10/3/2017,3/18/2017,Saturday,Weekend,Male,85,Yes,68.53,234,19,0,0,Yes,#VALUE!,8,3,12,Vihiga,,Nairobi,,542,illness,Yes,Yes,Female,,Mater Hospital Mortuary,,,,3/15/2017,10/3/2017,1,202
+Kelvin Mboya,10/3/2017,2/28/2017,3/11/2017,Saturday,Weekend,Male,35,No,56.07,190,3,0,0,No,#VALUE!,11,1,12,Kisumu,,Kisumu,,0,illness,Yes,Yes,Female,,Star Mortuary,,,,10/3/2017,2/28/2017,1,217
+Elizabeth Suba Kimani,10/3/2017,5/3/2017,3/11/2017,Saturday,Weekend,Female,58,Yes,56.07,185,5,0,0,No,153,6,1,12,,,,,,illness,Yes,Yes,Male,,,,,,10/3/2017,5/3/2017,1,153
+Esther Syokau Mutiso,10/3/2017,2/28/2017,3/11/2017,Saturday,Weekend,Female,71,Yes,56.07,275,5,5,0,Yes,#VALUE!,11,1,28,Machakos,Nairobi,,67,,illness,Yes,No,Male,,,,,,10/3/2017,2/28/2017,1,217
+Solomon Mwai Matuku,10/3/2017,6/3/2017,3/18/2017,Saturday,Weekend,Male,,Yes,56.07,240,4,0,4,Yes,122,12,8,27,Kitui,,,,,illness,Yes,Yes,Female,,,,,,10/3/2017,6/3/2017,1,122
+Rose Njeri Macharia,10/3/2017,6/3/2017,3/14/2017,Tuesday,Weekday,Female,,Yes,56.07,243,0,0,0,No,122,8,4,25,Nakuru,,Nairobi,,139,illness,No,,,,Kenyatta University,,,Training Coordinator,10/3/2017,6/3/2017,1,122
+Florence Ahero Owino Agumbi,10/3/2017,2/23/2017,3/10/2017,Friday,Weekday,Female,,Yes,56.07,230,4,0,0,No,#VALUE!,15,0,34,Kisumu,,Kisumu,,0,illness,Yes,Yes,Male,,Aga Khan Hospital Mortuary,,,,10/3/2017,2/23/2017,1,222
+Ann Nyandia Maina,10/3/2017,5/3/2017,3/14/2017,Tuesday,Weekday,Female,,Yes,160.65,242,3,1,0,No,153,9,4,27,Nairobi,Nairobi,Nairobi,0,0,illness,Yes,No,Male,Nairobi Hospital,Lee funeral Home,No,,Director,10/3/2017,5/3/2017,1,153
+Cyprian Ojwang Omollo,10/3/2017,3/3/2017,3/17/2017,Friday,Weekday,Male,,Yes,218.7,234,7,7,1,No,214,14,7,6,Migori,Nairobi,Nairobi,0,369,illness,Yes,Yes,Female,Nairobi Hospital,Lee funeral Home,No,,politician,10/3/2017,3/3/2017,1,214
+Francis Ndege Gachoki,10/3/2017,5/3/2017,3/14/2017,Tuesday,Weekday,Male,,Yes,56.07,203,4,0,0,No,153,9,4,14,Kirinyaga,Nairobi,Kirinyaga,123,0,illness,Yes,Yes,Female,Nairobi Womens Hospital,Kibugi Funeral Home,No,,Managing Director,10/3/2017,5/3/2017,1,153
+Joyce Mwongeli Ndolo,10/3/2017,7/3/2017,3/11/2017,Saturday,Weekday,Female,71,Yes,56.07,220,6,1,1,No,92,4,1,23,Machakos,,Machakos,,0,illness,Yes,Yes,Male,,Machakos Funeral Home,,,,10/3/2017,7/3/2017,1,92
+Nickson Saningo Totona,10/3/2017,4/3/2017,3/11/2017,Saturday,Weekday,Male,22,Yes,56.07,210,0,0,0,No,183,7,1,40,Narok,,Bomet,,46,illness,No,,,,Longisa Hospital Mortuary,,,Student,10/3/2017,4/3/2017,1,183
+Josephat Kinyua Simeon,10/3/2017,5/3/2017,3/14/2017,Tuesday,Weekday,Male,,Yes,56.07,250,16,12,0,No,153,9,4,35,Kirinyaga,,Kirinyaga,,0,illness,Yes,Yes,Female,,Jamii hospital,,,,10/3/2017,5/3/2017,1,153
+Goerge Munyinyi Mburu,10/3/2017,5/3/2017,3/13/2017,Monday,Weekday,Male,60,Yes,68.53,133,4,0,2,No,153,8,3,8,Nyandarua,,Nyandarua,,0,illness,Yes,Yes,Female,,Engineer Hospital Mortuary,,,,10/3/2017,5/3/2017,1,153
+Joseph Agwanda,10/3/2017,2/21/2017,3/17/2017,Friday,Weekday,Male,22,Yes,85.44,271,0,0,11,Yes,#VALUE!,24,7,29,Kisumu,Abroad,,,,illness,No,,,,,,,,10/3/2017,2/21/2017,1,224
+Moses Watayi Kiteresi,10/3/2017,3/3/2017,3/18/2017,Saturday,Weekend,Male,82,No,68.53,253,13,0,0,Yes,214,15,8,53,Kakamega,,Kakamega,,0,illness,Yes,Yes,Female,,Kakamega County Refferal Hospital,,,,10/3/2017,3/3/2017,1,214
+Purity Jepkurui Rutto,10/3/2017,2/25/2017,3/11/2017,Saturday,Weekend,Female,39,Yes,85.44,209,1,0,0,No,#VALUE!,14,1,39,Baringo,,Nakuru,,78,Accident,Yes,Yes,Male,,Umash Nairobi,,,Teacher,10/3/2017,2/25/2017,1,220
+John Momanyi Magutu,10/3/2017,4/3/2017,3/17/2017,Friday,Weekday,Male,72,Yes,128.16,528,16,2,5,Yes,183,13,7,117,Kisii,Nairobi,Nairobi,420,420,illness,Yes,Yes,Female,Nairobi Hospital,Montezuma Nairobi,,,,10/3/2017,4/3/2017,1,183
+Jones Mwashushe Mwawasi,10/3/2017,1/3/2017,,,,Male,,Yes,56.07,128,6,0,0,Yes,273,10/29/1782,10/20/1782,,,Nairobi,,,,illness,Yes,Yes,Female,Coptic Hospital,,,,,10/3/2017,1/3/2017,0,273
+Purity Nyaguthii Njai,10/3/2017,7/3/2017,3/15/2017,Wednesday,Weekday,Female,64,Yes,111.25,252,10,0,0,No,92,8,5,17,Nyeri,,Nyeri,,0,illness,Yes,Yes,Male,,Outspan Funeral Home,,,,10/3/2017,7/3/2017,1,92
+Cleopas Muli Mbai,10/3/2017,7/3/2017,3/18/2017,Saturday,Weekend,Male,89,Yes,68.53,270,6,6,4,Yes,92,11,8,8,Makueni,Machakos,Machakos,45,45,illness,Yes,Yes,Female,Bishop Kioko Hospital,Montezuma Nairobi,,,,10/3/2017,7/3/2017,1,92
+Rolex Otieno Wijass,10/3/2017,2/28/2017,3/18/2017,Saturday,Weekend,Male,22,Yes,68.53,302,0,0,6,Yes,#VALUE!,18,8,59,Siaya,Abroad,,,,illness,No,,,Daramshila Hospital,,,,,10/3/2017,2/28/2017,1,217
+David Kuria Mwangi,10/3/2017,3/3/2017,3/11/2017,Saturday,Weekend,Male,,Yes,68.53,213,5,0,5,No,214,8,1,13,Nakuru,,Nakuru,,0,illness,Yes,Yes,Female,,North Kinangop Catholic Hospital Funeral Home,,,,10/3/2017,3/3/2017,1,214
+Elizabeth Susan Amoke,10/3/2017,12/2/2017,,,,Female,,Yes,85.44,203,,,,Yes,-60,11/15/1782,10/20/1782,,,,,,,,,,,,,,,,10/3/2017,12/2/2017,0,32
+Mical  Auma Esilaba,10/3/2017,7/3/2017,3/18/2017,Saturday,Weekend,Female,,Yes,85.44,340,28,5,0,Yes,92,11,8,43,Vihiga,,Nairobi,,568,illness,Yes,No,Male,,Montezuma Nairobi,,,,10/3/2017,7/3/2017,1,92
+Enoch Yano Kilimo,10/3/2017,4/3/2017,3/11/2017,Saturday,Weekend,Male,,Yes,111.25,380,6,0,6,No,183,7,1,60,Trans Nzioa,Uasin Gishu,Uasin Gishu,67,67,illness,Yes,Yes,Female,Mediheal Hospital,Moi Refferal Funeral Home,,,,10/3/2017,4/3/2017,1,183
+Desderio Njage Mmitambo,3/28/2017,3/23/2017,4/1/2017,Thursday,Weekday,Male,70,Yes,56.07,203,3,0,0,Yes,#VALUE!,9,4,11,Tharaka Nithi,,Nairobi,,340,illness,Yes,Yes,Female,,Kenyatta University,,,Director,3/28/2017,3/23/2017,1,5
+Margaret Wanjira Muiruri,3/28/2017,3/23/2017,3/30/2017,Thursday,Weekday,Female,42,Yes,56.07,176,4,4,0,No,#VALUE!,7,2,11,Kiambu,,Kiambu,,0,illness,Yes,Yes,Male,,Bishop Okoye Funeral Home,,,Lecturer,3/28/2017,3/23/2017,1,5
+Angela Sicha Osanya,3/28/2017,3/21/2017,4/1/2017,Saturday,Weekend,Female,32,Yes,56.07,230,1,0,0,Yes,#VALUE!,11,4,21,Busia,,Nairobi,,568,illness,Yes,Yes,Male,,Coptic Mortuary,,,,3/28/2017,3/21/2017,1,7
+Selina Millicent Ogera Manyonge,3/28/2017,3/17/2017,4/1/2017,Saturday,Weekend,Female,80,Yes,154.86,368,10,10,1,Yes,#VALUE!,15,4,43,Siaya,,Nairobi,,520,illness,Yes,No,Male,,Lee Funeral Home,,,,3/28/2017,3/17/2017,1,11
+Peter Muthui Musyoka,3/28/2017,3/19/2017,4/1/2017,Saturday,Weekend,Male,,No,56.07,191,1,0,0,No,#VALUE!,13,4,13,Kitui,Nairobi,Nairobi,178,178,illness,Yes,Yes,Female,Guru nanak,Guru Nanak Hospital,Yes,,,3/28/2017,3/19/2017,1,9
+Ruth Mwonjori Kimbui,3/28/2017,3/23/2017,3/31/2017,Friday,Weekday,Female,75,No,56.07,261,8,8,0,No,#VALUE!,8,3,37,Meru,,Nairobi,,420,illness,Yes,No,Male,,Kenyatta University,,,,3/28/2017,3/23/2017,1,5
+Josephat Waliaula Wangwe,3/28/2017,3/20/2017,4/1/2017,Saturday,Weekend,Male,,Yes,160.65,270,7,0,3,Yes,#VALUE!,12,4,40,Bungoma,,,,,illness,Yes,Yes,Female,,,,,Teacher,3/28/2017,3/20/2017,1,8
+Mary Wanja Ngugi,3/28/2017,3/22/2017,3/29/2017,Wednesday,Weekday,Female,,No,56.07,153,1,0,0,No,#VALUE!,7,1,10,Nakuru,,Nakuru,,0,illness,No,,,,PGH Mortuary,,,,3/28/2017,3/22/2017,1,6
+Lydia Wairimu Kagondo,3/28/2017,3/23/2017,3/31/2017,Friday,Weekday,Female,,Yes,56.07,221,4,3,4,No,#VALUE!,8,3,16,Kiambu,,Nairobi,,32,illness,Yes,Yes,Male,,Kenyatta University,,,,3/28/2017,3/23/2017,1,5
+Edith Nyathira Ndorongo,3/28/2017,3/21/2017,3/31/2017,Friday,Weekday,Female,92,Yes,111.25,238,26,0,0,No,#VALUE!,10,3,,Kiambu,,Nairobi,,32,illness,Yes,No,Male,,Kenyatta University,,,,3/28/2017,3/21/2017,1,7
+Jane Wanjiku Njagi,3/28/2017,3/15/2017,3/30/2017,Thursday,Weekday,Female,,Yes,56.07,172,1,0,0,No,#VALUE!,15,2,13,Nairobi,Nairobi,Nairobi,,0,illness,Yes,Yes,Male,Nairobi Womens Hospital,Kenyatta University,No,,,3/28/2017,3/15/2017,1,13
+Zakaria Omwanwa Kururia,3/28/2017,3/24/2017,,,,Male,86,Yes,160.65,250,15,11,0,Yes,#VALUE!,"-42,936","-43,056",67,,,,,,illness,Yes,No,Female,,,,,,3/28/2017,3/24/2017,0,4
+Lilian Ochieng Otieno,3/28/2017,3/19/2017,4/1/2017,Saturday,Weekend,Female,39,Yes,145.96,209,1,0,0,Yes,#VALUE!,13,4,12,Siaya,,,,,Accident,No,,,,,,,,3/28/2017,3/19/2017,1,9
+Vincent Philip Kinyanjui Wangombe,3/28/2017,3/22/2017,,,,Male,71,Yes,56.07,150,12,0,0,No,#VALUE!,"-42,875","-43,056",2,,,,,,illness,Yes,Yes,Female,,,,,Engineer,3/28/2017,3/22/2017,0,6
+James Odhiambo Rombo,3/28/2017,3/17/2017,4/1/2017,Saturday,Weekend,Male,14,Yes,85.44,221,0,0,0,Yes,#VALUE!,15,4,7,Kisumu,Nairobi,,420,,illness,No,,,Mater Hospital,,,,Student,3/28/2017,3/17/2017,1,11
+James Aboko Machooka,3/28/2017,3/22/2017,3/31/2017,Friday,Weekday,Male,69,Yes,56.07,251,4,0,0,No,#VALUE!,9,3,42,Uasin Gishu,,Uasin Gishu,,0,illness,Yes,Yes,Female,,Moi Refferal Funeral Home,,,,3/28/2017,3/22/2017,1,6
+Emmanuel Mawanda Nyamwihura,3/28/2017,3/24/2017,4/1/2017,Saturday,Weekend,Male,,Yes,85.44,162,13,0,0,Yes,#VALUE!,8,4,30,,,,,,illness,Yes,Yes,Female,,,,,,3/28/2017,3/24/2017,1,4
+Esther Kalondu Sammy Mwanzi,3/28/2017,3/21/2017,4/1/2017,Saturday,Weekend,Female,70,Yes,85.44,350,4,0,0,Yes,#VALUE!,11,4,51,Makueni,,Machakos,,45,illness,Yes,Yes,Male,,Montezuma Nairobi,,,,3/28/2017,3/21/2017,1,7
+Alfred Arama Momanyi,3/28/2017,3/15/2017,3/31/2017,Friday,Weekday,Male,,Yes,85.44,224,5,3,0,Yes,#VALUE!,16,3,58,Kisii,,Nairobi,,420,illness,Yes,Yes,Female,,Umash Nairobi,,,,3/28/2017,3/15/2017,1,13
+Erick Murithi Julio,3/28/2017,3/21/2017,4/1/2017,Saturday,Weekend,Male,22,Yes,85.44,280,0,0,0,Yes,#VALUE!,11,4,33,Meru,,Nairobi,,386,illness,No,,,,Kenyatta University,,,,3/28/2017,3/21/2017,1,7
+Peter Kamau,3/28/2017,3/21/2017,3/30/2017,Thursday,Weekday,Male,,Yes,85.44,102,2,0,0,No,#VALUE!,9,2,7,Kiambu,,Nairobi,,32,illness,Yes,Yes,Female,,Kenyatta University,,,,3/28/2017,3/21/2017,1,7
+Erick David Mwangi Kimani,3/28/2017,3/22/2017,,,,Male,,Yes,85.44,150,4,4,4,No,#VALUE!,"-42,875","-43,056",17,,Abroad,,,,illness,Yes,Yes,Female,,,,,soldier,3/28/2017,3/22/2017,0,6
+Gilbert Samuel Mitula,3/28/2017,3/24/2017,,,,Male,,Yes,160.65,286,,,,Yes,#VALUE!,"-42,936","-43,056",,,,,,,,,,,,,,,,3/28/2017,3/24/2017,0,4
+Ann Kerubo Otwori,3/28/2017,3/25/2017,3/31/2017,Friday,Weekday,Female,,Yes,56.07,180,9,2,2,Yes,#VALUE!,6,3,25,Nyamira,,,,,illness,Yes,Yes,Male,,,,,,3/28/2017,3/25/2017,1,3
+Andrew Munge Muasya,5/24/2017,5/15/2017,5/27/2017,Saturday,Weekend,Male,,Yes,56.07,264,3,0,0,Yes,#VALUE!,12,3,18,Makueni,Nairobi,Machakos,67,34,illness,Yes,Yes,Female,Karen Hospital,Montezuma Nairobi,No,,Teacher,5/24/2017,5/15/2017,1,9
+Emma Nyambura Kamau,5/24/2017,5/17/2017,5/25/2017,Thursday,Weekday,Female,,Yes,56.07,210,3,0,3,No,#VALUE!,8,1,36,Kiambu,,Nairobi,,32,illness,Yes,Yes,Male,,Kenyatta University,,,public servant,5/24/2017,5/17/2017,1,7
+Laurence Wanjala Webii,5/24/2017,5/24/2016,,,,Male,,Yes,56.07,130,,,,Yes,#VALUE!,"-42,573","-42,938",,,,,,,,Yes,Yes,Female,,,,,,5/24/2017,5/24/2016,0,365
+Salome Wanjiru Mukora,5/24/2017,5/21/2017,,,,Female,,Yes,111.25,104,,,,Yes,#VALUE!,"-42,846","-42,938",,,,,,,Illness,Yes,Yes,Male,,,,,,5/24/2017,5/21/2017,0,3
+Josephat Maranga Gitonga,5/24/2017,5/17/2017,5/26/2017,Friday,Weekday,Male,,Yes,68.53,210,1,0,0,No,#VALUE!,9,2,13,Laikipia,,Kiambu,,120,illness,Yes,No,Female,,PCEA Kikuyu Hospital,,,,5/24/2017,5/17/2017,1,7
+Grace Wangui Muchemi,5/24/2017,5/16/2017,5/25/2017,Thursday,Weekday,Female,,Yes,68.53,251,7,7,7,No,#VALUE!,9,1,28,Nyeri,Nyeri,Nyeri,0,0,illness,Yes,Yes,Male,Metropolitan Hospital,Consolata Mission Hospital,No,,,5/24/2017,5/16/2017,1,8
+Francis Howard Okello Anunda,5/24/2017,5/14/2017,5/27/2017,Saturday,Weekend,Male,78,No,56.07,204,4,0,0,No,#VALUE!,13,3,18,Kakamega,Uasin Gishu,Uasin Gishu,206,206,illness,Yes,Yes,Female,Moi Teaching And Refferal Hospital,Moi Teaching And Refferal Hospital,Yes,,,5/24/2017,5/14/2017,1,10
+Naomi Wambui,5/24/2017,5/17/2017,5/26/2017,Friday,Weekday,Female,48,Yes,85.44,211,2,0,2,No,#VALUE!,9,2,35,Embu,,Nairobi,,287,illness,Yes,Yes,Male,,Kenyatta University,,,,5/24/2017,5/17/2017,1,7
+Michael Nguyo Kagambi,5/24/2017,5/21/2017,5/27/2017,Saturday,Weekend,Male,,Yes,56.07,223,5,0,0,Yes,#VALUE!,6,3,19,Laikipia,,Nairobi,,250,illness,Yes,Yes,Female,,Kenyatta University,,,Inspector of police,5/24/2017,5/21/2017,1,3
+Justus Kimani Ocharo,5/24/2017,5/15/2017,6/1/2017,Thursday,Weekday,Male,57,Yes,56.07,214,2,0,0,Yes,#VALUE!,17,8,56,Nyamira,,,,,illness,Yes,Yes,Female,,,,,,5/24/2017,5/15/2017,1,9
+Rebecca Ramasi Lekupe,5/24/2017,5/16/2017,5/27/2017,Saturday,Weekend,Female,,Yes,68.53,161,7,0,0,Yes,#VALUE!,11,3,4,Nairobi,Nairobi,Nairobi,0,0,illness,Yes,Yes,Male,Nairobi Hospital,Umash Nairobi,,,,5/24/2017,5/16/2017,1,8
+Leah Wanjiru Ngunyi Kihara,5/24/2017,5/20/2017,,,,Female,68,Yes,85.44,281,8,0,2,Yes,#VALUE!,"-42,816","-42,938",38,,,,,,Accident,Yes,No,Male,,,,,,5/24/2017,5/20/2017,0,4
+Irene Akoth Arodi,5/24/2017,6/5/2017,6/2/2017,Friday,Weekday,Female,,Yes,56.07,236,0,0,0,Yes,#VALUE!,27,9,42,Kisumu,Nairobi,,520,,illness,No,,,Nairobi Womens Hospital,,,,,5/24/2017,6/5/2017,1,12
+Fredrick Musembi Muia,5/24/2017,5/14/2017,5/27/2017,Saturday,Weekend,Male,34,Yes,85.44,230,1,0,2,No,#VALUE!,13,3,30,Machakos,,Machakos,,0,Accident,Yes,Yes,Female,,Montezuma Nairobi,,,,5/24/2017,5/14/2017,1,10
+David Mulaa Nzila,5/24/2017,5/13/2017,5/27/2017,Saturday,Weekend,Male,,No,56.07,202,7,0,0,No,#VALUE!,14,3,11,Kitui,Kitui,Kitui,0,0,illness,Yes,No,Female,Mwingi Level 4 Hospital,Mwingi Level 4 Hospital,Yes,,,5/24/2017,5/13/2017,1,11
+Joyce Mutuo Kimuyu,5/24/2017,5/15/2017,5/26/2017,Friday,Weekday,Female,,Yes,56.07,231,3,0,0,Yes,#VALUE!,11,2,28,Makueni,,Nairobi,,0,illness,Yes,Yes,Male,,Chiromo,,,,5/24/2017,5/15/2017,1,9
+Winfred Nyaguthi Kihara Owino,5/24/2017,5/18/2017,6/3/2017,Saturday,Weekend,Female,,Yes,85.44,378,2,0,0,Yes,#VALUE!,16,10,30,Kakamega,,Nairobi,,520,illness,Yes,Yes,Male,,Chiromo,,,,5/24/2017,5/18/2017,1,6
+Kennedy Opiyo Okeyo,5/24/2017,5/14/2017,5/26/2017,Friday,Weekday,Male,,Yes,56.07,280,0,0,0,Yes,#VALUE!,12,2,56,Migori,,Nairobi,,467,Accident,No,,,,The Forces Memorial Mortuary,,,Soldier,5/24/2017,5/14/2017,1,10
+Albert Onamu Osia,5/24/2017,5/14/2017,5/27/2017,Saturday,Weekend,Male,,Yes,56.07,242,7,4,1,Yes,#VALUE!,13,3,31,Kakamega,Nairobi,Nairobi,520,520,illness,Yes,Yes,Female,Mater Hospital,Mater Hospital Mortuary,Yes,,,5/24/2017,5/14/2017,1,10
+John Njoroge Githiri,5/24/2017,5/20/2017,5/26/2017,Friday,Weekday,Male,72,Yes,56.07,160,6,2,0,No,#VALUE!,6,2,20,Kiambu,,Nairobi,,32,illness,Yes,Yes,Female,,Kenyatta University,,,,5/24/2017,5/20/2017,1,4
+Joseph Nathaniel Kipruto Arap Ngok,3/20/2017,3/16/2017,,,,Male,,Yes,56.07,220,5,0,0,Yes,#VALUE!,10/14/1782,"-42,814",,,Nairobi,,,,illness,Yes,Yes,Female,Karen Hospital,,,,Doctor,3/20/2017,3/16/2017,0,4
+Juliana Aloo Mangeni,3/20/2017,10/3/2017,3/25/2017,Saturday,Weekend,Female,74,Yes,85.44,223,9,3,5,Yes,#VALUE!,15,5,42,Busia,,Busia,,0,illness,Yes,No,Male,,Sega Mission Funeral Home,,,,3/20/2017,10/3/2017,1,19
+Joyce Nkirote Riungu,3/20/2017,3/15/2017,3/23/2017,Thursday,Weekday,Female,,Yes,146.85,294,6,0,4,No,#VALUE!,8,3,29,Meru,,,,,illness,Yes,No,Male,,,,,,3/20/2017,3/15/2017,1,5
+Mary Wangui Njau,3/20/2017,3/14/2017,3/21/2017,Tuesday,Weekday,Female,,Yes,56.07,180,6,2,6,No,#VALUE!,7,1,13,Trans Nzioa,Trans Nzioa,Transzoia,0,0,illness,Yes,Yes,Male,Mediheal Hospital,PNN Funeral Home,,,Principal,3/20/2017,3/14/2017,1,6
+Evans Wangombe,3/20/2017,3/13/2017,3/22/2017,Wednesday,Weekday,Male,,Yes,56.07,220,4,0,0,No,#VALUE!,9,2,22,Kajiado,,Nairobi,,72,illness,Yes,No,Female,,Lee Funeral Home,,,,3/20/2017,3/13/2017,1,7
+Juddy Gachoka,3/20/2017,3/16/2017,3/24/2017,Friday,Weekday,Female,,Yes,217.35,156,0,0,0,No,#VALUE!,8,4,8,Kirinyaga,Nairobi,Nairobi,140,140,illness,No,,,Nairobi Hospital,Kenyatta University,,,,3/20/2017,3/16/2017,1,4
+Gladys Abigael Njeri Nduati,3/20/2017,3/13/2017,3/22/2017,Wednesday,Weekday,Female,,Yes,217.35,289,5,0,0,No,#VALUE!,9,2,22,Nairobi,Nairobi,Nairobi,0,0,illness,Yes,No,Male,Nairobi Hospital,Lee Funeral Home,,,,3/20/2017,3/13/2017,1,7
+Jackson Ndegwa Thimba,3/20/2017,3/14/2017,3/22/2017,Wednesday,Weekday,Male,,Yes,56.07,210,2,2,0,No,#VALUE!,8,2,13,Nyeri,Nyeri,Nyeri,0,0,illness,Yes,Yes,Female,Outspan Hospital,Nyeri Funeral Home,,,Public Servant,3/20/2017,3/14/2017,1,6
+Anthony Mutinda Muthembwa,3/20/2017,3/15/2017,3/24/2017,Friday,Weekday,Male,,Yes,68.53,184,1,0,4,Yes,#VALUE!,9,4,30,Machakos,,Machakos,0,0,illness,Yes,Yes,Female,,Montezuma Nairobi,,,,3/20/2017,3/15/2017,1,5
+Mwalimu Stanley Kimata Gichiri,3/20/2017,3/15/2017,3/23/2017,Thursday,Weekday,Male,,Yes,85.44,182,6,6,2,No,#VALUE!,8,3,7,Kiambu,,Nairobi,,32,illness,Yes,Yes,Female,,Kenyatta University,,,,3/20/2017,3/15/2017,1,5
+Peter David Githitu,3/20/2017,3/15/2017,3/22/2017,Wednesday,Weekday,Male,,Yes,56.07,220,4,0,0,Yes,#VALUE!,7,2,16,Kiambu,Nairobi,Nairobi,32,32,illness,Yes,Yes,Female,Nairobi Womens Hospital,Nairobi Womens Hospital,Yes,,,3/20/2017,3/15/2017,1,5
+Evans Ngigi Gitau,3/20/2017,11/3/2017,3/21/2017,Tuesday,Weekday,Male,,Yes,111.25,306,6,0,0,No,#VALUE!,10,1,23,Nairobi,Nairobi,Nairobi,0,0,illness,Yes,Yes,Female,Nairobi West Hospital,Montezuma Nairobi,No,,,3/20/2017,11/3/2017,1,11
+Agnes Anyango Nyimbae,3/20/2017,3/13/2017,3/27/2017,Monday,Weekday,Female,81,Yes,111.25,288,7,7,8,Yes,#VALUE!,14,7,28,Homa Bay,,Kisii,,75,illness,Yes,Yes,Male,,Christa Marriane Hospital,,,,3/20/2017,3/13/2017,1,7
+Ivy Patricia Njoki,5/31/2017,5/24/2017,6/2/2017,Friday,Weekday,Female,,Yes,56.07,160,2,0,0,No,#VALUE!,9,2,8,Bungoma,,,,,illness,No,,,,,,,,5/31/2017,5/24/2017,1,7
+John Edward Ogutu,5/31/2017,5/20/2017,6/2/2017,Friday,Weekday,Male,,No,68.53,230,12,5,0,No,#VALUE!,13,2,50,Kisii,Kisii,Kisii,0,0,illness,Yes,No,Female,Chrita Marianne Hospital,Christa Marriane Hospital,Yes,,,5/31/2017,5/20/2017,1,11
+Elizabeth Apiyo Okumu,5/31/2017,5/19/2017,6/3/2017,Saturday,Weekend,Female,36,Yes,68.53,221,4,0,0,No,#VALUE!,15,3,31,Siaya,Nairobi,Nairobi,532,532,illness,Yes,Yes,Male,,Chiromo,,,,5/31/2017,5/19/2017,1,12
+John Muriuki Mweri,5/31/2017,5/25/2017,6/2/2017,Friday,Weekday,Male,71,Yes,85.44,340,3,3,16,Yes,#VALUE!,8,2,27,Nyeri,,Nairobi,,189,Accident,Yes,Yes,Female,,Kenyatta University,,,Teacher,5/31/2017,5/25/2017,1,6
+Gladys Libona Ongachi Esipila,5/31/2017,5/23/2017,6/3/2017,Saturday,Weekend,Female,,Yes,129.05,211,7,0,0,No,#VALUE!,11,3,21,Uasin Gishu,Nairobi,Nairobi,410,410,illness,No,,,,Montezuma Nairobi,,,,5/31/2017,5/23/2017,1,8
+Grace Gumayia Mudanya,5/31/2017,5/18/2017,6/3/2017,Saturday,Weekend,Female,,Yes,56.07,130,2,0,0,No,#VALUE!,16,3,6,Vihiga,,Kisumu,,83,illness,Yes,Yes,Male,,St.Monicah Mortuary,,,Teacher,5/31/2017,5/18/2017,1,13
+Morris Musyoki Makai,5/31/2017,5/23/2017,6/2/2017,Friday,Weekday,Male,51,Yes,111.25,165,3,0,0,No,#VALUE!,10,2,20,Machakos,,Machakos,,0,Accident,Yes,Yes,Female,,Montezuma Nairobi,,,Journalist,5/31/2017,5/23/2017,1,8
+Bethuel Charles Kangunu,5/31/2017,5/26/2017,6/2/2017,Friday,Weekday,Male,77,Yes,111.25,243,5,5,4,No,#VALUE!,7,2,24,Murang'a,,Muranga,,0,illness,Yes,Yes,Female,,Muriranjas Hospital Mortuary,,,Teacher,5/31/2017,5/26/2017,1,5
+Samuel Mbote Njoroge,5/31/2017,5/26/2017,6/2/2017,Friday,Weekday,Male,28,Yes,56.07,231,0,0,8,No,#VALUE!,7,2,10,Nyeri,,Nairobi,,189,illness,No,,,,Kenyatta University,,,,5/31/2017,5/26/2017,1,5
+Tom Gicho Muchina,5/31/2017,5/24/2017,6/2/2017,Friday,Weekday,Male,,Yes,68.53,163,3,0,0,No,#VALUE!,9,2,14,Kiambu,,Nairobi,,32,Accident,Yes,Yes,Female,,Umash Nairobi,,,,5/31/2017,5/24/2017,1,7
+Mary Kemunto Gikenyi,5/31/2017,5/22/2017,6/3/2017,Saturday,Weekend,Female,,No,56.07,203,0,0,0,Yes,#VALUE!,12,3,38,Bungoma,,Nairobi,,520,illness,Yes,Yes,Male,,Kenyatta University,,,,5/31/2017,5/22/2017,1,9
+Joyce Gathoni Gachanja,5/31/2017,5/26/2017,6/3/2017,Saturday,Weekend,Female,97,Yes,85.44,250,4,4,3,No,#VALUE!,8,3,22,Kiambu,,Kiambu,,0,illness,Yes,No,Male,,Bishop Okoye Funeral Home,,,,5/31/2017,5/26/2017,1,5
+Benjamin Kamau Kingori,5/31/2017,5/26/2017,6/2/2017,Friday,Weekday,Male,66,Yes,85.44,154,3,0,0,No,#VALUE!,7,2,24,Nyeri,,Nyeri,,0,illness,Yes,Yes,Female,,Mathari Mission Hospital Mortuary,,,,5/31/2017,5/26/2017,1,5
+Keziah Njeri Nyika,5/31/2017,5/24/2017,6/2/2017,Friday,Weekday,Female,,Yes,56.07,201,2,2,0,No,#VALUE!,9,2,5,Nyeri,,Nyeri,,0,illness,Yes,No,Male,,Tumutumu Mortuary,,,,5/31/2017,5/24/2017,1,7
+Samuel Masita Machogu,5/31/2017,5/26/2017,6/5/2017,Monday,Weekday,Male,89,Yes,85.44,330,10,8,0,Yes,#VALUE!,10,5,66,Nyamira,,Kisii,,24,illness,Yes,Yes,Female,,Hema Hospital Mortuary,,,,5/31/2017,5/26/2017,1,5
+Esther Vuyanzi Kagota Odhiambo,5/31/2017,5/19/2017,6/3/2017,Saturday,Weekend,Female,,Yes,85.44,217,3,0,0,No,#VALUE!,15,3,49,Migori,Nairobi,Nairobi,420,420,illness,Yes,Yes,Male,Nairobi Hospital,Montezuma Nairobi,No,,,5/31/2017,5/19/2017,1,12
+Wenceslaus Tororey,5/31/2017,5/27/2017,6/2/2017,Friday,Weekday,Male,59,Yes,111.25,340,13,0,2,No,#VALUE!,6,2,52,Nandi,Uasin Gishu,Uasin Gishu,120,120,illness,Yes,Yes,Female,Reale Hospital,Moi teaching And Refferal Hospital Mortuary,No,,,5/31/2017,5/27/2017,1,4
+Kiiru Githinji,5/31/2017,5/26/2017,6/2/2017,Friday,Weekday,Male,83,Yes,56.07,170,7,0,0,No,#VALUE!,7,2,5,Nyeri,,Nyeri,,189,illness,Yes,Yes,Female,,Kenyatta University,,,,5/31/2017,5/26/2017,1,5
+Monica Mukhachi Odongo,5/31/2017,5/25/2017,6/3/2017,Saturday,Weekend,Female,48,Yes,85.44,350,0,0,6,Yes,#VALUE!,9,3,69,Busia,Nairobi,,543,,illness,No,,,Mater Hospital,,,,,5/31/2017,5/25/2017,1,6
+James Miruka Owuor,5/31/2017,11/5/2017,6/10/2017,Saturday,Weekend,Male,,Yes,85.44,401,6,5,0,Yes,#VALUE!,30,10,62,Kisumu,,Kisumu,,0,illness,Yes,Yes,Female,,Aga Khan Hospital Mortuary,,,Mp,5/31/2017,11/5/2017,1,11
+Raphael Ndungi Mathaka,5/31/2017,5/28/2017,6/3/2017,Saturday,Weekend,Male,,Yes,56.07,115,4,0,0,Yes,#VALUE!,6,3,,Makueni,,Nairobi,,132,illness,Yes,Yes,Female,,Chiromo,,,Lecturer,5/31/2017,5/28/2017,1,3
+Eric Mweresa Onchaga,5/31/2017,5/24/2017,6/2/2017,Friday,Weekday,Male,37,Yes,68.53,153,2,0,0,Yes,#VALUE!,9,2,4,Kisii,,Nairobi,,320,illness,Yes,Yes,Female,,Montezuma Nairobi,,,,5/31/2017,5/24/2017,1,7
+Faith Wanjiku Mbuthia,5/31/2017,5/27/2017,6/2/2017,Friday,Weekday,Female,,Yes,68.53,126,8,0,0,No,#VALUE!,6,2,6,Nyeri,,,,,illness,Yes,Yes,Male,,,,,,5/31/2017,5/27/2017,1,4
+Jael Adhiambo Owino,5/31/2017,5/23/2017,6/9/2017,Friday,Weekday,Female,,Yes,155.75,255,5,0,0,No,#VALUE!,17,9,12,Siaya,,Kisumu,,86,illness,Yes,Yes,Male,,Nightingale Mortuary,,,,5/31/2017,5/23/2017,1,8
+Peter Kimani Evan,5/31/2017,5/26/2017,6/2/2017,Friday,Weekday,Male,77,Yes,68.53,210,7,7,0,No,#VALUE!,7,2,11,Kiambu,,Nakuru,,97,illness,Yes,No,Female,,Kijabe Mission Hospital,,,Teacher,5/31/2017,5/26/2017,1,5
+Albert George Shihemi Khaminwa,5/31/2017,5/25/2017,6/7/2017,Wednesday,Weekday,Male,,Yes,155.75,384,1,0,0,No,#VALUE!,13,7,74,Nairobi,,,,,illness,Yes,Yes,Female,,,,,Lawyer,5/31/2017,5/25/2017,1,6
+George Gachoka Kanyoni,5/31/2017,5/25/2017,6/2/2017,Friday,Weekday,Male,73,Yes,217.35,240,6,3,0,No,#VALUE!,8,2,15,Kiambu,,Nairobi,,32,illness,Yes,No,Female,,Kenyatta University,,,Director,5/31/2017,5/25/2017,1,6
+Fortunata Njoki,2/24/2017,2/20/2017,2/28/2017,Tuesday,Weekday,Female,,Yes,68.53,218,6,0,0,No,#VALUE!,8,4,7,Nyeri,,Nyeri,,0,illness,Yes,Yes,Male,,Nyeri Funeral Home,,,,2/24/2017,2/20/2017,1,4
+Eliud Murimi Nganga,2/24/2017,2/21/2017,2/28/2017,Tuesday,Weekday,Male,,Yes,111.25,293,5,0,0,Yes,#VALUE!,7,4,19,Kiambu,,Kiambu,,0,illness,Yes,Yes,Female,,General Kago Funeral Home,,,,2/24/2017,2/21/2017,1,3
+Anne Wangari Kinyenje,2/24/2017,1/24/2017,3/2/2017,Thursday,Weekday,Female,,Yes,160.65,294,5,0,0,No,#VALUE!,37,6,26,Kiambu,Abroad,,,,illness,Yes,No,Female,,,,,,2/24/2017,1/24/2017,1,31
+Ann Koskei,2/24/2017,2/21/2017,2/25/2017,Saturday,Weekend,Female,,Yes,56.07,281,6,3,0,No,#VALUE!,4,1,21,Kericho,Kericho,Kericho,0,0,illness,Yes,No,Male,Kericho Nursing Hospital,Lazarus Funeral Home,No,,,2/24/2017,2/21/2017,1,3
+Brij Mohanlal Mahan,2/24/2017,2/17/2017,3/15/2017,Friday,Weekday,Male,,Yes,111.25,156,3,0,0,No,#VALUE!,26,19,15,Abroad,Abroad,,,,illness,Yes,Yes,Female,,,,,,2/24/2017,2/17/2017,1,7
+Ruth Talaa Rotich,2/24/2017,2/18/2017,3/1/2017,Wednesday,Weekday,Female,65,Yes,111.25,284,8,3,0,No,#VALUE!,11,5,22,Baringo,,Baringo,,0,illness,Yes,Yes,Male,,Baringo County Mortuary,,,,2/24/2017,2/18/2017,1,6
+Johnson Nyapara Kiaga,2/24/2017,12/2/2017,3/2/2017,Thursday,Weekday,Male,,Yes,56.07,272,8,0,0,Yes,#VALUE!,18,6,35,Migori,Migori,Migori,0,0,illness,Yes,Yes,Female,Ojele Memorial Hospital,Ombo Mission Hospital Mortuary,No,,,2/24/2017,12/2/2017,1,45
+Jared Ongeri,2/24/2017,2/17/2017,3/3/2017,Friday,Weekday,Male,37,Yes,217.35,121,0,0,0,No,#VALUE!,14,7,4,Trans Nzioa,,Transzoia,,0,illness,No,,,,Cherengany Nursing Home,,,,2/24/2017,2/17/2017,1,7
+Sospeter Karanja Kamuyu,2/24/2017,2/19/2017,3/1/2017,Wednesday,Weekday,Male,,Yes,56.07,144,4,0,0,No,#VALUE!,10,5,5,Kiambu,,Nairobi,,32,illness,Yes,Yes,Female,,Kenyatta University,,,,2/24/2017,2/19/2017,1,5
+Esther Nanjala Ndirangu,2/24/2017,2/18/2017,2/28/2017,Tuesday,Weekday,Female,,Yes,85.44,329,3,0,0,No,#VALUE!,10,4,24,Nakuru,,Nakuru,,0,Accident,Yes,Yes,Male,,Umash Nairobi,,,,2/24/2017,2/18/2017,1,6
+Peter Kiptanui Chemwor,2/24/2017,2/21/2017,3/4/2017,Saturday,weekend,Male,83,Yes,217.35,223,17,0,0,No,#VALUE!,11,8,58,Nandi,,Nairobi,,308,illness,Yes,Yes,Female,,Umash Nairobi,,,,2/24/2017,2/21/2017,1,3
+Francis Nguru Kinuthia,2/24/2017,1/31/2017,,,,Male,96,Yes,56.07,269,0,0,0,No,#VALUE!,11/27/1782,"-43,027",54,,,,,,,,,,,,,,,2/24/2017,1/31/2017,0,24
+Elizabeth Susan Amoke,2/24/2017,12/2/2017,2/24/2017,Friday,Weekday,Female,53,Yes,85.44,267,3,0,0,No,#VALUE!,12,0,30,Homa Bay,,Kisumu,,210,illness,Yes,Yes,Male,,Aga Khan Hospital Mortuary,,,Teacher,2/24/2017,12/2/2017,1,25
+Beatrice Gathigia Gathiru,2/24/2017,2/19/2017,2/28/2017,Tuesday,Weekday,Female,,Yes,56.07,176,6,0,0,No,#VALUE!,9,4,5,Nyeri,Nakuru,Nyeri,320,0,illness,Yes,No,Male,St.Marys Hospital,Jamii Funeral Home,,,,2/24/2017,2/19/2017,1,5
+Rita Inamani Musinzi,2/24/2017,9/2/2017,2/25/2017,Saturday,Weekend,Female,75,Yes,85.44,74,11,2,0,No,#VALUE!,16,1,30,Kakamega,Kakamega,,0,,illness,Yes,No,Male,Mukumu Mission Hospital,,,,,2/24/2017,9/2/2017,1,5
+Esther Njeri Njenga,2/24/2017,2/21/2017,2/28/2017,Tuesday,Weekday,Female,97,Yes,155.75,472,13,5,11,Yes,#VALUE!,7,4,78,Nakuru,,,,,illness,Yes,No,Male,,,,,,2/24/2017,2/21/2017,1,3
+Vincent Lukorito Changalwa,2/24/2017,2/19/2017,2/25/2017,Friday,Weekday,Male,77,Yes,85.44,274,9,0,0,No,#VALUE!,6,1,24,Bungoma,,,,,illness,Yes,Yes,Female,,,,,,2/24/2017,2/19/2017,1,5
+Joyce Wambui Kibugi,2/24/2017,2/16/2017,2/28/2017,Tuesday,Weekday,Female,49,Yes,147.74,166,3,1,0,Yes,#VALUE!,12,4,11,Kiambu,,Nairobi,,32,illness,Yes,Yes,Male,,Kenyatta University,,,Salesperson,2/24/2017,2/16/2017,1,8
+Christopher Kigen Changwony,2/24/2017,10/2/2017,2/25/2017,Friday,Weekday,Male,100,Yes,56.07,229,12,7,6,No,#VALUE!,15,1,74,Baringo,,Nakuru,,56,illness,Yes,No,Female,,Egerton Funeral Home,,,,2/24/2017,10/2/2017,1,25
+Obadia Muanza Muleu,2/24/2017,10/2/2017,2/28/2017,Tuesday,Weekday,Male,60,Yes,56.07,156,4,0,0,No,#VALUE!,18,4,13,Machakos,,,,,illness,Yes,Yes,Female,,,,,Teacher,2/24/2017,10/2/2017,1,16
+Alexander Kiprotich Keben,2/24/2017,2/17/2017,2/25/2017,Friday,Weekday,Male,,Yes,56.07,204,15,0,0,No,#VALUE!,8,1,36,Uasin Gishu,Uasin Gishu,Uasin Gishu,0,0,illness,Yes,No,Female,Moi Teaching And Refferal Hospital,Moi Teaching And Refferal Hospital Mortuary,Yes,,Teacher,2/24/2017,2/17/2017,1,7
+Frederick Ngandi Musyimi,2/24/2017,1/2/2017,,,,Male,,Yes,111.25,206,,,,Yes,#VALUE!,11/26/1782,"-43,027",,,,,,,,,,,,,,,,2/24/2017,1/2/2017,0,53
+Priscah Auma Ogada,8/2/2017,4/2/2017,2/18/2017,Saturday,Weekend,Female,,Yes,56.07,267,7,2,0,Yes,122,14,10,18,Kisumu,Kisumu,Kisumu,0,0,illness,Yes,Yes,Male,Kisumu Specialist Hospital,Aga Khan Hospital Mortuary,No,,,8/2/2017,4/2/2017,1,122
+Jane Nyakinyua Thuku,8/2/2017,3/2/2017,2/10/2017,Friday,Weekday,Female,83,Yes,56.07,206,12,0,0,No,153,7,2,11,Murang'a,,Muranga,,0,illness,Yes,No,Male,,Muranga County Mortuary,,,,8/2/2017,3/2/2017,1,153
+Monica Wambui Wainaina,8/2/2017,3/2/2017,2/10/2017,Friday,Weekday,Female,45,Yes,56.07,199,2,0,0,No,153,7,2,26,Kiambu,,Nairobi,,32,illness,Yes,Yes,Male,,Kenyatta University,,,,8/2/2017,3/2/2017,1,153
+Peter Nduru Wambu,8/2/2017,3/2/2017,2/10/2017,Friday,Weekday,Male,,Yes,68.53,167,4,0,0,No,153,7,2,12,Kiambu,,Kiambu,,0,illness,Yes,Yes,Female,,PCEA Kikuyu Hospital Mortuary,,,,8/2/2017,3/2/2017,1,153
+Francis Muriithi Rufus,8/2/2017,1/31/2017,2/9/2017,Thursday,Weekday,Male,76,Yes,56.07,169,8,2,0,No,#VALUE!,9,1,12,Murang'a,,Muranga,,0,illness,Yes,Yes,Female,,Githumu Hospital Mortuary,,,,8/2/2017,1/31/2017,1,183
+Esther Kanyimba Waweru,8/2/2017,2/2/2017,2/10/2017,Friday,Weekday,Female,,Yes,68.53,203,6,0,0,Yes,181,8,2,18,,,,,,illness,Yes,Yes,Male,,ACK Mt. Kenya mortuary,,,,8/2/2017,2/2/2017,1,181
+Theophilus Wambua Muthami,8/2/2017,1/30/2017,2/11/2017,Saturday,Weekend,Male,,Yes,68.53,227,2,0,0,Yes,#VALUE!,12,3,18,Kitui,Nairobi,Nairobi,133,133,illness,Yes,Yes,Female,Nairobi Womens Hospital,Nairobi Womens Hospital,Yes,,barber,8/2/2017,1/30/2017,1,184
+J.Francis Ndungu Macharia,8/2/2017,3/2/2017,2/10/2017,Friday,Weekday,Male,,Yes,85.44,194,8,0,0,No,153,7,2,18,Nakuru,,Nakuru,,0,illness,Yes,Yes,Female,,Uplands Funeral Home,,,Businessman,8/2/2017,3/2/2017,1,153
+Ngungui Kiio,8/2/2017,3/2/2017,2/11/2017,Saturday,Weekend,Male,,Yes,56.07,151,4,0,0,No,153,8,3,21,Kitui,Nairobi,Nairobi,133,133,illness,Yes,Yes,Female,Karen Hospital,Montezuma Nairobi,No,,,8/2/2017,3/2/2017,1,153
+Rose Munee Munyao,8/2/2017,1/2/2017,2/10/2017,Friday,Weekday,Female,73,Yes,56.07,245,3,1,0,Yes,212,9,2,48,Machakos,,Machakos,,0,illness,Yes,No,Male,,Montezuma Nairobi,,,,8/2/2017,1/2/2017,1,212
+Esther Salama Ngumbao,8/2/2017,6/2/2017,2/11/2017,Saturday,Weekend,Female,28,Yes,85.44,238,0,0,0,Yes,61,5,3,12,Mombasa,Mombasa,Mombasa,0,0,illness,No,,,Aga Khan Hospital,Umash Nairobi,No,,,8/2/2017,6/2/2017,1,61
+Titus Mutemi Kitho,8/2/2017,1/30/2017,2/11/2017,Saturday,Weekend,Male,62,Yes,56.07,126,5,0,0,No,#VALUE!,12,3,19,Kitui,,,,,illness,Yes,Yes,Female,,,,,,8/2/2017,1/30/2017,1,184
+James Mutungi Mangendi,8/2/2017,1/2/2017,2/11/2017,Saturday,Weekend,Male,,Yes,56.07,241,3,0,0,Yes,212,10,3,10,Machakos,,Machakos,,0,Accident,Yes,Yes,Female,,Montezuma Nairobi,,,,8/2/2017,1/2/2017,1,212
+Richard Okelo Nyamwalo,8/2/2017,4/2/2017,2/18/2017,Saturday,Weekend,Male,,Yes,111.25,173,8,0,0,Yes,122,14,10,16,Siaya,,,,,illness,Yes,Yes,Female,,,,,,8/2/2017,4/2/2017,1,122
+Peter Muchai Mwenja,8/2/2017,2/2/2017,2/10/2017,Friday,Weekday,Male,,No,56.07,247,2,0,0,Yes,181,8,2,9,Nairobi,,Nairobi,,0,illness,Yes,Yes,Female,,Chiromo,,,,8/2/2017,2/2/2017,1,181
+Jedidah John Musyoni Mutisya,8/2/2017,4/2/2017,2/11/2017,Saturday,Weekend,Female,,Yes,111.25,256,9,0,0,Yes,122,7,3,19,Kitui,,Nairobi,,133,illness,Yes,No,Male,,Montezuma Nairobi,,,,8/2/2017,4/2/2017,1,122
+Grace Natasha Njoki Ndiritu,8/2/2017,5/2/2017,2/10/2017,Friday,Weekday,Female,19,Yes,217.35,131,0,0,5,No,92,5,2,19,Nyandarua,,Nairobi,,250,illness,No,,,,Getrude Childrens Hospital,,,,8/2/2017,5/2/2017,1,92
+Abigael Kemunto Matwere,8/2/2017,1/30/2017,2/10/2017,Friday,Weekday,Female,87,Yes,56.07,246,9,0,0,No,#VALUE!,11,2,103,Nyamira,,Nairobi,,410,illness,Yes,No,Male,,Kenyatta University,,,,8/2/2017,1/30/2017,1,184
+Anne Mwikali Matolo,8/2/2017,1/22/2017,2/11/2017,Saturday,Weekend,Female,57,Yes,56.07,186,3,0,0,No,#VALUE!,20,3,31,Makueni,Kajiado,Makueni,120,0,illness,No,,,Kitengela Medical Hospital,Shalom Funeral Home,No,,,8/2/2017,1/22/2017,1,192
+Francis Nganga Kagiri,8/2/2017,5/2/2017,2/10/2017,Friday,Weekday,Male,,Yes,85.44,184,4,0,0,No,92,5,2,17,Murang'a,,Nairobi,,189,illness,Yes,Yes,Female,,Kenyatta University,,,,8/2/2017,5/2/2017,1,92
+Duncan Kimenyi Mbuthia,8/2/2017,12/23/2016,,,,Male,76,Yes,56.07,122,1,0,0,No,#VALUE!,"-42,611",11/19/1782,11,,Abroad,,,,illness,Yes,Yes,Female,,,,,,8/2/2017,12/23/2016,0,222
+Irene Mbithe Kioko,8/2/2017,1/29/2017,2/10/2017,Friday,Weekday,Female,26,Yes,85.44,241,0,0,0,Yes,#VALUE!,12,2,39,Machakos,,Nairobi,,32,Accident,No,,,,Kenyatta University,,,,8/2/2017,1/29/2017,1,185
+Lawrence Otege Obura,8/2/2017,1/19/2017,2/10/2017,Friday,Weekday,Male,60,Yes,85.44,319,10,3,0,No,#VALUE!,22,2,26,Kisumu,Nairobi,,467,,illness,Yes,Yes,Female,Aga Khan Hospital,,,,Businessman,8/2/2017,1/19/2017,1,195
+Benard Mungai Njoroge,4/7/2017,4/4/2017,4/10/2017,Monday,Weekday,Male,,yes,55.44,117,3,1,12,No,3,3,6,3,Nakuru,Nakuru,Nakuru,0,0,,yes,Yes,Female,Mediheal hospital nakuru,P.N.N funeral home,no,,,4/7/2017,4/4/2017,1,3
+Jefferson mutie,4/7/2017,3/28/2017,4/8/2017,Saturday,Weekend,Male,29,no,64.8,201,0,0,,Yes,#VALUE!,10,11,1,Kitui,Nairobi,Nairobi,175,175,ilness,no,,,Mater hospital,MATER HOSP MORTUARY,Yes,,,4/7/2017,3/28/2017,1,10
+joseh wandimi,4/7/2017,11/4/2017,4/5/2017,Tuesday,weekday,Male,72,yes,55.44,134,0,0,19,Yes,-211,-4,-6,-2,Nyeri,Nyeri,,0,0,,yes,Yes,Female,,,,,,4/7/2017,11/4/2017,1,21
+gladys muthoni,4/7/2017,4/4/2017,4/8/2017,saturday,weekend,Female,59,yes,109.12,370,4,0,7,Yes,3,3,4,1,Nyeri,Nairobi,Nairobi,151,151,illness,yes,Yes,Male,Kenyatta national hosp,KNH mortuary,yes,,,4/7/2017,4/4/2017,1,3
+robert momanyi,4/7/2017,2/4/2017,4/11/2017,Tuesday,Weekday,Male,,yes,112.64,325,4,3,54,Yes,62,5,9,4,Nyeri,,Nyeri,0,0,,yes,No,Female,,Nyeri funeral home,,,,4/7/2017,2/4/2017,1,62
+Patrick Mutinda,4/7/2017,1/4/2017,4/8/2017,saturday,weekend,Male,31,yes,55.18,134,0,0,13,No,93,6,7,1,Nakuru,Mombasa,Mombasa,643,643,illness,no,,,Pandya hospital mombasa,,,,sacco,4/7/2017,1/4/2017,1,93
+Alex Kinyajui,4/7/2017,2/4/2017,4/12/2017,Wednesday,weekday,Male,53,yes,57.6,213,2,0,10,Yes,62,5,10,5,Kiambu,Nairobi,Nairobi,29,29,illness,,,,St Marys Hospital,Kenyatta university mortuary,no,,,4/7/2017,2/4/2017,1,62
+Jefferson mutie,4/6/2017,3/28/2017,4/8/2017,Saturday,Weekend,Male,29,no,64.8,201,0,0,,Yes,#VALUE!,9,11,2,Kitui,Nairobi,Nairobi,175,175,ilness,no,,,Mater hospital,MATER HOSP MORTUARY,YES,,,4/6/2017,3/28/2017,1,9
+martin kiplagat,4/6/2017,1/4/2017,4/7/2017,Friday,weekday,Male,29,yes,55.18,216,0,0,8,No,92,5,6,1,Trans Nzioa,,Transzoia,,0,road accident,no,,,,Cherangany nursing home,,,,4/6/2017,1/4/2017,1,92
+Fredrick Oruru,4/6/2017,3/25/2017,4/7/2017,Friday,weekday,Male,,yes,55.18,147,3,0,8,No,#VALUE!,12,13,1,Kisii,,Nairobi,,351,,yes,Yes,Female,,Chiromo,,,,4/6/2017,3/25/2017,1,12
+Peter kimathi,4/6/2017,1/4/2017,4/8/2017,Saturday,weekend,Male,50,yes,110,355,1,0,12,Yes,92,5,7,2,Meru,Nairobi,Nairobi,225,225,illness,,,,Nairobi hospital,Lee funeral home,no,,,4/6/2017,1/4/2017,1,92
+Enice Katanu,4/6/2017,4/4/2017,4/13/2017,Thursday,weekday,Female,,yes,110,388,4,0,20,Yes,2,2,9,7,Machakos,Nairobi,,63,,ilness,yes,Yes,Male,Nairobi hospital,,,,,4/6/2017,4/4/2017,1,2
+Thomas Omondi,4/6/2017,3/23/2017,4/8/2017,Saturday,weekend,Male,54,yes,56.32,194,6,0,47,Yes,#VALUE!,14,16,2,Kisumu,Kisumu,Kisumu,0,0,,yes,Yes,Female,Agakhan hospital Kisumu,Aghakhan hospital mortuary,yes,,teacher,4/6/2017,3/23/2017,1,14
+George Obadiah,4/6/2017,3/29/2017,4/17/2017,Monday,weekday,Male,,yes,56.32,396,5,0,26,Yes,#VALUE!,8,19,11,Migori,Migori,,0,,illness,yes,Yes,Female,Ombo mission hospital,,,,,4/6/2017,3/29/2017,1,8
+Christine Oteche,4/6/2017,3/26/2017,4/8/2017,Saturday,weekend,Female,73,yes,56.32,317,7,3,47,No,#VALUE!,11,13,2,Kisumu,,,,,,yes,No,Male,,Star hospital mortuary,,,,4/6/2017,3/26/2017,1,11
+Rhoda Wairimu,4/6/2017,1/4/2017,4/7/2017,Friday,weekday,Female,,yes,83.6,398,10,4,25,No,92,5,6,1,Kirinyaga,Kirinyaga,Kirinyaga,0,0,,yes,Yes,Male,,Jamii nursing home,,,,4/6/2017,1/4/2017,1,92
+Irene Kananu,4/6/2017,3/31/2017,4/10/2017,Sunday,weekend,Female,32,yes,83.6,153,0,0,7,No,#VALUE!,6,10,4,Meru,Meru,Meru,0,0,,,,,,Meru funeral home,,,HR manager,4/6/2017,3/31/2017,1,6
+Linda Njoki,4/6/2017,3/23/2017,4/11/2017,Monday,weekday,Female,,yes,83.6,142,0,0,12,No,#VALUE!,14,19,5,Nyandarua,Abroad,Nakuru,,89,,,,,,Umash Nairobi,,,,4/6/2017,3/23/2017,1,14
+Janet kanin iikua,4/6/2017,1/4/2017,4/8/2017,Saturday,weekend,Female,,yes,438.4,401,2,0,16,No,92,5,7,2,Nyeri,Nairobi,Nairobi,112,0,cancer,,,,,Montezuma Nairobi,,,,4/6/2017,1/4/2017,1,92
+Lydia njamiu,4/6/2017,3/4/2017,4/11/2017,Monday,weekday,Female,72,yes,64.08,169,6,2,28,No,33,3,8,5,Murang'a,Nairobi,Nairobi,88,88,illness,yes,Yes,Male,,Kenyatta university mortuary,,,,4/6/2017,3/4/2017,1,33
+Elijah Mangaa,4/6/2017,4/30/2017,4/7/2017,Friday,Weekday,Male,54,yes,56.32,302,4,0,16,No,#VALUE!,-24,-23,1,Kisii,Naivasha,,261,,road accident,yes,Yes,Female,,Hema Hospital mortuary,,,,4/6/2017,4/30/2017,1,4
+Priscilla Menya,4/6/2017,3/31/2017,4/13/2017,Wednesday,Weekday,Female,,yes,82.99,338,9,0,58,Yes,#VALUE!,6,13,7,Bungoma,Nairobi,,408,,illness,yes,Yes,Male,Nairobi women's Adam Arcade,,,,,4/6/2017,3/31/2017,1,6
+Godwin mwagae,4/6/2017,3/29/2017,4/8/2017,Saturday,Weekend,Male,49,yes,111.25,177,2,0,16,No,#VALUE!,8,10,2,Nakuru,,,,,illness,yes,Yes,Female,,Umash Nairobi,,,CEO,4/6/2017,3/29/2017,1,8
+Jackline Onkundi,5/8/2017,4/30/2017,5/11/2017,Thursday,Weekday,Female,,yes,56.32,100,3,0,22,Yes,#VALUE!,8,11,3,Nyamira,,Nairobi,324,,,no,,,,KNH mortuary,,,,5/8/2017,4/30/2017,1,8
+Peterwako,5/8/2017,4/27/2017,5/12/2017,Friday,Weekday,Male,,yes,56.32,124,2,0,46,Yes,#VALUE!,11,15,4,Kisii,,Nairobi,,361,road accident,yes,Yes,Female,,Umash Nairobi,,,,5/8/2017,4/27/2017,1,11
+Ezekiel Onyancha,5/8/2017,4/26/2017,5/11/2017,Thursday,Weekday,Male,,yes,69.42,383,4,0,56,No,#VALUE!,12,15,3,Nyamira,Machakos,Nairobi,386,324,illness,yes,Yes,Female,Athiriver shalom hosp,Umash Nairobi,,,,5/8/2017,4/26/2017,1,12
+Esther Muthoni,5/8/2017,3/5/2017,5/12/2017,Friday,Weekday,Female,,yes,110.36,158,4,0,31,No,64,5,9,4,Murang'a,Nairobi,Nairobi,88,88,,yes,No,Male,,Kenyatta University,,,,5/8/2017,3/5/2017,1,64
+Christine Mutindi,5/8/2017,1/5/2017,5/10/2017,Wednesday,Weekday,Female,,yes,69.42,423,0,0,21,No,123,7,9,2,Machakos,Nairobi,Nairobi,63,63,illness,no,,,Kenyatta national hosp,Kenyatta University,,,,5/8/2017,1/5/2017,1,13
+Onesmus Mutua,5/8/2017,4/29/2017,5/11/2017,Thursday,Weekday,Male,,yes,69.42,120,10,0,21,Yes,#VALUE!,9,12,3,Machakos,Machakos,Machakos,0,0,illness,yes,Yes,Female,Bishop Kioko Hosp Mks,Machakos Funeral home,,,Reverend,5/8/2017,4/29/2017,1,9
+Mary Aoko,5/8/2017,4/28/2017,5/11/2017,Thursday,Weekday,Female,,yes,84.48,429,8,0,31,No,#VALUE!,10,13,3,Siaya,,,,,illness,yes,No,Male,,,,,,5/8/2017,4/28/2017,1,10
+Catherine Taabu,5/8/2017,4/30/2017,5/13/2017,Saturday,Weekend,Female,,yes,84.48,261,1,0,20,Yes,#VALUE!,8,13,5,Kitui,Nairobi,Nairobi,175,175,illness,yes,Yes,Male,,Kenyatta University,,,,5/8/2017,4/30/2017,1,8
+Ruth Jerusio,5/8/2017,1/5/2017,5/11/2017,Thursday,Weekday,Female,,yes,56.32,399,2,0,30,Yes,123,7,10,3,Vihiga,,,,,,yes,Yes,Male,,Kaimosi funeral home,,,,5/8/2017,1/5/2017,1,123
+Eliabeth Wanjiku,5/8/2017,4/30/2017,5/9/2017,Tuesday,Weekday,Female,,yes,112.5,304,5,0,29,No,#VALUE!,8,9,1,Kiambu,Nairobi,Nairobi,22,22,,yes,No,Male,,Lee funeral home,,,,5/8/2017,4/30/2017,1,8
+James Magugu,5/8/2017,1/5/2017,5/10/2017,Wednesday,Weekday,Male,,yes,56.32,294,5,0,24,No,123,7,9,2,Laikipia,Nyahururu,Nyahururu,0,0,,yes,Yes,Female,Nyahururu referral hosp,,,,,5/8/2017,1/5/2017,1,13
+Florence Wamaitha,5/8/2017,1/5/2017,5/9/2017,Tuesday,Weekday,Female,40,yes,56.32,156,1,0,25,No,123,7,8,1,Kirinyaga,Nairobi,Nairobi,119,119,,yes,Yes,Male,,Montezuma Nairobi,,,,5/8/2017,1/5/2017,1,13
+Mary auma,5/8/2017,4/27/2017,5/13/2017,Saturday,Weekend,Female,61,no,56.32,109,14,0,47,No,#VALUE!,11,16,5,Homa Bay,,,,,,yes,Yes,Male,,,,,,5/8/2017,4/27/2017,1,11
+Grace Muthoni,5/8/2017,3/5/2017,5/10/2017,Wednesday,Weekday,Female,,yes,56.32,206,7,1,18,No,64,5,7,2,Kirinyaga,,Kirinyaga,,0,,yes,No,Male,,Kabugi funeral home,,,,5/8/2017,3/5/2017,1,64
+Elizabeth Amakobe,5/8/2017,4/30/2017,5/9/2017,Tuesday,Weekday,Female,,yes,153.12,377,0,0,28,Yes,#VALUE!,8,9,1,Kakamega,Uasin Gishu,,93,,illness,,,,Moi Teaching and Referral Eld,,,,,5/8/2017,4/30/2017,1,8
+Beatrice Kamwende,5/8/2017,4/5/2017,5/12/2017,Friday,Weekday,Female,,yes,85.44,428,3,0,40,No,33,4,8,4,Nyeri,,Nairobi,,151,,yes,Yes,Male,,Kenyatta University,,,,5/8/2017,4/5/2017,1,33
+Joseph Wandimi,4/8/2017,5/4/2017,4/11/2017,Thursday,Weekday,Male,72,yes,56.32,207,6,0,25,No,-26,3,6,3,Nyeri,,Nairobi,,151,illness,yes,Yes,Female,,Kenyatta University,,,,4/8/2017,5/4/2017,1,6
+Mary Waithiegeni,4/8/2017,3/4/2017,,,,Female,,yes,218.7,216,2,0,15,Yes,35,5,"-42,828","-42,833",Nakuru,Nakuru,,,,,yes,Yes,Male,,,,,Conservator,4/8/2017,3/4/2017,0,35
+Francis Kanda,4/7/2017,3/28/2017,4/8/2017,Saturday,Weekend,Male,,yes,56.32,134,7,0,9,No,#VALUE!,10,11,1,Elgeyo Marakwet,,,,,,yes,Yes,Female,,,,,QASO,4/7/2017,3/28/2017,1,10
+Eunice Katanu,4/7/2017,4/4/2017,4/13/2017,Thursday,weekday,Female,,yes,110,194,4,0,20,Yes,3,3,9,6,Machakos,Nairobi,,63,,ilness,yes,Yes,Male,Nairobi hospital,,,,,4/7/2017,4/4/2017,1,3
+Duncan Kabubi,4/7/2017,4/4/2017,4/13/2017,Thursday,Weekday,Male,,yes,56.32,285,6,0,15,No,3,3,9,6,Nyeri,Nyeri,Nyeri,0,0,illness,yes,Yes,Female,,Jamii nursing home,,,,4/7/2017,4/4/2017,1,3
+Samuel Kashao,4/7/2017,5/4/2017,,,,Male,,yes,214.4,272,0,0,0,No,-27,2,"-42,830","-42,832",Kajiado,Nairobi,,20,,illness,,,,Nairobi hospital,,,,,4/7/2017,5/4/2017,0,5
+Margaret Waziri,4/7/2017,2/4/2017,4/8/2017,Saturday,Weekend,Female,74,yes,56.32,201,5,3,24,No,62,5,6,1,Kisumu,Kisumu,Kisumu,0,0,illness,yes,No,Male,Agakhan hospital Kisumu,Agakhan hosp mortuary kisumu,yes,,,4/7/2017,2/4/2017,1,62
+Nelson Ombogi,4/7/2017,3/4/2017,4/10/2017,Sunday,Weekend,Male,,yes,68.64,223,0,0,47,No,34,4,7,3,Kisii,Nairobi,Nakuru,305,243,illness,no,,,Kenyatta National Hosp,Nakuru War Memorial mortuary,no,,,4/7/2017,3/4/2017,1,34
+Wilfred Chemobo,4/7/2017,3/26/2017,4/8/2017,Saturday,Weekend,Male,77,yes,68.64,445,6,2,36,No,#VALUE!,12,13,1,Uasin Gishu,Nairobi,Nairobi,219,219,road accident,yes,Yes,Female,Kenyatta National Hosp,KNH mortuary,yes,,,4/7/2017,3/26/2017,1,12
+Eric Nthiwa,4/27/2017,4/20/2017,4/29/2017,Saturday,Weekend,Male,42,yes,109.8,271,2,0,10,No,#VALUE!,7,9,2,Makueni,Nairobi,Machakos,123,67,illness,yes,Yes,Female,Nairobi West Hospital,Montezuma funeral home Machakos,no,,Director,4/27/2017,4/20/2017,1,7
+agnes kavetsa,4/27/2017,4/20/2017,4/28/2017,Friday,Weekday,Female,,yes,56.32,132,2,2,11,No,#VALUE!,7,8,1,,,,,,illness,,,,MTRH,MTRH Farewell home,,,,4/27/2017,4/20/2017,1,7
+Gad Gikonyo,4/27/2017,4/21/2017,4/28/2017,Friday,Weekday,Male,100,yes,56.32,301,9,0,9,No,#VALUE!,6,7,1,Kiambu,Kiambu,Kiambu,0,0,,yes,Yes,Female,,Bishop Okoye funeral home,,,Bishop,4/27/2017,4/21/2017,1,6
+Fanice Ramwenya,4/27/2017,4/21/2017,4/27/2017,Thursday,Weekday,Female,,no,56.32,236,5,0,13,Yes,#VALUE!,6,6,0,,,,,,,yes,Yes,Male,,,,,Nurse,4/27/2017,4/21/2017,1,6
+Petronilla Njoki,4/27/2017,4/24/2017,5/2/2017,Tuesday,Weekday,Female,81,yes,110,421,6,0,28,No,#VALUE!,3,8,5,Murang'a,,Nairobi,,51,,yes,Yes,Male,,Kenyatta University,,,Teacher,4/27/2017,4/24/2017,1,3
+Dickson Simiyu,4/27/2017,4/17/2017,4/27/2017,Thursday,Weekday,Male,,yes,110,151,2,0,11,No,#VALUE!,10,10,0,Bungoma,Nakuru,,,251,illness,yes,Yes,Female,Evans Sunrise hosp Nakuru,,,,,4/27/2017,4/17/2017,1,10
+Hosea Isige,4/27/2017,4/22/2017,5/1/2017,Monday,Weekday,Male,89,yes,126.72,235,9,2,36,Yes,#VALUE!,5,9,4,Trans Nzioa,,,,,,yes,Yes,Female,,,,,,4/27/2017,4/22/2017,1,5
+Hellen Njeri,4/27/2017,4/25/2017,5/1/2017,Monday,Weekday,Female,77,yes,110,159,12,2,13,Yes,#VALUE!,2,6,4,Embu,Nairobi,Embu,125,0,cancer,,,,Aga Khan Hospital,Gakwegori Funeral home,,,,4/27/2017,4/25/2017,1,2
+Miriam Murugi,4/27/2017,4/21/2017,5/2/2017,Tuesday,Weekday,Female,,yes,56.32,265,5,1,27,Yes,#VALUE!,6,11,5,Mombasa,Mombasa,Mombasa,0,0,illness,yes,Yes,Male,,Pandya Hospital mortuary,,,,4/27/2017,4/21/2017,1,6
+Caroline Wanjiku,4/27/2017,4/19/2017,4/28/2017,Friday,Weekday,Female,39,yes,56.32,262,1,0,13,No,#VALUE!,8,9,1,Murang'a,,Nairobi,,51,,,,,,Kenyatta University,,,Doctor,4/27/2017,4/19/2017,1,8
+Davis Kilonzo,4/27/2017,4/17/2017,4/29/2017,Saturday,Weekend,Male,63,yes,56.32,273,5,0,14,Yes,#VALUE!,10,12,2,Makueni,Makueni,Makueni,0,0,,yes,Yes,Female,,Makueni funeral home,,,Principal,4/27/2017,4/17/2017,1,10
+Richard George,4/27/2017,4/17/2017,4/28/2017,Friday,Weekday,Male,,no,56.32,201,6,0,41,No,#VALUE!,10,11,1,Kisii,Uasin Gishu,Uasin gishu,222,222,illness,yes,Yes,Female,MTRH Eldoret,MTRH Farewell home,yes,,,4/27/2017,4/17/2017,1,10
+Phoebe Sayo,4/27/2017,4/24/2017,4/29/2017,Saturday,Weekend,Female,94,yes,56.32,249,6,1,2,No,#VALUE!,3,5,2,Vihiga,Kisumu,Kisumu,23,23,illness,,,,Avenue Nursing Home Kisumu,St. Monica hospital mortuary,no,,,4/27/2017,4/24/2017,1,3
+Charles Edward,4/27/2017,4/22/2017,5/6/2017,saturday,weekend,Male,,yes,110,392,8,4,29,Yes,#VALUE!,5,14,9,Siaya,,,,,,yes,Yes,Female,,,,,,4/27/2017,4/22/2017,1,5
+Joyce Moraa,4/27/2017,4/17/2017,4/27/2017,Thursday,weekday,Female,,yes,72.16,109,5,0,67,No,#VALUE!,10,10,0,Kisii,,Kisii,,0,,yes,No,Male,,Hema Hosp mortuary,,,,4/27/2017,4/17/2017,1,10
+John Kyalo,5/18/2017,11/5/2017,5/20/2017,saturday,weekend,Male,55,yes,56.32,139,1,0,43,Yes,-171,7,9,2,Kitui,,Machakos,,98,,yes,Yes,Female,,Montezuma Nairobi,,,,5/18/2017,11/5/2017,1,5
+Wilfred Nzioka,5/18/2017,11/5/2017,5/20/2017,saturday,weekend,Male,69,,66.88,185,4,0,26,No,-171,7,9,2,Machakos,,Machakos,,0,illness,yes,Yes,Female,,Montezuma Nairobi,,,,5/18/2017,11/5/2017,1,5
+Rebecca Chanya,5/18/2017,8/5/2017,5/20/2017,saturday,weekend,Female,,yes,110,436,5,0,1,No,-79,10,12,2,Kilifi,,,,,,yes,No,Male,,,,,,5/18/2017,8/5/2017,1,5
+Jane Syokwaa,5/18/2017,10/5/2017,5/19/2017,Friday,weekday,Female,75,yes,127.6,243,12,0,3,No,-140,8,9,1,Machakos,,Machakos,,0,,yes,No,Male,,Montezuma funeral home Machakos,,,,5/18/2017,10/5/2017,1,8
+Owen Collins,5/18/2017,7/5/2017,5/20/2017,Saturday,weekend,Male,65,yes,154,302,30,0,24,No,-48,11,13,2,,,,,,,yes,Yes,Female,,,,,,5/18/2017,7/5/2017,1,5
+Florence Tirindi,5/18/2017,5/13/2017,5/19/2017,Friday,weekday,Female,,yes,154,151,10,0,16,No,#VALUE!,5,6,1,Meru,,Nairobi,,319,,yes,No,Male,,Kenyatta University,,,,5/18/2017,5/13/2017,1,5
+Joshua samuel,5/18/2017,5/13/2017,5/26/2017,Friday,weekday,Female,,yes,154,424,8,0,26,Yes,#VALUE!,5,13,8,Siaya,,Nairobi,,464,,yes,Yes,Female,,,,,,5/18/2017,5/13/2017,1,5
+Magdalene Mambiri,5/18/2017,11/5/2017,5/18/2017,Thursday,weekday,Female,39,yes,56.32,109,0,0,8,Yes,-171,7,7,0,Kakamega,,Nairobi,,359,,no,,,,Umash Nairobi,,,Advocate,5/18/2017,11/5/2017,1,6
+Fredrick Timonah,5/18/2017,5/13/2017,5/20/2017,Saturday,weekend,Male,65,yes,84.48,456,5,0,7,No,#VALUE!,5,7,2,Machakos,,Nairobi,,63,illness,yes,Yes,Female,Kenyatta national hospital,,,,,5/18/2017,5/13/2017,1,5
+Hannah Musiku,5/18/2017,8/5/2017,5/26/2017,Friday,weekday,Female,89,yes,56.32,233,11,0,57,Yes,-79,10,18,8,Machakos,Nairobi,Nairobi,63,63,illness,yes,No,Male,Kenyatta national hospital,Chiromo,,,,5/18/2017,8/5/2017,1,7
+Evans Kagera,5/18/2017,5/13/2013,5/23/2017,Tuesday,weekday,Male,,yes,56.32,262,6,0,10,No,#VALUE!,"1,466","1,471",5,Kajiado,,Nairobi,,35,illness,yes,Yes,Female,,Kenyatta hosp mortuary,,,,5/18/2017,5/13/2013,1,14
+Alice Kivwea,5/18/2017,5/14/2017,5/20/2017,Saturday,Weekend,Female,,yes,216,103,10,1,3,No,#VALUE!,4,6,2,Kitui,,Nairobi,,175,,yes,No,Male,,Lee funeral home,,,,5/18/2017,5/14/2017,1,4
+Peter Gitogo,5/18/2017,5/13/2017,5/20/2017,Saturday,Weekend,Male,57,yes,110,141,4,0,13,No,#VALUE!,5,7,2,Murang'a,,Nairobi,,51,illness,yes,Yes,Female,,Kenyatta University,,,,5/18/2017,5/13/2017,1,5
+Elizabeth Ann Awiti,5/18/2017,4/5/2017,5/20/2017,Saturday,Weekend,Female,63,yes,77.44,150,6,0,43,No,43,14,16,2,Kisumu,,Nairobi,,395,,yes,No,Male,,Montezuma Nairobi,,,,5/18/2017,4/5/2017,1,43
+Daniel Ngugi,5/18/2017,5/13/2017,5/23/2017,Tuesday,Weekday,Male,,yes,110,423,2,0,16,No,#VALUE!,5,10,5,Kiambu,,Nairobi,,20,illness,yes,No,Female,,Kenyatta University,,,Elder,5/18/2017,5/13/2017,1,5
+Grace Mwelu,5/18/2017,11/5/2017,5/20/2017,Saturday,Weekend,Female,,yes,56.32,169,9,0,10,No,-171,7,9,2,Machakos,,Nairobi,,63,,yes,No,Male,,Kenyatta University,,,,5/18/2017,11/5/2017,1,17
+Beatrice Wambeti,5/18/2017,5/13/2017,5/23/2017,Tuesday,Weekday,Female,,yes,56.32,221,2,0,20,No,#VALUE!,5,10,5,Kirinyaga,,Kirinyaga,,0,illness,yes,Yes,Male,,Mary Immaculate Hosp mortuary,,,,5/18/2017,5/13/2017,1,5
+Joseph Situma,5/18/2017,8/5/2017,5/20/2017,Saturday,Weekend,Male,72,yes,,255,8,4,43,Yes,-79,10,12,2,Bungoma,Uasin Gishu,Uasin gishu,102,102,illness,yes,Yes,Female,MTRH Eldoret,MTRH Eldoret,yes,,,5/18/2017,8/5/2017,1,-79
+George Kimani,5/18/2017,5/13/2017,5/20/2017,Saturday,Weekend,Male,,yes,56.32,214,18,0,15,No,#VALUE!,5,7,2,Murang'a,Murang'a,Kiambu,0,20,illness,yes,No,Female,Kenol Hospital,Bishop Okoye funeral home,no,,,5/18/2017,5/13/2017,1,5
+Margaret Atieno,5/11/2017,4/29/2017,5/13/2017,Saturday,Weekend,Female,36,yes,84.48,172,3,0,17,Yes,#VALUE!,12,14,2,Kisumu,Nairobi,,395,,illness,no,,,Kenyatta national hospital,,,,,5/11/2017,4/29/2017,1,12
+John Paul,5/11/2017,4/29/2017,5/12/2017,Friday,weekday,Male,,yes,84.48,223,4,0,33,No,#VALUE!,12,13,1,Kisumu,Kisumu,Kisumu,0,0,illness,yes,Yes,Female,,Star Hospital mortuary,,,,5/11/2017,4/29/2017,1,12
+Tom lempaa,5/11/2017,2/5/2017,5/12/2017,Friday,Weekday,Male,77,yes,158.4,323,9,0,61,No,95,9,10,1,Narok,Narok,Narok,0,0,,yes,Yes,Female,,Narok Hospital,,,,5/11/2017,2/5/2017,1,95
+William Kiambuthi,5/11/2017,9/5/2017,,,,Male,,yes,110,395,11,0,3,No,-117,2,"-42,864","-42,866",,,,,,,yes,Yes,Female,,,,,,5/11/2017,9/5/2017,0,11
+Stephen Uno,5/11/2017,7/5/2017,5/16/2017,Tuesday,Weekday,Male,,no,110,205,5,1,47,No,-55,4,9,5,,,,,,,yes,Yes,Female,,,,,,5/11/2017,7/5/2017,1,5
+Elizabeth Ann Awiti,5/11/2017,4/5/2017,5/20/2017,Saturday,Weekend,Female,63,yes,56.32,150,6,0,43,No,36,7,16,9,Kisumu,,Nairobi,,395,,yes,No,Male,,Montezuma Nairobi,,,,5/11/2017,4/5/2017,1,36
+Japheth Osia,5/11/2017,8/5/2017,5/13/2017,Saturday,Weekday,Male,,yes,56.32,325,2,0,20,No,-86,3,5,2,Abroad,,Kensington,,,,yes,Yes,Female,,,,,,5/11/2017,8/5/2017,1,5
+George koome,5/11/2017,8/5/2017,5/12/2017,Friday,Weekday,Male,85,yes,56.32,122,11,0,16,No,-86,3,4,1,Meru,,Meru,,0,,yes,Yes,Female,,Meru teaching and ref hosp mortuary,,,Education Officer,5/11/2017,8/5/2017,1,5
+George mukabwa,5/11/2017,4/5/2017,5/11/2017,Thursday,Weekday,Male,65,yes,110,176,8,0,29,No,36,7,7,0,Kakamega,,Kakamega,,0,,yes,Yes,Female,,Kakamega county mortuary,,,Snr sergeant,5/11/2017,4/5/2017,1,36
+Naomi Vuguza,5/11/2017,2/5/2017,5/13/2017,Saturday,Weekend,Female,,no,66.68,172,3,0,7,No,95,9,11,2,Siaya,,Nairobi,,464,,yes,Yes,Male,Aga Khan Hospital,Chiromo,no,,Lecturer,5/11/2017,2/5/2017,1,95
+Annah Chepketer,5/11/2017,7/5/2017,5/11/2017,Thursday,Weekday,Female,,yes,56.32,133,18,0,17,No,-55,4,4,0,Kericho,,Kericho,,0,,yes,No,Male,,Lazarus funeral home,,,,5/11/2017,7/5/2017,1,5
+Eluid Simon,5/11/2017,4/30/2017,5/11/2017,Thursday,Weekday,Male,,yes,56.32,180,6,0,4,No,#VALUE!,11,11,0,,Nairobi,Nairobi,,,,no,,,MP shah hospital,MP shah mortuary,yes,,Major General,5/11/2017,4/30/2017,1,11
+Jane Wambui,5/11/2017,1/5/2017,5/19/2017,Friday,Weekday,Female,51,yes,84.48,129,4,1,15,No,126,10,18,8,Murang'a,,UK,,,,yes,Yes,Male,,Kenyatta University,,,,5/11/2017,1/5/2017,1,126
+Isaac Wainaina,5/11/2017,5/5/2017,5/12/2017,Friday,Weekday,Male,,yes,84.48,288,5,0,57,No,6,6,7,1,Kiambu,Kiambu,Kiambu,0,0,,yes,Yes,Female,,Mukoe funeral home,,,,5/11/2017,5/5/2017,1,6
+Naftaly Meme,5/11/2017,3/5/2017,5/13/2017,Saturday,Weekend,Male,,yes,158.4,428,6,0,31,No,67,8,10,2,Meru,Nairobi,Nairobi,319,319,illness,yes,Yes,Female,Nairobi hospital,Lee funeral home,no,,,5/11/2017,3/5/2017,1,67
+Rebecca Nasiminyu,5/11/2017,6/5/2017,5/13/2017,Saturday,Weekend,Female,90,yes,218.7,402,12,2,18,No,-25,5,7,2,,Uasin Gishu,Kakamega,,,illness,yes,No,Male,Elgon view hospital,,,,,5/11/2017,6/5/2017,1,5
+Rose Njoki,5/11/2017,6/5/2017,5/12/2017,Friday,Weekday,Female,,yes,66.88,131,0,0,10,No,-25,5,6,1,Nyeri,Nairobi,Nyeri,151,0,illness,no,,,Nairobi west hospital,Tumutumu hospital mortuary,no,,,5/11/2017,6/5/2017,1,5
+Isaac Ashihundu,5/11/2017,6/5/2017,5/13/2017,Saturday,Weekend,Male,93,yes,56.32,228,7,0,32,No,-25,5,7,2,Kakamega,,Kakamega,,0,,yes,Yes,Female,,Kakamega county mortuary,,,,5/11/2017,6/5/2017,1,4
+Claus Mulumbwa,5/11/2017,6/5/2017,5/13/2017,Saturday,Weekend,Male,63,yes,56.32,284,0,0,38,No,-25,5,7,2,Kakamega,Kakamega,Kakamega,0,0,illness,yes,Yes,Female,,St.Elizabeth Mukumu mission hosp mortuary,,,,5/11/2017,6/5/2017,1,14
+Kipchoge Kiplagat,5/11/2017,6/5/2017,5/13/2017,Saturday,Weekend,Male,,yes,56.32,195,2,1,21,No,-25,5,7,2,Elgeyo Marakwet,Uasin Gishu,Uasin gishu,81,81,cancer,yes,Yes,Female,Alexandria Cancer Center,MTRH mortuary Eldoret,,,,5/11/2017,6/5/2017,1,14
+Lucy Wanjru,5/11/2017,4/5/2017,5/13/2017,Saturday,Weekend,Female,,no,56.32,231,6,0,17,No,36,7,9,2,Nyeri,Nairobi,Nairobi,151,151,illness,yes,Yes,Male,Kenyatta national hospital,Kenyatta national hosp mortuary,,,,5/11/2017,4/5/2017,1,36
+George Shenouda,5/16/2017,5/13/2017,,,,Male,,yes,56.32,181,0,0,0,No,#VALUE!,3,"-42,868","-42,871",,Abroad,,,,illness,,,,,,,,,5/16/2017,5/13/2017,0,3
+Alexander Mwenda,5/16/2017,11/5/2017,5/19/2017,Friday,Weekday,Male,42,yes,56.32,148,2,0,7,No,-173,5,8,3,Meru,Meru,,0,,illness,yes,Yes,Female,Consolata hosp Nkubu,,,,,5/16/2017,11/5/2017,1,17
+Kipkereng Kipkoech,5/16/2017,6/5/2017,5/17/2017,Wednesday,Weekday,Male,,yes,56.32,203,10,0,7,No,-20,10,11,1,Nakuru,Nakuru,Nakuru,0,0,,yes,No,Female,,St. Marys hospital,,,,5/16/2017,6/5/2017,1,2
+Peris kwamboka,5/16/2017,9/5/2017,5/19/2017,Friday,Weekday,Female,95,yes,84.48,259,9,1,67,Yes,-112,7,10,3,Nyamira,,Kisii,,35,,yes,No,Male,,Ram hosp mortuary,,,,5/16/2017,9/5/2017,1,4
+Alloys Kengere,5/16/2017,8/5/2017,5/18/2017,Thursday,Weekday,Male,,yes,68.64,310,6,0,17,Yes,-81,8,10,2,Kisii,Kisii,Kisii,,0,,yes,Yes,Female,Tenwek mission hospital,Hema mortuary,no,,,5/16/2017,8/5/2017,1,14
+Geoffrey Njuguna,5/16/2017,9/5/2017,5/18/2017,Thursday,Weekday,Male,,yes,68.64,301,2,0,23,Yes,-112,7,9,2,Nairobi,Nairobi,Nairobi,0,0,illness,yes,Yes,Female,Aga Khan Hospital,Chiromo,,,,5/16/2017,9/5/2017,1,12
+Paul Silong,5/16/2017,11/5/2017,5/19/2017,Friday,Weekday,Male,73,no,84.48,293,4,0,13,No,-173,5,8,3,Uasin Gishu,Uasin Gishu,Uasin gishu,0,0,illness,yes,Yes,Female,,MTRH mortuary Eldoret,,,,5/16/2017,11/5/2017,1,14
+Joseph Ndunda,5/16/2017,7/5/2017,5/20/2017,Saturday,Weekend,Male,79,yes,84.48,316,9,0,26,Yes,-50,9,13,4,Machakos,,Nairobi,,63,,yes,Yes,Female,,Umash Nairobi,,,Teacher,5/16/2017,7/5/2017,1,50
+Gladys Onono,5/16/2017,2/5/2017,5/20/2017,Saturday,Weekend,Female,70,yes,217.08,210,11,1,9,Yes,100,14,18,4,Kisumu,Kisumu,Kisumu,0,0,illness,yes,No,Male,Agakhan hospital kisumu,Agakhan hosp mortuary Kisumu,yes,,,5/16/2017,2/5/2017,1,100
+Ann Wangui,5/16/2017,12/5/2017,5/19/2017,Friday,Weekday,Female,45,yes,68.64,451,3,0,18,No,-203,4,7,3,Murang'a,Murang'a,Nairobi,0,20,road accident,yes,Yes,Male,,Kenyatta University,,,,5/16/2017,12/5/2017,1,20
+Alice Kivwea,5/16/2017,5/14/2017,5/20/2017,Saturday,Weekend,Female,,yes,216,103,10,1,3,Yes,#VALUE!,2,6,4,Kitui,,Nairobi,,175,,yes,No,Male,,Lee funeral home,,,,5/16/2017,5/14/2017,1,2
+Margaret Pamela,5/10/2017,4/29/2017,5/13/2017,Saturday,Weekend,Female,,yes,56.32,129,0,0,30,Yes,#VALUE!,11,14,3,Uasin Gishu,,Uasin gishu,,0,,no,,,,MTRH mortuary,,,,5/10/2017,4/29/2017,1,11
+Antony Nangobe,5/10/2017,1/5/2017,5/11/2017,Friday,Weekday,Male,,no,56.32,111,6,0,32,Yes,125,9,10,1,Busia,Kakamega,Kakamega,87,87,illness,yes,No,Female,Kakamega hospital,Kaimosi funeral home,,,,5/10/2017,1/5/2017,1,12
+Bernadette mala,5/10/2017,4/27/2017,5/13/2017,Sunday,Weekend,Female,,yes,56.32,146,8,0,42,Yes,#VALUE!,13,16,3,Kisumu,,Kisumu,,0,,yes,Yes,Male,,Star hospital mortuary,,,,5/10/2017,4/27/2017,1,13
+Gibson Reuben,5/10/2017,4/29/2017,5/12/2017,Saturday,Weekend,Male,,yes,56.32,210,5,0,9,Yes,#VALUE!,11,13,2,Murang'a,Abroad,Nairobi,"10,000",,illness,yes,Yes,Female,Jonhs Hopkins hosp USA,Kenyatta University,,,,5/10/2017,4/29/2017,1,11
+Beatrice Kamwende,5/10/2017,4/5/2017,5/12/2017,Friday,Weekday,Female,,yes,85.44,250,3,0,40,Yes,35,6,8,2,Nyeri,,Nairobi,,151,,yes,Yes,Male,,Kenyatta University,,,,5/10/2017,4/5/2017,1,35
+Johnson Muturi,5/10/2017,6/5/2017,5/12/2017,Friday,Weekday,Male,,yes,84.48,184,5,0,6,Yes,-26,4,6,2,Murang'a,,Nairobi,,51,,yes,Yes,Female,,Montezuma Nairobi,,,,5/10/2017,6/5/2017,1,24
+Mary Aoko,5/10/2017,4/28/2017,5/11/2017,Thursday,Weekday,Female,,yes,84.48,229,8,0,31,Yes,#VALUE!,12,13,1,Siaya,,,,,illness,yes,No,Male,,,,,,5/10/2017,4/28/2017,1,12
+Catherine Taabu,5/10/2017,4/30/2017,5/13/2017,Saturday,Weekend,Female,,yes,84.48,261,1,0,20,Yes,#VALUE!,10,13,3,Kitui,Nairobi,Nairobi,175,175,illness,yes,Yes,Male,,Kenyatta University,,,,5/10/2017,4/30/2017,1,10
+Rodgers Tsilwana,5/10/2017,2/5/2017,5/10/2017,Wednesday,Weekday,Male,39,no,68.64,145,3,0,12,Yes,94,8,8,0,Vihiga,,Vihiga,,0,,yes,Yes,Female,,Vihiga county mortuary,,,,5/10/2017,2/5/2017,1,94
+Esther Karungari,5/10/2017,5/5/2017,5/13/2017,Saturday,Weekend,Female,89,yes,154,301,4,0,27,Yes,5,5,8,3,Nyeri,,Nairobi,,151,,yes,No,Male,,Kenyatta University,,,,5/10/2017,5/5/2017,1,5
+Gladys Onono,5/10/2017,2/5/2017,5/20/2017,Saturday,Weekend,Female,70,yes,217.08,210,11,1,9,Yes,94,8,18,10,Kisumu,Kisumu,Kisumu,0,0,illness,yes,No,Male,Agakhan hospital kisumu,Agakhan hosp mortuary Kisumu,yes,,,5/10/2017,2/5/2017,1,94
+Rosemary Wanjiku,5/10/2017,3/5/2017,5/12/2017,Friday,weekday,Female,,no,56.32,193,8,0,11,Yes,66,7,9,2,Kiambu,,Nairobi,,20,,yes,Yes,Male,,Kenyatta University,,,,5/10/2017,3/5/2017,1,66
+Joshua Mutua,5/10/2017,4/5/2017,5/13/2017,Saturday,Weekend,Male,83,yes,84.48,373,5,0,17,Yes,35,6,9,3,Machakos,,Machakos,,0,,yes,Yes,Female,,Montezuma funeral home Machakos,,,,5/10/2017,4/5/2017,1,35
+Bathshebah Moraa,5/10/2017,2/5/2017,5/12/2017,Friday,weekday,Female,,yes,68.64,431,14,0,41,Yes,94,8,10,2,Nyamira,Nyamira,Nyamira,0,0,illness,yes,No,Male,Christiane Marriane hosp,Christiane Marriane mortuary,yes,,,5/10/2017,2/5/2017,1,94
+Susan Kasuku,5/10/2017,3/5/2017,5/17/2017,Friday,weekday,Female,,yes,56.32,165,4,2,27,Yes,66,7,14,7,Homa Bay,,Nairobi,,400,illness,yes,No,Male,,Chiromo,,,,5/10/2017,3/5/2017,1,66
+Ibrahim Nyambok,5/10/2017,4/27/2017,5/12/2017,Friday,weekday,Male,86,yes,56.32,169,19,1,14,Yes,#VALUE!,13,15,2,Homa Bay,,Homabay,,0,,yes,Yes,Female,,Rachuonyo hosp mortuarty,,,,5/10/2017,4/27/2017,1,13
+Robinson Ndegwa,5/10/2017,4/5/2017,5/12/2017,Friday,weekday,Male,,yes,68.64,134,13,0,17,Yes,35,6,8,2,Murang'a,Nairobi,Nairobi,51,51,illness,yes,Yes,Female,Nairobi west hospital,Kenyatta University,,,Councilor,5/10/2017,4/5/2017,1,35
+Seline Atieno,5/10/2017,4/23/2017,5/13/2017,Saturday,Weekend,Female,49,yes,68.64,277,6,0,15,Yes,#VALUE!,17,20,3,Kisumu,Uasin Gishu,Uasin gishu,128,128,illness,yes,Yes,Male,Mediheal hospital Eldoret,MTRH mortuary,no,,,5/10/2017,4/23/2017,1,17
+Simon Kivuvo,5/10/2017,4/5/2017,5/13/2017,Saturday,Weekend,Male,,yes,110,386,4,0,30,Yes,35,6,9,3,Machakos,,,,,heart failure,yes,Yes,Female,,,,,,5/10/2017,4/5/2017,1,35
+Charles Muraguri,5/10/2017,3/5/2017,5/11/2017,Thursday,Weekday,Male,89,yes,154,143,6,0,24,Yes,66,7,8,1,Murang'a,,Nairobi,,51,illness,yes,No,Female,,Lee funeral home,,,Teacher,5/10/2017,3/5/2017,1,66
+Anthony musembi,5/30/2017,5/25/2017,6/3/2017,Saturday,Weekend,Male,,no,56.32,117,3,0,18,Yes,#VALUE!,5,9,4,Machakos,,Nairobi,,63,,yes,Yes,Female,,Guru nanak mortuary,,,,5/30/2017,5/25/2017,1,5
+Mary Nyaboke,5/30/2017,5/19/2017,6/1/2017,Thursday,Weekday,Female,,yes,56.32,175,10,0,57,Yes,#VALUE!,11,13,2,Kisii,Nairobi,Nairobi,305,305,illness,yes,Yes,Male,,Montezuma Nairobi,,,,5/30/2017,5/19/2017,1,11
+Leah Wanjiru,5/30/2017,5/20/2017,5/2/2017,Friday,Weekday,Female,,yes,110,251,8,0,,Yes,#VALUE!,10,-18,-28,Nyeri,Nyeri,Nairobi,0,151,road accident,yes,No,Male,,Lee funeral home,,,,5/30/2017,5/20/2017,1,10
+Joseph Henry,5/30/2017,5/24/2017,6/1/2017,Thursday,Weekday,Male,,yes,86.24,340,5,0,12,Yes,#VALUE!,6,8,2,Kiambu,,Nairobi,,20,,yes,No,Female,,Lee funeral home,,,,5/30/2017,5/24/2017,1,6
+Joseph Kahuro,5/30/2017,5/25/2017,6/6/2017,Saturday,Weekend,Male,,yes,56.32,136,3,0,10,Yes,#VALUE!,5,12,7,Kiambu,Abroad,,,,illness,yes,Yes,Female,,,,,,5/30/2017,5/25/2017,1,5
+Eluid Nduma,5/30/2017,5/20/2017,6/2/2017,Friday,Weekday,Male,,yes,110,383,7,0,30,Yes,#VALUE!,10,13,3,Kisumu,Kisumu,Kisumu,0,0,,yes,No,Female,,Nightingale hospital mortuary,,,,5/30/2017,5/20/2017,1,10
+Salome Wanjiru,5/30/2017,5/21/2017,5/31/2017,Wednesday,weekday,Female,82,yes,110,186,4,0,18,Yes,#VALUE!,9,10,1,Nyeri,,Nairobi,,151,,yes,Yes,Male,,Kenyatta University,,,,5/30/2017,5/21/2017,1,9
+Festus Hezron,5/30/2017,5/22/2017,6/2/2017,Friday,weekday,Male,,yes,84.48,126,5,0,28,Yes,#VALUE!,8,11,3,Kisii,,,,,illness,yes,Yes,Female,,,,,,5/30/2017,5/22/2017,1,8
+Lucy Karimi,5/30/2017,2/25/2017,6/2/2017,Friday,Weekday,Female,68,yes,56.32,376,9,0,28,Yes,#VALUE!,94,97,3,Meru,Nairobi,,319,,illness,yes,Yes,Male,,,,,,5/30/2017,2/25/2017,1,94
+Sarah Njeri,5/30/2017,5/22/2017,6/2/2017,Friday,Weekday,Female,37,yes,84.48,169,2,0,33,Yes,#VALUE!,8,11,3,Siaya,,Nairobi,,464,,yes,Yes,Male,,MP Shah hospital mortuary,,,,5/30/2017,5/22/2017,1,8
+Kepha Moses,5/30/2017,5/25/2017,6/9/2017,Friday,Weekday,Male,,yes,56.32,109,4,0,14,Yes,#VALUE!,5,15,10,Kajiado,,,,,,yes,Yes,Female,,,,,,5/30/2017,5/25/2017,1,5
+Justus M'Ithiru,5/30/2017,5/25/2017,6/3/2017,Saturday,Weekend,Male,,no,110,271,4,0,35,Yes,#VALUE!,5,9,4,Tharaka Nithi,,Tharaka nithi,,0,,yes,Yes,Female,,PCEA Chogoria Hospital,,,Teacher,5/30/2017,5/25/2017,1,5
+Jane Anyango,5/30/2017,5/16/2017,6/3/2017,Saturday,Weekend,Female,,yes,84.48,201,5,0,48,Yes,#VALUE!,14,18,4,Siaya,Nairobi,Nairobi,464,464,illness,yes,Yes,Male,Aga Khan Hospital,Chiromo,no,,,5/30/2017,5/16/2017,1,14
+Victoria Awino,5/30/2017,5/18/2017,6/2/2017,Friday,Weekday,Female,,yes,68.64,342,8,0,35,Yes,#VALUE!,12,15,3,Siaya,Siaya,Siaya,0,0,,yes,Yes,Male,,Sega mission mortuary,,,,5/30/2017,5/18/2017,1,12
+Alloys Mayalo,5/30/2017,5/23/2017,5/31/2017,Wednesday,Weekday,Male,,yes,56.32,172,3,0,12,Yes,#VALUE!,7,8,1,Nairobi,Kajiado,,46,,cancer,no,,,,,,,Business man,5/30/2017,5/23/2017,1,7
+Jane Njeri,5/30/2017,5/26/2017,6/1/2017,Tuesday,Weekday,Female,,yes,56.32,204,6,0,7,Yes,#VALUE!,4,6,2,Nyandarua,,Nyandarua,,0,,no,,,,Nyahururu hosp mortuary,,,,5/30/2017,5/26/2017,1,4
+Symonds Kichamu,5/30/2017,5/23/2017,6/3/2017,Saturday,Weekend,Male,,yes,84.48,192,5,0,7,Yes,#VALUE!,7,11,4,Vihiga,,Nairobi,,365,,yes,Yes,Female,,Montezuma Nairobi,,,Lecturer,5/30/2017,5/23/2017,1,7
+Martin Kiptarus,5/3/2017,4/26/2017,5/5/2017,Friday,Weekday,Male,77,yes,217.08,349,10,0,26,Yes,#VALUE!,7,9,2,Uasin Gishu,,,,,,yes,Yes,Female,,,,,,5/3/2017,4/26/2017,1,7
+Daily Katherine,5/3/2017,4/27/2017,5/5/2017,Friday,Weekday,Female,,yes,68.64,242,2,1,19,Yes,#VALUE!,6,8,2,Nairobi,,Nairobi,,0,,no,,,,Lee Funeral Home,,,,5/3/2017,4/27/2017,1,6
+Jaames Ng'ang'a,5/3/2017,4/29/2017,5/5/2017,Friday,Weekday,Male,65,yes,86.24,367,8,0,22,Yes,#VALUE!,4,6,2,Nakuru,,Nakuru,,,,yes,Yes,Female,,Jamani funeral home,,,,5/3/2017,4/29/2017,1,4
+Jotham Wanyonyi,5/3/2017,4/27/2017,5/6/2017,Saturday,Weekday,Male,82,yes,86.24,342,7,0,6,Yes,#VALUE!,6,9,3,Kakamega,,Nandi,,86,,yes,Yes,Female,,Kimbilio Hospice mortuary,,,,5/3/2017,4/27/2017,1,6
+John Mwaosa,5/3/2017,4/23/2017,5/4/2017,Thursday,Weekend,Male,58,yes,86.24,349,8,2,72,Yes,#VALUE!,10,11,1,Nyamira,,Kisii,,30,,yes,Yes,Female,,Hema hospital mortuary,,,Teacher,5/3/2017,4/23/2017,1,10
+Yunuke Bitutu,5/3/2017,4/29/2017,5/5/2017,Friday,Weekday,Female,86,yes,86.24,173,9,2,57,Yes,#VALUE!,4,6,2,Nyamira,,,,,,yes,No,Male,,,,,,5/3/2017,4/29/2017,1,4
+Margaret Wangari,5/3/2017,4/30/2017,5/9/2017,Tuesday,Weekday,Female,,yes,158.4,328,3,0,22,Yes,#VALUE!,3,9,6,Kirinyaga,,Nairobi,,120,,yes,Yes,Male,,Lee funeral home,,,,5/3/2017,4/30/2017,1,3
+Arthur Njoroge,5/3/2017,4/26/2017,5/4/2017,Thursday,Weekend,Male,74,yes,110,227,4,0,23,Yes,#VALUE!,7,8,1,Nakuru,,Nairobi,,120,,yes,Yes,Female,,Montezuma Nairobi,,,,5/3/2017,4/26/2017,1,7
+Micheal Gitau,5/3/2017,4/28/2017,5/5/2017,Friday,Weekday,Male,,yes,56.32,170,0,0,7,Yes,#VALUE!,5,7,2,Kiambu,,Nairobi,,20,road accident,yes,Yes,Female,,Kenyatta hosp mortuary,,,,5/3/2017,4/28/2017,1,5
+Crispus Njane,5/3/2017,4/28/2017,5/5/2017,Friday,Weekday,Male,,yes,56.32,112,3,0,13,Yes,#VALUE!,5,7,2,Murang'a,,Nairobi,,51,fire accident,no,,,,Kenyatta University,,,,5/3/2017,4/28/2017,1,5
+Tabitha Mukomeru,5/3/2017,4/28/2017,5/6/2017,Saturday,Weekday,Female,82,yes,61.6,271,7,0,36,Yes,#VALUE!,5,8,3,Meru,,,,,,yes,No,Male,,,,,,5/3/2017,4/28/2017,1,5
+Wilfred Akinyaki,5/3/2017,4/25/2017,5/4/2017,Thursday,Weekend,Male,,no,64.28,224,10,0,19,Yes,#VALUE!,8,9,1,Vihiga,,Vihiga,,0,,yes,No,Female,,Vihiga county hosp mortuary,,,,5/3/2017,4/25/2017,1,8
+Jotham Tussy,5/3/2017,1/5/2017,5/10/2017,Wednesday,Weekday,Male,,yes,140.8,216,3,0,11,Yes,118,2,9,7,Abroad,Nairobi,Nairobi,,,,yes,Yes,Female,MP Shah Hospital,,,,,5/3/2017,1/5/2017,1,118
+Rose Achieng,5/3/2017,4/22/2017,5/6/2017,Saturday,Weekend,Female,,yes,56.32,138,5,0,31,Yes,#VALUE!,11,14,3,Kakamega,,Nairobi,,401,,yes,Yes,Male,,Kenyatta farewell home,,,,5/3/2017,4/22/2017,1,11
+Martin Angwenyi,5/3/2017,4/23/2017,5/4/2017,Thursday,Weekday,Male,63,yes,56.32,183,3,0,54,Yes,#VALUE!,10,11,1,Nyamira,,Nairobi,,325,,yes,Yes,Female,,Montezuma Nairobi,,,,5/3/2017,4/23/2017,1,10
+Rufus Kinyanjui,5/3/2017,1/5/2017,5/9/2017,Tuesday,Weekday,Male,,yes,56.32,182,3,0,0,Yes,118,2,8,6,Nyandarua,,Nairobi,,149,,yes,Yes,Female,,MP Shah hospital mortuary,,,,5/3/2017,1/5/2017,1,118
+Edith Kiende Kiogora,11/8/2017,10/27/2017,11/11/2017,Saturday,Weekend,Female,43,Yes,83.6,293,4,0,7,Yes,12,15,3,8,Tharaka Nithi,Nairobi,Tharaka Nithi,272,0,illness,Yes,Yes,Male,Nairobi West Hospital,Chogoria Hospital Mortuary,No,,Teacher,11/8/2017,10/27/2017,1,12
+Mwalimu Erick Namusasi Werunga,11/8/2017,10/24/2017,9/11/2017,Thursday,Weekday,Male,54,Yes,83.6,171,4,0,0,Yes,15,16,1,33,Trans Nzioa,,Trans Nzioa,0,,illness,Yes,No,Female,,Maida Mortuary,,,Teacher,11/8/2017,10/24/2017,1,15
+Daniel Wanyoike Gathai,2/15/2017,2/11/2017,2/18/2017,Saturday,Weekend,Male,,Yes,110.48,177,5,3,2,Yes,4,7,3,15,Nyandarua,,Nyandarua,0,0,illness,Yes,Yes,Female,,Ol Kalou mortuary,No,,,2/15/2017,2/11/2017,1,4
+Emmanuel Kibet Kenduiwo,2/15/2017,12/6/2017,2/17/2017,Friday,Weekday,Male,22,Yes,88.24,156,0,0,1,Yes,-294,-292,2,22,Nakuru,Mombasa,Mombasa,645,645,illness,No,No,,Pandya Hospital,Pandya Memorial,Yes,,Student,2/15/2017,12/6/2017,1,12
+Carolyn Nyokabi Kago,2/15/2017,2/10/2017,2/16/2017,Thursday,Weekday,Female,,Yes,84.78,220,0,0,0,Yes,5,6,1,12,Nyeri,Kiambu,Kiambu,145,145,illness,No,No,,,Kenyatta University,,,Thika water and sewerage company,2/15/2017,2/10/2017,1,5
+Surveyor Odhiambo Moses Oremo,2/15/2017,1/31/2017,2/18/2017,Saturday,Weekend,Male,46,Yes,109.1,340,5,0,0,Yes,15,18,3,30,Siaya,Abroad,Nakuru,,246,Accident,Yes,Yes,Female,,Umash Nairobi,No,,Surveyor,2/15/2017,1/31/2017,1,15
+Valji Mulji Pindoria,2/15/2017,2/14/2017,2/16/2017,Thursday,Weekday,Male,,Yes,113.4,116,3,3,7,Yes,1,2,1,16,Nairobi,Nairobi,,0,,illness,Yes,Yes,Female,,,,,Vakkep Building Constructions,2/15/2017,2/14/2017,1,1
+Dada Katika Yesu Gladys Achieng Aman,2/15/2017,2/3/2017,2/17/2017,Friday,Weekday,Female,,Yes,86.72,280,8,4,3,Yes,12,14,2,19,Kisumu,Kisumu,Kisumu,0,0,illness,Yes,No,Male,,Star mortuary,,,,2/15/2017,2/3/2017,1,12
+Samson Kiboen Arap Maru,2/15/2017,2/12/2017,2/18/2017,Saturday,Weekend,Male,,Yes,104.66,275,4,0,0,Yes,3,6,3,16,Uasin Gishu,Uasin Gishu,Uasin Gishu,0,0,illness,Yes,No,Female,moi teaching and referral hospital,Moi Teaching and Referral Funeral Home,Yes,,,2/15/2017,2/12/2017,1,3
+Nancy Anyango Omollo,2/15/2017,2/9/2017,2/19/2017,Sunday,Weekend,Female,,Yes,104.66,278,3,0,0,Yes,6,10,4,24,Homa Bay,Nairobi,Nairobi,363,363,illness,Yes,Yes,Male,,Chiromo,,,,2/15/2017,2/9/2017,1,6
+Papa Michael Kilonzo,2/15/2017,2/10/2017,2/17/2017,Friday,Weekday,Male,,Yes,104.66,190,12,1,0,Yes,5,7,2,19,Machakos,Kiambu,Kiambu,,,illness,Yes,Yes,Female,,Kenyatta University,,,,2/15/2017,2/10/2017,1,5
+Rev.Beatrice Wamaitha mithika,2/15/2017,2/10/2017,2/17/2017,Friday,Weekday,Female,49,Yes,112,234,6,1,1,Yes,5,7,2,15,Meru,Meru,meru,0,0,illness,Yes,Yes,Male,,Maua Methodist Hospital Mortuary,,,Reverend,2/15/2017,2/10/2017,1,5
+mama Mary Selessor ongiri-Omino,2/15/2017,2/6/2017,2/24/2017,Friday,Weekday,Female,102,No,116.22,330,9,0,2,Yes,9,18,9,33,Homa Bay,Homa Bay,Homabay,0,0,illness,yes,No,Male,,Kirindo Funeral Home,,,,2/15/2017,2/6/2017,1,9
+David Tabu Simiyu,2/15/2017,2/13/2017,2/18/2017,Saturday,Weekend,Male,21,Yes,118.44,348,0,0,8,Yes,2,5,3,26,kakamega,Nairobi,Nairobi,360,360,illness,No,,,Nairobi south Hospital,,,,Student,2/15/2017,2/13/2017,1,2
+Zipppora M. Bunoro,2/15/2017,1/31/2017,2/18/2017,Saturday,Weekend,Female,,No,104.68,245,5,0,1,Yes,15,18,3,31,Siaya,Nairobi,Nairobi,402,402,illness,Yes,Yes,Male,,Chiromo,,,KIRDI,2/15/2017,1/31/2017,1,15
+Hannington Amaya Otoko,2/15/2017,2/6/2017,2/18/2017,Saturday,Weekend,Male,90,Yes,108.34,192,9,0,0,Yes,9,12,3,16,Vihiga,Vihiga,vihiga,0,0,illness,Yes,Yes,Female,,Sagam Hospital Funeral home,,,,2/15/2017,2/6/2017,1,9
+Mama Callen Nyambeki Nyakundi,2/15/2017,2/7/2017,2/18/2017,Saturday,Weekend,Female,77,Yes,104.64,148,10,2,2,Yes,8,11,3,16,Nyamira,Nyamira,Nyamira,0,0,illness,Yes,Yes,Male,Ram Hospital,Ram Mortuary,Yes,,,2/15/2017,2/7/2017,1,8
+Faith Mkeagawa Komora,2/15/2017,2/8/2017,2/18/2017,Saturday,Weekend,Female,44,Yes,100.24,158,1,0,0,Yes,7,10,3,23,Bungoma,Nairobi,Nairobi,408,408,illness,Yes,Yes,Male,,Lee Funeral Home,No,,Amref Health Africa,2/15/2017,2/8/2017,1,7
+Peter gicheru Ngome,2/15/2017,2/11/2017,2/18/2017,Saturday,Weekend,Male,,Yes,102.74,99,9,0,0,Yes,4,7,3,10,Kiambu,Nairobi,Nairobi,16,16,Accident,Yes,Yes,Female,,Aga Khan University Funeral Home,,,,2/15/2017,2/11/2017,1,4
+Jpones Omwenga Nyaberi,2/15/2017,2/9/2017,2/16/2017,Thursday,Weekday,Male,99,No,108.02,156,7,1,4,Yes,6,7,1,23,Kisii,Kisii,Kisii,0,0,illness,Yes,Yes,Female,Hema Hospital,Hema Hospital Mortuary,Yes,,,2/15/2017,2/9/2017,1,6
+Norah Moraa Nyamamba,2/15/2017,2/9/2017,2/24/2017,Friday,Weekday,Female,75,No,83.4,374,3,1,2,Yes,6,15,9,46,Kericho,Kericho,Kericho,0,0,illness,Yes,No,Male,,Siloam Funeral Home,,,,2/15/2017,2/9/2017,1,6
+Albina Mshila Majala (Mama Levina),2/15/2017,2/9/2017,2/18/2017,saturday,Weekend,Female,,Yes,98.44,242,21,0,0,Yes,6,9,3,4,Taita Taveta,,,,,illness,,,,,,,,,2/15/2017,2/9/2017,1,6
+Daniel Ndoria Njiiri,2/15/2017,2/10/2017,2/17/2017,Friday,Weekday,Male,,Yes,83.36,190,2,1,0,Yes,5,7,2,19,Nyeri,Nyeri,Nyeri,0,0,illness,Yes,Yes,Female,,Nyeri Funeral Home,,,,2/15/2017,2/10/2017,1,5
+Nelson Omanya Okumu,2/15/2017,2/9/2017,2/17/2017,Friday,Weekday,Male,,Yes,88.48,120,7,3,0,Yes,6,8,2,9,Siaya,Siaya,Siaya,0,0,illness,Yes,Yes,Female,,Kirindo Funeral Home,,,,2/15/2017,2/9/2017,1,6
+Nicholas Muchora,2/15/2017,2/10/2017,2/17/2017,Friday,Weekday,Male,,Yes,83.16,198,7,0,0,Yes,5,7,2,16,Nyeri,Nyeri,Nyeri,0,0,illness,Yes,Yes,Female,,Consolata Mathari Hospital Mortuary,,,,2/15/2017,2/10/2017,1,5
+Romonah Lumasai S. Wangia,2/15/2017,2/12/2017,2/18/2017,Saturday,Weekend,Female,,Yes,88.14,160,6,0,0,Yes,3,6,3,23,kakamega,Kakamega,Kakamega,0,0,illness,Yes,Yes,Male,,Kakamega Mortuary,,,,2/15/2017,2/12/2017,1,3
+Joseph Kahonoki Njoroge,2/15/2017,2/11/2017,2/17/2017,Friday,Weekday,Male,,Yes,84.46,198,4,0,0,Yes,4,6,2,18,Nakuru,Nakuru,Nakuru,0,0,illness,Yes,Yes,Female,"Nairobi Womens Hospital,Nakuru",Nakuru War memorial Hospital Mortuary,Yes,,,2/15/2017,2/11/2017,1,4
+Julius Githige Kiragu,2/15/2017,2/10/2017,2/17/2017,Friday,Weekday,Male,,Yes,110.09,217,4,0,0,Yes,5,7,2,9,Nyeri,Nyeri,Nyeri,0,0,illness,Yes,Yes,Female,,Kenyatta University,,,,2/15/2017,2/10/2017,1,5
+Jane Lucy W. Gatundu(Mama Gakenia),2/15/2017,2/8/2017,2/16/2017,Thursday,Weekday,Female,,Yes,100.04,190,6,4,0,Yes,7,8,1,13,Laikipia,Laikipia,Laikipia,0,0,illness,Yes,Yes,Male,Nyahururu Hospital,Nyahururu Referral Mourtuary,Nyahururu Referral Mortuary,Yes,,2/15/2017,2/8/2017,1,7
+Elijah Kipng'etich Lang'at,2/15/2017,2/9/2017,2/16/2017,Thursday,Weekday,Male,,No,108.22,261,6,2,0,Yes,6,7,1,32,Kericho,Kericho,Kericho,0,0,illness,Yes,Yes,Female,,Lazarus Funeral Home,,,,2/15/2017,2/9/2017,1,6
+Margaret Obungu Nyobange(Nyar America),2/15/2017,1/25/2017,2/17/2017,Friday,Weekday,Female,73,Yes,102.34,253,2,1,2,Yes,21,23,2,44,Homa Bay,Homa Bay,Homabay,0,0,illness,Yes,No,Male,Kendu Adventist Hospital,Kendu Adventist Hospital Mortuary,Yes,,,2/15/2017,1/25/2017,1,21
+Mama Rebecca Rabera Nyanchoka,2/15/2017,2/10/2017,2/24/2017,Friday,Weekday,Female,83,Yes,110.24,336,14,0,3,Yes,5,14,9,36,Kisii,Nairobi,Nairobi,306,306,illness,Yes,No,Male,Nairobi Hospital,,,,,2/15/2017,2/10/2017,1,5
+Rev Naphtali Njami,2/15/2017,2/13/2017,2/22/2017,Wednesday,Weekday,Male,,Yes,116.32,247,5,0,0,Yes,2,9,7,12,Murang'a,Murang'a,Murang'a,0,0,illness,Yes,No,Female,,Kenyatta University,,,Reverend,2/15/2017,2/13/2017,1,2
+Professor Francis Mwaura Mwega,3/6/2017,2/28/2017,8/3/2017,Wednesday,Weekday,Male,63,Yes,87.22,302,3,1,3,Yes,6,8,2,12,Nairobi,Nairobi,Nairobi,0,0,illness,Yes,Yes,Female,,Chiromo,,,Professor-economics-UON,3/6/2017,2/28/2017,1,6
+John Mwangi Muraguri,3/6/2017,3/1/2017,8/3/2017,Wednesday,Weekday,Male,55,Yes,55.44,144,2,0,2,Yes,5,7,2,18,Murang'a,Kiambu,Kiambu,67,67,illness,Yes,Yes,Female,,Kenyatta University,,,Dixons Electronics ltd,3/6/2017,3/1/2017,1,5
+Esther Moraa Okeyo,3/6/2017,2/17/2017,10/3/2017,Friday,Weekday,Female,,No,56.07,240,6,0,0,Yes,17,21,4,29,Nyamira,Nyamira,Nyamira,0,0,illness,Yes,Yes,Male,Coptic Hospital,Coptic Hospital Mortuary,Yes,,,3/6/2017,2/17/2017,1,17
+James Wambaa Muchugia,3/6/2017,3/1/2017,8/3/2017,Wednesday,Weekday,Male,,Yes,55.22,181,2,1,2,Yes,5,7,2,12,Murang'a,Kiambu,Kiambu,67,67,illness,Yes,Yes,Female,Thika Hospital,Kenyatta University,No,,,3/6/2017,3/1/2017,1,5
+Ngugi Ngobono,3/6/2017,2/27/2017,8/3/2017,Wednesday,Weekday,Male,93,Yes,56.81,172,16,2,2,Yes,7,9,2,30,Murang'a,Kiambu,Kiambu,67,67,illness,Yes,Yes,Female,,Kenyatta University,,,,3/6/2017,2/27/2017,1,7
+Godsent Odero Magolo(Deejay),3/6/2017,3/1/2017,11/3/2017,Saturday,Weekend,Male,50,Yes,155.75,360,1,0,3,Yes,5,10,5,24,Siaya,Nairobi,Nairobi,402,402,illness,Yes,Yes,Female,,Montezuma Nairobi,,,,3/6/2017,3/1/2017,1,5
+John Macharia Wambugu,3/6/2017,2/27/2017,8/3/2017,Wednesday,Weekday,Male,74,Yes,148.44,347,17,4,3,Yes,7,9,2,33,Nyeri,Nyeri,Nyeri,0,0,illness,Yes,Yes,Female,Othay sub-county hospital,Mukurwe-ini Hospital Mortuary,No,,,3/6/2017,2/27/2017,1,7
+Elderly Mary Wanjiru Kariuki,3/6/2017,2/27/2017,7/3/2017,Tuesday,Weekday,Female,63,Yes,214.14,252,5,3,0,Yes,7,8,1,21,Kajiado,Nairobi,Nairobi,107,107,illness,Yes,Yes,Male,Nairobi,Montezuma Nairobi,No,,,3/6/2017,2/27/2017,1,7
+Joyce Wambui Githitu,3/6/2017,2/27/2017,8/3/2017,Wednesday,Weekday,Female,59,Yes,214.14,248,1,0,2,Yes,7,9,2,19,Kiambu,Kiambu,Kiambu,0,0,Accident,Yes,No,Male,,Kenyatta University,,,,3/6/2017,2/27/2017,1,7
+Erick Kakai,2/10/2017,2/6/2017,2/16/2017,Thursday,Weekday,Male,,Yes,56.74,156,4,2,3,Yes,4,10,6,28,Nairobi,Nairobi,Nairobi,0,0,illness,Yes,Yes,Female,,Neema Hospital Mortuary,,,,2/10/2017,2/6/2017,1,4
+Surveyor Odhiambo Moses Oremo,2/10/2017,1/31/2017,2/18/2017,Saturday,Weekend,Male,46,Yes,88.66,183,3,1,3,Yes,10,18,8,26,siaya,Siaya,Siaya,0,0,Accident,Yes,Yes,Female,,Coptic Hospital Mortuary,,,Surveyor,2/10/2017,1/31/2017,1,10
+Esther Salama Ngumbao,2/10/2017,2/6/2017,11/2/2017,Saturday,Weekend,Female,,Yes,216,188,0,0,4,Yes,4,5,1,19,Bungoma,Nairobi,Nairobi,408,408,illness,Yes,Yes,Male,Aga Khan Hospital,Umash Nairobi,No,,Staff-Nairobi County Assembly,2/10/2017,2/6/2017,1,4
+John Mwaura Kimani,2/10/2017,2/6/2017,2/14/2017,Tuesday,Weekday,Male,52,Yes,55.44,154,1,0,3,Yes,4,8,4,18,Nairobi,Kiambu,Kiambu,16,16,illness,Yes,Yes,Female,,,,,,2/10/2017,2/6/2017,1,4
+Erick Kubai Njuguna,2/10/2017,1/30/2017,11/2/2017,Saturday,Weekend,Male,,No,55.68,114,1,0,0,Yes,11,12,1,8,Nairobi,Nairobi,Nairobi,0,0,illness,Yes,Yes,Female,,City Mortuary,,,,2/10/2017,1/30/2017,1,11
+Daniel Mwaniki Ngeti,2/10/2017,2/7/2017,2/16/2017,Thursday,Weekday,Male,,Yes,123.75,208,2,0,1,Yes,3,9,6,12,Machakos,Nairobi,Nairobi,63,63,illness,Yes,Yes,Female,,Montezuma Nairobi,,,Spedag Enterprises Kenya Ltd,2/10/2017,2/7/2017,1,3
+Chris Kihara,2/10/2017,2/7/2017,2/16/2017,Thursday,Weekday,Male,80,No,151.36,302,11,0,3,Yes,3,9,6,30,Nairobi,Nairobi,Nairobi,0,0,illness,Yes,No,Female,,,,,,2/10/2017,2/7/2017,1,3
+David Lubanga,2/10/2017,1/28/2017,11/2/2017,Saturday,Weekend,Male,,No,56.64,134,3,0,0,Yes,13,14,1,6,kakamega,Kakamega,Kakamega,0,0,illness,Yes,Yes,Female,,,,,,2/10/2017,1/28/2017,1,13
+Susan Kirigo Mutuko,2/10/2017,2/6/2017,2/17/2017,Friday,Weekday,Female,58,Yes,76.45,203,3,1,2,Yes,4,11,7,22,Machakos,Nairobi,Machakos,63,0,illness,Yes,No,Male,Nairobi West Hospital,Machakos Funeral Home,No,,Machakos Gen Hospital,2/10/2017,2/6/2017,1,4
+Hilda Wanjira Kmani,2/10/2017,2/2/2017,2/14/2017,Tuesday,Weekday,Female,39,Yes,78.03,210,2,0,3,Yes,8,12,4,16,Kiambu,Machakos,Machakos,79,79,illness,Yes,Yes,Male,Nairobi West Hospital,Machakos Funeral Home,,,Scott Christian University,2/10/2017,2/2/2017,1,8
+Zipporah Moronge,2/10/2017,2/3/2017,2/17/2017,Friday,Weekday,Female,66,Yes,56.64,300,5,2,3,Yes,7,14,7,28,Machakos,Machakos,Machakos,0,0,illness,Yes,Yes,Male,Nairobi West Hospital,Machakos Funeral Home,,,Teacher,2/10/2017,2/3/2017,1,7
+James Muhindi Kaharuka,2/10/2017,1/7/2017,2/17/2017,Friday,Weekday,Male,71,Yes,58.21,240,3,1,3,Yes,34,41,7,26,Kiambu,Nairobi,Nairobi,16,16,illness,Yes,Yes,Female,Aga Khan Hospital,Aga Khan University Funeral Home,Yes,,Banker,2/10/2017,1/7/2017,1,34
+Jason Obed Kibia,2/10/2017,2/1/2017,2/17/2017,Friday,Weekday,Male,,Yes,108.24,186,2,0,0,Yes,9,16,7,20,Meru,Meru,Meru,0,0,Accident,Yes,Yes,Female,,Nkubu Mission Hospital,,,Margistrate,2/10/2017,2/1/2017,1,9
+Esther Wangui Kihato,2/10/2017,2/3/2017,2/17/2017,Friday,Weekday,Female,33,Yes,108.22,112,2,0,3,Yes,7,14,7,21,Kiambu,Kiambu,Kiambu,0,0,illness,Yes,Yes,Male,Thika Hospital,Kenyatta University,,,,2/10/2017,2/3/2017,1,7
+Elder(rtd) Major John Waweru Kinyanjui,2/10/2017,1/22/2017,2/14/2017,Tuesday,Weekday,Male,70,Yes,88.43,230,4,1,2,Yes,19,23,4,36,Murang'a,Nairobi,Nairobi,87,87,Accident,Yes,Yes,Female,,Chiromo,,,,2/10/2017,1/22/2017,1,19
+Fr. John Mwangi Kamwira,2/10/2017,2/4/2017,2/13/2017,Monday,Weekday,Male,56,Yes,58.43,196,5,2,4,Yes,6,9,3,28,Isiolo,Isiolo,Isiolo,0,0,Accident,Yes,Yes,Female,,,,,,2/10/2017,2/4/2017,1,6
+Robert Baariu Kiunga,2/10/2017,2/4/2017,2/13/2017,Monday,Weekday,Male,,Yes,56.38,242,2,0,0,Yes,6,9,3,17,Tharaka Nithi,Nairobi,Nairobi,272,272,illness,Yes,Yes,Female,,Kenyatta University,,,Kenya Police Service,2/10/2017,2/4/2017,1,6
+Peter Munuhe Murathimi,2/10/2017,2/3/2017,2/14/2017,Tuesday,Weekday,Male,,Yes,74.01,187,4,4,4,Yes,7,11,4,12,Nyeri,,,,,,Yes,Yes,Female,,,,,,2/10/2017,2/3/2017,1,7
+John Kiritu Karugu,2/10/2017,2/3/2017,11/2/2017,Saturday,Weekend,Male,,Yes,118.21,129,7,1,0,Yes,7,8,1,12,Murang'a,Murang'a,Murang'a,0,0,illness,Yes,Yes,Female,Kenol Hospital,Murang'a County Mortuary,No,,,2/10/2017,2/3/2017,1,7
+Mama Sarah Ombewa Aruma,2/21/2017,2/10/2017,2/25/2017,Saturday,Weekend,Female,,Yes,54.66,293,10,3,4,Yes,11,15,4,28,Siaya,Siaya,Siaya,0,0,illness,Yes,No,Male,,District Hospital Mortuary Kisumu,,,,2/21/2017,2/10/2017,1,11
+Rev. Nicholas Mwanzia Kisua,2/21/2017,2/13/2017,2/25/2017,Saturday,Weekend,Male,61,Yes,58.12,260,4,4,2,Yes,8,12,4,15,Machakos,Nairobi,Machakos,63,0,illness,Yes,Yes,Female,Kenyatta National Hospital,Montezuma Nairobi,No,,Reverend,2/21/2017,2/13/2017,1,8
+Samuel Williamson Guantai,2/21/2017,2/18/2017,2/24/2017,Friday,Weekday,Male,,Yes,83.6,200,5,5,0,Yes,3,6,3,12,Meru,Meru,meru,0,0,illness,Yes,Yes,Female,,Meru Funeral Home,,,Teacher,2/21/2017,2/18/2017,1,3
+Lilian Auma Oluoch,2/21/2017,2/12/2017,2/25/2017,Friday,Weekday,Female,,Yes,83.57,220,3,0,2,Yes,9,13,4,18,Kisumu,Nairobi,Nairobi,342,342,illness,Yes,Yes,Male,Mater Hospital,Mater Hospital Mortuary,Yes,,EPZA employee,2/21/2017,2/12/2017,1,9
+Pauline Jepkemei Kandie,2/21/2017,2/15/2017,2/25/2017,Friday,Weekday,Female,57,Yes,109.12,238,9,0,1,Yes,6,10,4,22,Kericho,,,,,,Yes,Yes,Male,,,,,Ministry of Education,2/21/2017,2/15/2017,1,6
+John Nganga Njenga,2/21/2017,2/13/2017,2/21/2017,Tuesday,Weekday,Male,,Yes,84.21,246,4,1,2,Yes,8,8,0,18,Nairobi,Nairobi,Nairobi,0,0,illness,Yes,Yes,Female,,Umash Nairobi,,,,2/21/2017,2/13/2017,1,8
+Martin Pius Kunguru,2/21/2017,2/11/2017,2/23/2017,Thursday,Weekday,Male,71,Yes,86.02,175,12,0,0,Yes,10,12,2,17,Kisumu,Kisumu,Kisumu,0,0,illness,Yes,Yes,Female,,Aga Khan Hospital,,,,2/21/2017,2/11/2017,1,10
+Leticia Nyaboke Ngoge,2/21/2017,2/13/2017,2/23/2017,Thursday,Weekday,Female,,Yes,58.12,212,11,0,2,Yes,8,10,2,19,Nyamira,Nyamira,Nyamira,0,0,illness,Yes,No,Male,,Nyangena Mortuary,,,,2/21/2017,2/13/2017,1,8
+Nicholas Makwae Monda gikonge,2/21/2017,2/14/2017,2/24/2017,Friday,Weekday,Male,27,Yes,56.18,201,0,0,3,Yes,7,10,3,18,Nakuru,Nakuru,Nakuru,0,0,illness,No,No,,Baraka Nursing Home,War Memorial Hospital,No,,,2/21/2017,2/14/2017,1,7
+Norah Moraa Nyamamba,2/21/2017,2/9/2017,2/24/2017,Friday,Weekday,Female,75,No,58.17,241,3,1,4,Yes,12,15,3,22,Kericho,Kericho,Kericho,0,0,illness,Yes,No,Male,,Siloam Funeral Home,,,,2/21/2017,2/9/2017,1,12
+Joseph Maweu Matheka,2/21/2017,2/18/2017,2/25/2017,Saturday,Weekend,Male,,Yes,54.56,201,4,1,3,Yes,3,7,4,16,Machakos,Machakos,Machakos,0,0,illness,Yes,Yes,Female,,Montezuma Nairobi,,,,2/21/2017,2/18/2017,1,3
+Peterson Abuya Angwenyi Snr.,2/21/2017,2/14/2017,3/3/2017,Friday,Weekday,Male,73,Yes,67.76,396,7,3,8,Yes,7,17,10,48,Kisii,Kisumu,Kisii,,0,illness,Yes,Yes,Female,Oasis Hospital,Hema Hospital Mortuary,No,,Councillor,2/21/2017,2/14/2017,1,7
+Paul Ngome Nalianya,2/21/2017,2/12/2017,2/25/2017,Saturday,Weekend,Male,90,Yes,56.44,168,14,0,0,Yes,9,13,4,8,Uasin Gishu,Uasin Gishu,Uasin Gishu,0,0,illness,Yes,No,Female,Fountain Healthcare Hospital,MTRH Eldoret,No,,,2/21/2017,2/12/2017,1,9
+Wilson Maina Gichuri,2/21/2017,2/20/2017,2/25/2017,Saturday,Weekend,Male,,Yes,78.68,119,2,0,1,Yes,1,5,4,10,Nyeri,Kiambu,Kiambu,145,145,Accident,Yes,Yes,Female,,Kenyatta University,,,,2/21/2017,2/20/2017,1,1
+Mayi Zipporah Naliaka,2/21/2017,2/14/2017,2/25/2017,Saturday,Weekend,Female,67,Yes,76.55,137,4,2,3,Yes,7,11,4,34,Bungoma,Bungoma,Bungoma,0,0,illness,Yes,Yes,Male,,St. Michael Funeral Parlour,,,,2/21/2017,2/14/2017,1,7
+John Njoroge Ngotho,2/21/2017,2/17/2017,2/24/2017,Friday,Weekday,Male,,Yes,77.34,230,8,3,4,Yes,4,7,3,33,Nairobi,Nairobi,Machakos,0,63,illness,Yes,Yes,Female,,Montezuma Nairobi,,,,2/21/2017,2/17/2017,1,4
+Patrick Kariuki,2/21/2017,2/16/2017,2/25/2017,Saturday,Weekend,Male,,Yes,58.41,112,4,2,0,Yes,5,9,4,8,Nairobi,Nairobi,Nairobi,0,0,illness,Yes,Yes,Female,MP Shah Hospital,,,,,2/21/2017,2/16/2017,1,5
+Hon. Joseph Musau Kalunde,2/21/2017,2/13/2017,2/23/2017,Thursday,Weekday,Male,75,yes,418.5,300,10,0,2,Yes,8,10,2,23,Machakos,Machakos,Machakos,0,0,illness,Yes,No,Female,,Montezuma Nairobi,,,MCA,2/21/2017,2/13/2017,1,8
+Kelvin Muli Muthini(Tom),2/21/2017,2/10/2017,2/24/2017,Friday,Weekday,Male,56,Yes,58.58,143,4,1,2,Yes,11,14,3,12,Machakos,Kiambu,,60,,Accident,Yes,Yes,Female,,,,,County Nutritionist(Embu),2/21/2017,2/10/2017,1,11
+Elizabeth Bosibori Nyong'a,2/21/2017,2/8/2017,2/24/2017,Friday,Weekday,Female,,Yes,56.54,156,8,2,6,Yes,13,16,3,22,Nyamira,Abroad,Machakos,,370,illness,Yes,No,Male,st. Peters Hospita Olympia,,Montezuma Fun eral Home,No,USA,2/21/2017,2/8/2017,1,13
+John P Njenga,2/21/2017,2/18/2017,,,,Male,62,Yes,83.6,138,2,0,0,Yes,3,"-42,784","-42,787",13,,,,,,,Yes,Yes,Female,,,,,,2/21/2017,2/18/2017,0,3
+Elder Alfred Njuguna Ndoro,2/21/2017,2/14/2017,2/24/2017,Friday,Weekday,Male,77,Yes,84.22,138,9,3,4,Yes,7,10,3,31,Kiambu,Kiambu,Kiambu,0,0,illness,Yes,No,Female,Thika Hospital,Kenyatta University,No,,,2/21/2017,2/14/2017,1,7
+Fridah Waruguru Githui,2/21/2017,2/17/2017,2/23/2017,Thursday,Weekday,Female,82,Yes,109.12,223,12,2,3,Yes,4,6,2,23,Laikipia,Laikipia,Laikipia,0,0,illness,Yes,No,Male,,Nanyuki Teaching and refferal Hospital Mortuary,,,,2/21/2017,2/17/2017,1,4
+Jane Wanjiru Njomo,2/21/2017,2/17/2017,2/23/2017,Thursday,Weekday,Female,,Yes,55.31,187,0,0,0,Yes,4,6,2,9,Nairobi,Nairobi,Nairobi,0,0,illness,No,No,,,Lee Funeral Home,,,,2/21/2017,2/17/2017,1,4
+George William Olando Maloba,2/21/2017,2/13/2017,2/25/2017,Saturday,Weekend,Male,58,Yes,64.33,210,3,1,0,Yes,8,12,4,16,Bungoma,Nairobi,Nairobi,408,408,illness,Yes,Yes,Female,,Umash Nairobi,,,,2/21/2017,2/13/2017,1,8
+Jilani Wamuye Chando,2/21/2017,2/13/2017,2/25/2017,Saturday,Weekend,Male,47,Yes,63.23,198,2,1,3,Yes,8,12,4,28,Nairobi,Nairobi,Nairobi,0,0,illness,Yes,Yes,Female,Nairobi West Hospital,Umash Nairobi,No,,Lecturer,2/21/2017,2/13/2017,1,8
+Solomon Nguyo Muteru,2/21/2017,2/18/2017,2/25/2017,Saturday,Weekend,Male,,Yes,84.02,194,5,2,5,Yes,3,7,4,21,Nyandarua,Mombasa,Nyandarua,615,0,illness,Yes,Yes,Female,Mombasa Hospital,Nyahururu Referral Mourtuary,,,Businessman,2/21/2017,2/18/2017,1,3
+Steve Mbuthia Wainaina,2/21/2017,2/15/2017,2/23/2017,Thursday,Weekday,Male,31,Yes,76.65,178,0,0,0,Yes,6,8,2,5,Nyandarua,Kiambu,Kiambu,154,154,illness,No,No,,Thika Hospital,General Kago Road Funeral,Yes,,Navigator,2/21/2017,2/15/2017,1,6
+Judy Nini Njaga Lacassagne,2/21/2017,1/21/2017,2/24/2017,Friday,Weekday,Female,52,Yes,124.23,166,4,1,6,Yes,31,34,3,21,Kiambu,Nairobi,Kiambu,16,0,illness,Yes,Yes,Male,Kenyatta National Hospital,Kenyatta University,No,,Teacher,2/21/2017,1/21/2017,1,31
+Raeli Koskei,3/13/2017,3/7/2017,3/14/2017,Tuesday,Weekday,Female,,Yes,73.25,121,8,1,2,Yes,6,7,1,17,Kericho,Kericho,Kericho,0,0,illness,Yes,No,Male,,Siloam Funeral Home,,,,3/13/2017,3/7/2017,1,6
+Kimurei Arap Lelmengit,3/13/2017,3/7/2017,3/17/2017,Friday,Weekday,Male,82,Yes,72.84,145,15,6,0,Yes,6,10,4,13,Nandi,Uasin Gishu,Uasin Gishu,60,60,illness,Yes,No,Female,,Racecourse Hospital Mortuary,,,,3/13/2017,3/7/2017,1,6
+Sebastian Gikunda,3/13/2017,3/8/2017,3/15/2017,Wednesday,Weekday,Male,61,No,56.01,147,6,2,4,Yes,5,7,2,26,Meru,Meru,Meru,0,0,illness,Yes,Yes,Female,,Nkubu Mission Hospital,,,,3/13/2017,3/8/2017,1,5
+Mzee Nicholas Okari Nyabuto,3/13/2017,3/4/2017,3/17/2017,Saturday,Weekend,Male,105,Yes,78.48,138,9,1,2,Yes,9,13,4,25,Nyamira,,,,,,Yes,Yes,Female,,,,,,3/13/2017,3/4/2017,1,9
+Peter Wainanina,3/13/2017,3/9/2017,3/16/2017,Thursday,Weekday,Male,41,Yes,65.56,154,1,1,0,Yes,4,7,3,10,Kiambu,Kiambu,Kiambu,0,0,illness,Yes,Yes,Female,Thika Hospital,Kenyatta University,,,,3/13/2017,3/9/2017,1,4
+Sister-in-Christ Hilda Wanjiku Kiarie,3/13/2017,3/8/2017,3/17/2017,Friday,Weekday,Female,,Yes,58.41,143,19,6,5,Yes,5,9,4,16,Murang'a,,Kiambu,,51,illness,Yes,No,Male,,Kenyatta University,,,,3/13/2017,3/8/2017,1,5
+Joseph Daniel Otiende,3/13/2017,3/8/2017,,,,Male,,Yes,124.44,238,9,3,3,Yes,5,"-42,802","-42,807",17,,,,,,,Yes,No,Female,,,,,,3/13/2017,3/8/2017,0,5
+Mzee Mwinzila Muthoka Malatu,3/13/2017,3/8/2017,3/16/2017,Thursday,Weekday,Male,,,56.32,124,11,2,3,Yes,5,8,3,15,Kitui,Kitui,Kitui,0,0,illness,Yes,Yes,Female,Jordan Hospital,Jordan Hospital Mortuary,Yes,,,3/13/2017,3/8/2017,,5
+Grace Kole,3/13/2017,3/6/2017,3/14/2017,Tuesday,Weekday,Female,72,Yes,56.34,126,18,7,3,Yes,7,8,1,13,Bomet,Bomet,Bomet,0,0,illness,Yes,Yes,Male,Tenwek Hospital,Tenwek Hospital Mortuary,Yes,,,3/13/2017,3/6/2017,1,7
+Rispah Waithera Muchamo-Eliud,3/13/2017,3/7/2017,3/15/2017,Wednesday,Weekday,Female,,Yes,57.01,135,2,2,0,Yes,6,8,2,6,Nyandarua,Kiambu,Kiambu,154,154,illness,Yes,Yes,Male,,Kenyatta University,,,,3/13/2017,3/7/2017,1,6
+Josephine waithira,3/13/2017,3/6/2017,3/14/2017,Tuesday,Weekday,Female,,Yes,56.45,158,1,0,1,Yes,7,8,1,8,Kirinyaga,Kirinyaga,Kirinyaga,0,0,illness,Yes,Yes,Male,Coptic Hospital,Kimbugi Funeral Home,No,,DEB,3/13/2017,3/6/2017,1,7
+Rael Kerubo,3/13/2017,3/6/2017,3/17/2017,Friday,Weekday,Female,,No,68.64,290,6,0,2,Yes,7,11,4,40,Kisii,Mombasa,Mombasa,789,789,illness,Yes,No,Male,Pandya Hospital,Pandya Memorial,Yes,,,3/13/2017,3/6/2017,1,7
+Purity Nyaguthii Njai,3/13/2017,3/7/2017,3/15/2017,Wednesday,Weekday,Female,64,Yes,109.12,270,10,2,2,Yes,6,8,2,23,Nyeri,Nyeri,Nyeri,0,0,illness,Yes,Yes,Male,Nyeri Hospital,Outspan Hospital Mortuary,No,,,3/13/2017,3/7/2017,1,6
+Mama Teresa Nyarinda Ongeri,3/13/2017,3/5/2017,3/14/2017,Tuesday,Weekday,Female,,Yes,58.68,193,8,4,5,Yes,8,9,1,21,Kisii,Nakuru,Nakuru,195,195,illness,Yes,Yes,Male,,War Memorial Hospital,,,,3/13/2017,3/5/2017,1,8
+Cosmas Thuku Thangei,3/13/2017,3/6/2017,3/17/2017,Saturday,Weekend,Male,,Yes,80.08,198,10,8,5,Yes,7,11,4,23,Nyeri,Kiambu,Kiambu,145,145,illness,Yes,No,Female,,Kenyatta University,,,,3/13/2017,3/6/2017,1,7
+Daniel Ng'ang'a Githachu,3/21/2017,3/16/2017,3/22/2017,Wednesday,Weekday,Male,,Yes,53.43,150,4,0,0,Yes,5,6,1,7,Murang'a,Nyeri,Nyeri,67,80,illness,Yes,Yes,Female,,Bishop Okoye Funeral Home,,,,3/21/2017,3/16/2017,1,5
+Evans Ngoko Makori(Ongacho),3/21/2017,3/8/2017,3/24/2017,Friday,Weekday,Male,51,Yes,71.28,194,3,0,4,Yes,13,16,3,15,Nyamira,Nyamira,Nyamira,0,0,illness,Yes,Yes,Female,,,,,,3/21/2017,3/8/2017,1,13
+Peter Waga Oyugi,3/21/2017,3/8/2017,3/24/2017,Friday,Weekday,Male,,Yes,58.63,176,0,0,3,Yes,13,16,3,18,Kisumu,Kisumu,Kisumu,0,0,Accident,No,,,,Star Funeral Home,,,Youth Coordinator,3/21/2017,3/8/2017,1,13
+Ass. Chief Charles Kanunu Kavunduu,3/21/2017,3/16/2017,3/25/2017,Saturday,Weekend,Male,,No,83.6,182,6,2,4,Yes,5,9,4,18,Machakos,Machakos,Machakos,0,0,illness,Yes,Yes,Female,Machakos Hospital,Montezuma Nairobi,No,,,3/21/2017,3/16/2017,1,5
+Paul Bora,3/21/2017,3/10/2017,3/26/2017,Sunday,Weekend,Male,,No,54.34,200,0,0,2,Yes,11,16,5,12,Homa Bay,Homa Bay,Homabay,0,0,illness,No,,,Nakuru War Memorial,War Memorial Hospital,Yes,,,3/21/2017,3/10/2017,1,11
+Bharatbhal Dahyabai Patel,3/21/2017,3/19/2017,,,,Male,83,Yes,74.23,90,2,2,0,Yes,2,"-42,813","-42,815",0,,Abroad,,,,illness,Yes,Yes,Female,,,,,chairman-patel brotherhood nairobi,3/21/2017,3/19/2017,0,2
+Margaret Buyaki Oira,3/21/2017,3/13/2017,3/24/2017,Friday,Weekday,Female,,Yes,66.54,246,6,1,2,Yes,8,11,3,21,Nyamira,Kisii,Kisii,31,31,illness,Yes,Yes,Male,Home,Hema Hospital Mortuary,No,,,3/21/2017,3/13/2017,1,8
+Naomi Njeri Ruhiu,3/21/2017,3/14/2017,3/27/2017,Monday,Weekday,Female,,Yes,83.6,138,14,2,0,Yes,7,13,6,14,Nyeri,Nyeri,Nyeri,0,0,illness,Yes,No,Male,Tumutumu missionHospital,Tumutumu Hospital Mortuary,Yes,,,3/21/2017,3/14/2017,1,7
+Wikister Abiero Odongo,3/21/2017,3/14/2017,3/31/2017,Friday,Weekday,Female,80,Yes,88.17,194,3,1,3,Yes,7,17,10,20,Siaya,Nairobi,Nairobi,402,402,illness,Yes,Yes,Male,,Montezuma Nairobi,,,,3/21/2017,3/14/2017,1,7
+John Murathe Mutitu,3/21/2017,3/17/2017,,,,Male,,Yes,150.8,252,0,0,2,Yes,4,"-42,811","-42,815",14,Nairobi,Nairobi,Nairobi,0,0,illness,No,,,,Montezuma Nairobi,,,,3/21/2017,3/17/2017,0,4
+Joseph Mburu Kimani,3/21/2017,3/15/2017,3/22/2017,Wednesday,Weekday,Male,,Yes,110,135,0,0,0,Yes,6,7,1,2,Nyandarua,Nyandarua,Nyandarua,0,0,illness,No,,,,General Kago Road Funeral,,,,3/21/2017,3/15/2017,1,6
+Grenham Murage Gachengo,3/21/2017,3/21/2017,3/23/2017,Thursday,Weekday,Male,44,Yes,64.24,135,2,1,3,Yes,0,2,2,6,Abroad,Abroad,Abroad,0,0,illness,Yes,Yes,Female,,,,,Managing Director Sendapack UK,3/21/2017,3/21/2017,1,2
+LuciaNyamokune Ondieki,3/21/2017,3/12/2017,3/24/2017,Friday,Weekday,Female,87,Yes,63.21,242,7,3,5,Yes,9,12,3,36,Nyamira,Nairobi,Nairobi,306,306,illness,Yes,Yes,Male,Better Living Hospital,Umash Nairobi,No,,,3/21/2017,3/12/2017,1,9
+Peter Nzau Mutungi,3/21/2017,3/14/2017,3/24/2017,Friday,Weekday,Male,,No,56.61,197,6,1,4,Yes,7,10,3,24,Machakos,Machakos,Machakos,0,0,illness,Yes,Yes,Female,Machakos Hospital,Machakos Funeral Home,Yes,,,3/21/2017,3/14/2017,1,7
+Henry Muiruri Karanja,3/21/2017,3/16/2017,3/22/2017,Wednesday,Weekday,Male,,Yes,58.34,112,3,0,0,Yes,5,6,1,0,Kiambu,Kiambu,Kiambu,0,0,illness,Yes,Yes,Female,Thika Hospital,Kenyatta University,No,,,3/21/2017,3/16/2017,1,5
+Mama Celina Millicent Ogega Manyonge,3/21/2017,3/17/2017,3/30/2017,Thursday,Weekday,Female,80,Yes,58.41,149,3,1,2,Yes,4,13,9,23,Siaya,Siaya,Siaya,0,0,illness,Yes,No,Male,,,,,,3/21/2017,3/17/2017,1,4
+Stephen Mwangi Kinyanjui,3/21/2017,3/14/2017,3/23/2017,Thursday,Weekday,Male,45,Yes,56.54,122,2,0,2,Yes,7,9,2,24,Kiambu,,Kiambu,,0,illness,Yes,Yes,Female,,Kenyatta University,,,East africa Hydraulics,3/21/2017,3/14/2017,1,7
+Ian Mutegi Nyaga,3/21/2017,3/15/2017,3/23/2017,Thursday,Weekday,Male,,Yes,58.66,168,4,1,4,Yes,6,8,2,26,Kirinyaga,Isiolo,Isiolo,178,178,Accident,Yes,Yes,Female,Isiolo District Hospital,Isiolo District Hosjpital,Yes,,,3/21/2017,3/15/2017,1,6
+Deaconess Catherine Kasyoki Musumbu,3/21/2017,3/17/2017,3/25/2017,Saturday,Weekend,Female,51,Yes,56.67,170,5,2,5,Yes,4,8,4,23,Kitui,Nairobi,Nairobi,175,175,illness,Yes,Yes,Male,MP Shah Hospital,MP shah Hospital Mortuary,Yes,,UON,3/21/2017,3/17/2017,1,4
+John P Njenga,2/21/2017,2/18/2017,,,,Male,62,Yes,83.6,138,2,0,0,Yes,3,"-42,784","-42,787",13,,,,,,,Yes,Yes,Female,,,,,,2/21/2017,2/18/2017,0,3
+Very Reverend Joseph Ogola Aduiogo,2/23/2017,2/6/2017,2/26/2017,Saturday,Weekend,Male,,No,54.56,225,3,0,2,Yes,17,20,3,25,Kisumu,Kisumu,Kisumu,0,0,illness,Yes,Yes,Female,Oasis Hospital,Star Hospital,No,,Reverend,2/23/2017,2/6/2017,1,17
+Hellen Kiprotich Maritim,2/23/2017,2/19/2017,3/25/2017,Saturday,Weekday,Female,47,Yes,77.44,134,1,1,4,Yes,4,34,30,25,Nakuru,Nakuru,Nakuru,0,0,illness,Yes,No,Male,Nakuru War Memorial,War Memorial Hospital,No,,,2/23/2017,2/19/2017,1,4
+James Kivuve Muugu,2/23/2017,2/17/2017,2/25/2017,Saturday,Weekend,Female,,Yes,66.46,134,4,0,0,Yes,6,8,2,22,Kitui,Kitui,Kitui,0,0,illness,Yes,No,Male,,,,,,2/23/2017,2/17/2017,1,6
+Beatrice Wangui Muchugia,2/23/2017,2/20/2017,2/25/2017,Saturday,Weekend,Female,91,Yes,155.25,210,9,4,0,Yes,3,5,2,5,Murang'a,Kiambu,Kiambu,67,67,illness,Yes,No,Male,,Kenyatta University,,,,2/23/2017,2/20/2017,1,3
+Mwalimu Simon Nyaga Mathenge,2/23/2017,2/18/2017,2/28/2017,Tuesday,Weekday,Male,,Yes,158.12,225,7,1,2,Yes,5,10,5,17,Nyeri,Nyeri,Nyeri,0,0,illness,Yes,Yes,Female,,Jamii Hospital Mortuary,,,,2/23/2017,2/18/2017,1,5
+Esther Nanjala Ndirangu,2/23/2017,2/18/2017,2/28/2017,Tuesday,Weekday,Female,,Yes,82.44,156,3,0,2,Yes,5,10,5,13,Nakuru,Nairobi,Nairobi,150,150,Accident,Yes,Yes,Male,,Umash Nairobi,,,,2/23/2017,2/18/2017,1,5
+Bridget Wambii Ngugi,2/23/2017,2/19/2017,2/24/2017,Friday,Weekday,Female,1,Yes,54.36,111,0,0,0,Yes,4,5,1,5,Kiambu,Kiambu,Kiambu,0,0,illness,No,,,Outspan Hospital,Kenyatta University,No,,,2/23/2017,2/19/2017,1,4
+Esther Njeri Njenga,2/23/2017,2/21/2017,2/28/2017,Tuesday,Weekday,Female,97,Yes,112.13,462,12,5,10,Yes,2,7,5,45,Kiambu,Nairobi,Nairobi,0,0,illness,Yes,No,Male,,,,,,2/23/2017,2/21/2017,1,2
+Margret Wamaitha Wachira,2/23/2017,2/12/2017,,,,Female,,Yes,54.21,142,9,2,4,Yes,11,"-42,778","-42,789",26,Nyeri,Nairobi,Nairobi,151,151,illness,Yes,Yes,Male,MP Shah Hospital,MP shah Hospital Mortuary,Yes,,,2/23/2017,2/12/2017,0,11
+Omong'ina Aska Nyaboke Morekwa Mokua,2/23/2017,2/16/2017,2/3/2017,Thursday,Weekday,Female,,Yes,83.6,351,4,2,3,Yes,7,14,7,22,Kisii,Kisii,Kisii,0,0,illness,Yes,No,Male,Coptic Hospital,Coptic Hospital Mortuary,Yes,,,2/23/2017,2/16/2017,1,7
+James Simon Muli,2/23/2017,2/16/2017,,,,Male,,Yes,63.28,136,0,0,2,Yes,7,"-42,782","-42,789",27,,,,,,illness,No,,,,,,,,2/23/2017,2/16/2017,0,7
+Eunice Wairimu Wachira,2/23/2017,2/19/2017,2/27/2017,Monday,Weekday,Female,77,Yes,68.25,164,8,4,5,Yes,4,8,4,24,Nyeri,Nyeri,Nyeri,0,0,illness,Yes,No,Male,Outspan Hospital,Outspan Hospital Mortuary,Yes,,,2/23/2017,2/19/2017,1,4
+Joaness Ochieng Odingo,2/23/2017,2/8/2017,4/3/2017,Saturday,Weekend,Male,48,Yes,63.25,160,4,1,3,Yes,15,24,9,16,Kisumu,Abroad,Nairobi,,420,illness,Yes,Yes,Female,Appollos Hospital,Aga Khan Hospital,No,,CBK,2/23/2017,2/8/2017,1,15
+Patrick Kariuki,2/23/2017,2/16/2017,2/25/2017,Saturday,Weekend,Male,,Yes,58.41,112,4,2,0,Yes,7,9,2,8,Nairobi,Nairobi,Nairobi,0,0,illness,Yes,Yes,Female,MP Shah Hospital,,,,,2/23/2017,2/16/2017,1,7
+Rebecca Chepkasi,2/23/2017,2/19/2017,2/24/2017,Friday,Weekday,Female,,No,117.45,254,3,0,0,Yes,4,5,1,6,Nandi,Nairobi,Nairobi,368,368,illness,,,,,Lee Funeral Home,,,,2/23/2017,2/19/2017,1,4
+Melchizedeck Anyona Akunga,2/23/2017,2/17/2017,3/3/2017,Friday,Weekday,Male,,No,86.72,201,4,2,3,Yes,6,14,8,18,Kisii,Nairobi,Nairobi,339,339,illness,Yes,No,Female,Kenyatta National Hospital,Kenyatta University,Yes,,rtd Teacher,2/23/2017,2/17/2017,1,6
+Wilson Maina Gichuri,2/23/2017,2/20/2017,2/25/2017,Saturday,Weekend,Male,,Yes,78.68,119,2,0,1,Yes,3,5,2,10,Nyeri,Kiambu,Kiambu,145,145,Accident,Yes,Yes,Female,,Kenyatta University,Yes,,,2/23/2017,2/20/2017,1,3
+Jared Ongeri,2/23/2017,2/17/2017,3/3/2017,Friday,Weekday,Male,37,Yes,216,84,0,0,5,Yes,6,14,8,5,Bungoma,Bungoma,Bungoma,0,0,illness,No,,,,Cherangany nursing Home,,,,2/23/2017,2/17/2017,1,6
+Eng. Symon Pepee Kitambaa Reng'enyang,2/23/2017,2/18/2017,,,,Male,,Yes,432,208,3,0,0,Yes,5,"-42,784","-42,789",7,Baringo,Baringo,,0,,illness,Yes,Yes,Female,,,,,Board Chairman-NCPD,2/23/2017,2/18/2017,0,5
+Teresia Nyoabi Kihonge,2/23/2017,2/18/2017,2/24/2017,Friday,Weekday,Female,63,Yes,58.96,164,4,2,0,Yes,5,6,1,10,Kiambu,Kiambu,Kiambu,0,0,illness,Yes,Yes,Male,,Kenyatta University,,,,2/23/2017,2/18/2017,1,5
+Elizabeth OngeriBaraza,2/23/2017,2/16/2017,2/25/2017,Saturday,Weekend,Female,,Yes,58.87,212,2,0,4,Yes,7,9,2,27,Busia,Nairobi,Nairobi,453,453,illness,Yes,Yes,Male,Magadi Hospital,Chiromo,No,,,2/23/2017,2/16/2017,1,7
+Bartholomew Ngiyo M'bwika,2/23/2017,2/19/2017,2/25/2017,Saturday,Weekend,Male,,Yes,67.76,300,5,3,6,Yes,4,6,2,31,Meru,Meru,Meru,0,0,illness,Yes,Yes,Female,Maua Methodist Hospital,Maua Methodist Hospital Mortuary,Yes,,,2/23/2017,2/19/2017,1,4
+"Elder ""Mwalimu' Meshach Amayo Akede",2/23/2017,2/14/2017,2/28/2017,Tuesday,Weekday,Male,,Yes,63.74,198,7,2,4,Yes,9,14,5,26,Kisumu,Kisumu,Kisumu,0,0,illness,Yes,No,Female,,Star Hospital,,,,2/23/2017,2/14/2017,1,9
+(Rtd) Inspector Susan Mataria Julius(kenya prisons),2/23/2017,2/19/2017,2/24/2017,Friday,Weekday,Female,,Yes,64.64,125,4,2,3,Yes,4,5,1,21,Meru,Kiambu,Kiambu,279,279,illness,Yes,Yes,Male,Meridian Hospital,Kenyatta University,No,,Kenya Prisons,2/23/2017,2/19/2017,1,4
+Targok Cherogony Chesang,3/30/2017,3/20/2017,1/4/2017,Saturday,Weekend,Female,89,Yes,67.76,221,7,2,4,Yes,10,12,2,17,Nakuru,Nakuru,Nakuru,0,0,illness,Yes,No,Male,,War Memorial Hospital,,,,3/30/2017,3/20/2017,1,10
+Esther Muhia Wanja,3/30/2017,3/25/2017,1/4/2017,Saturday,Weekend,Female,,Yes,59.84,210,5,0,0,Yes,5,7,2,12,Murang'a,Nairobi,Kiambu,89,67,illness,Yes,No,Male,Nairobi Women Hospital,Kenyatta University,No,,,3/30/2017,3/25/2017,1,5
+Edna Shamala Okem,3/30/2017,3/24/2017,5/4/2017,Wednesday,Weekday,Female,,Yes,110,301,0,0,4,Yes,6,12,6,34,Trans Nzioa,Nairobi,Nairobi,385,385,illness,No,,,,Umash Nairobi,,,,3/30/2017,3/24/2017,1,6
+Margrt Wamaitha Wachira,3/30/2017,2/12/2017,5/4/2017,Wednesday,Weekday,Female,,Yes,54.21,142,9,2,4,Yes,46,52,6,26,Nyeri,Nairobi,Nairobi,151,151,illness,Yes,Yes,Male,MP Shah Hospital,MP shah Hospital Mortuary,Yes,,,3/30/2017,2/12/2017,1,46
+Desderio njage M'Mitambo Kato,3/30/2017,3/23/2017,1/4/2017,Saturday,Weekend,Male,70,Yes,59.84,162,3,2,0,Yes,7,9,2,7,Tharaka Nithi,Kiambu,Kiambu,217,217,illness,Yes,Yes,Female,,Kenyatta University,,,Director of presindt's Awrd scheme,3/30/2017,3/23/2017,1,7
+Maurice Kinyeki Gitari,3/30/2017,3/26/2017,3/31/2017,Friday,Weekday,Male,,Yes,59.84,155,3,0,0,Yes,4,5,1,13,Kirinyaga,Nairobi,Nairobi,119,119,illness,Yes,No,Female,,Porteiz Mortuary,,,,3/30/2017,3/26/2017,1,4
+Lydiah Wairimu Kagondo,3/30/2017,3/23/2017,3/31/2017,Friday,Weekday,Female,,Yes,55.44,126,4,3,0,Yes,7,8,1,11,Kiambu,Kiambu,Kiambu,0,0,illness,Yes,Yes,Male,,Kenyatta University,,,,3/30/2017,3/23/2017,1,7
+Athanasius Gitari Herman,3/30/2017,3/26/2017,1/4/2017,Saturday,Weekend,Male,73,Yes,85.36,216,6,3,4,Yes,4,6,2,19,Nyeri,Nyeri,Nyeri,0,0,illness,Yes,No,Female,Outspan Hospital,Outspan Hospital Mortuary,Yes,,Biomedical Engineer,3/30/2017,3/26/2017,1,4
+Wilson Wabakaya,3/30/2017,3/19/2017,1/4/2017,Saturday,Weekend,Male,,Yes,83.6,96,1,0,0,Yes,11,13,2,6,kakamega,Nairobi,Nairobi,359,359,Accident,Yes,Yes,Female,,Chiromo,,,,3/30/2017,3/19/2017,1,11
+Eddison Natembeya Nandoli,3/30/2017,3/19/2017,1/4/2017,Saturday,Weekend,Male,,Yes,83.6,98,4,1,,Yes,11,13,2,8,Bungoma,Nairobi,Nairobi,408,408,Accident,Yes,Yes,Female,,Chiromo,,,,3/30/2017,3/19/2017,1,11
+Douglas Omondi Mohol,3/30/2017,3/15/2017,1/4/2017,Saturday,Weekend,Male,67,Yes,54.21,181,15,2,3,Yes,15,17,2,28,Siaya,Siaya,Siaya,0,0,illness,Yes,Yes,Female,,Butula Mortuary,,,,3/30/2017,3/15/2017,1,15
+AndrewSoi,3/30/2017,3/24/2017,1/4/2017,Saturday,Weekend,Male,,Yes,110,156,7,4,1,Yes,6,8,2,5,Kericho,Kericho,Kericho,0,0,illness,Yes,Yes,Female,Tenwek Hospital,Tenwek Hospital Mortuary,Yes,,Teacher,3/30/2017,3/24/2017,1,6
+Geoffrey Kang'oria Kinoti,3/30/2017,3/28/2017,,,,Male,77,No,211.72,247,5,0,1,Yes,2,"-42,822","-42,824",38,,,,,,illness,Yes,Yes,Female,,,,,RTd Commissioner of police,3/30/2017,3/28/2017,0,2
+Helen Mrunde Kighowa,3/30/2017,3/27/2017,8/4/2017,Saturday,Weekend,Female,59,Yes,55.44,253,5,1,3,Yes,3,12,9,23,Mombasa,Nairobi,Nairobi,484,484,illness,Yes,No,Male,,Montezuma Nairobi,,,,3/30/2017,3/27/2017,1,3
+Joseph Irungu Ndirangu,3/30/2017,3/26/2017,1/4/2017,Saturday,Weekend,Male,51,No,55.44,165,2,0,0,Yes,4,6,2,13,Murang'a,Murang'a,Murang'a,0,0,illness,Yes,No,Female,,Kiriani Mission Hospital,,,,3/30/2017,3/26/2017,1,4
+Boaz Onyancha Davis(Jared),3/30/2017,3/23/2017,7/4/2017,Friday,Weekday,Male,36,Yes,54.56,162,3,0,0,Yes,7,15,8,12,Kericho,Nairobi,Nairobi,264,264,illness,Yes,Yes,Female,Aga Khan Hospital,Aga Khan Mortuary,Yes,,Banker,3/30/2017,3/23/2017,1,7
+Sussannah Ndungwa Kalia,3/30/2017,3/21/2017,1/4/2017,Saturday,Weekend,Female,96,Yes,73.92,242,9,2,2,Yes,9,11,2,27,Murang'a,Murang'a,Murang'a,0,0,illness,Yes,No,Male,Kenol Hospital,Murang'a County Mortuary,No,,,3/30/2017,3/21/2017,1,9
+Eric MureithiJulio,3/30/2017,3/21/2017,1/4/2017,Saturday,Weekend,Male,22,Yes,80.96,138,0,0,1,Yes,9,11,2,30,Tharaka Nithi,Nairobi,Nairobi,272,272,illness,No,,,MP Shah Hospital,MP shah Hospital Mortuary,uYes,,economist,3/30/2017,3/21/2017,1,9
+Dorothy Rahab Otieno,3/30/2017,3/22/2017,6/4/2017,Thursday,Weekday,Female,,Yes,84.48,141,2,0,0,Yes,8,15,7,7,Nairobi,Nairobi,Nairobi,0,0,illness,No,,,Coptic Hospital,Coptic Hospital Mortuary,Yes,,,3/30/2017,3/22/2017,1,8
+Madam Sheila Nafula Wasike,3/30/2017,3/17/2017,1/4/2017,Saturday,Weekend,Female,57,Yes,84.48,151,4,2,5,Yes,13,15,2,30,Trans Nzioa,Uasin Gishu,Uasin Gishu,74,74,illness,Yes,Yes,Male,,Eldoret Hospital Mortuary,,,,3/30/2017,3/17/2017,1,13
+Samson Nguta Kyalo,3/1/2017,2/21/2017,3/3/2017,Friday,Weekday,Male,24,Yes,54.56,181,0,0,0,Yes,8,10,2,15,Machakos,Machakos,Machakos,0,0,Accident,No,,,,Montezuma Nairobi,,,,3/1/2017,2/21/2017,1,8
+Susan Mwikali Velle,3/1/2017,1/23/2017,4/3/2017,Saturday,Weekend,Female,59,No,57.56,223,4,0,4,Yes,37,40,3,21,Kitui,Abroad,Nairobi,0,175,illness,Yes,Yes,Male,,,,,,3/1/2017,1/23/2017,1,37
+Omong'ina Aska Nyaboke Morekwa Mokua,3/1/2017,2/16/2017,2/3/2017,Thursday,Weekday,Female,,Yes,83.6,351,4,2,3,Yes,13,14,1,22,Kisii,Kisii,Kisii,0,0,illness,Yes,No,Male,Coptic Hospital,Coptic Hospital Mortuary,Yes,,,3/1/2017,2/16/2017,1,13
+Christopher Muloki Masila,3/1/2017,2/24/2017,4/3/2017,Saturday,Weekend,Male,49,Yes,55.34,276,3,1,4,Yes,5,8,3,24,Machakos,Machakos,Machakos,0,0,Accident,Yes,Yes,Female,,Montezuma Nairobi,,,New KCC,3/1/2017,2/24/2017,1,5
+Rebecca Kathambi Mungania,3/1/2017,2/23/2017,3/4/2017,Friday,Weekday,Female,,Yes,54.56,162,4,2,5,Yes,6,39,33,28,Meru,Kiambu,Kiambu,279,279,illness,Yes,Yes,Male,Coptic Hospital,Kenyatta University,No,,,3/1/2017,2/23/2017,1,6
+Nancy Wambui Mwangi,3/1/2017,2/11/2017,2/3/2017,Thursday,Weekday,Female,,Yes,58.86,133,2,1,6,Yes,18,19,1,10,Mombasa,Mombasa,Mombasa,0,0,illness,Yes,No,Male,Pandya Hospital,Pandya Memorial,Yes,,,3/1/2017,2/11/2017,1,18
+Milton ouru Manguro,3/1/2017,2/21/2017,9/3/2017,Thursday,Weekday,Male,54,Yes,84.48,302,5,2,6,Yes,8,16,8,28,Homa Bay,Nairobi,Nairobi,363,363,illness,Yes,Yes,Female,Guru Nanak,Chiromo,No,,Kenya Forest Resaerch Institute,3/1/2017,2/21/2017,1,8
+Eunice Wanja Kagia,3/1/2017,2/24/2017,3/3/2017,Friday,Weekday,Female,,No,67.76,202,7,3,4,Yes,5,7,2,20,Nairobi,Nairobi,Nairobi,0,0,illness,Yes,No,Male,,PCEA Kikuyu Mortuary,,,,3/1/2017,2/24/2017,1,5
+Consolata Adhiambo Otera,3/1/2017,2/17/2017,4/3/2017,Saturday,Weekend,Female,55,Yes,54.56,135,5,2,6,Yes,12,15,3,31,Uasin Gishu,Nairobi,Nairobi,314,314,illness,Yes,Yes,Male,,Lee Funeral Home,,,,3/1/2017,2/17/2017,1,12
+Prof. Mutuma Mugambi,3/1/2017,2/25/2017,2/3/2017,Thursday,Weekday,Male,,Yes,214.4,312,8,2,5,Yes,4,5,1,25,Meru,Meru,Meru,0,0,illness,Yes,Yes,Female,,Maua Methodist Hospital Mortuary,,,Proffesor in Physiology and Cardiology,3/1/2017,2/25/2017,1,4
+Felix Njagi M'thura,3/1/2017,2/22/2017,3/3/2017,Friday,Weekday,Male,,Yes,84.48,320,3,3,10,Yes,7,9,2,38,Tharaka Nithi,Nairobi,Nairobi,272,272,illness,Yes,No,Female,Kenyatta National Hospital,Kenyatta University,Yes,,,3/1/2017,2/22/2017,1,7
+Mzee Charles Mwaura Meshack,3/1/2017,2/27/2017,,,,Male,91,Yes,67.76,243,9,4,6,Yes,2,"-42,793","-42,795",23,,,,,,,Yes,No,Female,,,,,,3/1/2017,2/27/2017,0,2
+Renson Kiiru Wembia,3/1/2017,2/26/2017,4/3/2017,Saturday,Weekend,Male,58,Yes,54.56,211,3,1,3,Yes,3,6,3,17,Murang'a,Kiambu,Kiambu,67,67,illness,Yes,Yes,Female,,Kenyatta University,,,Ministry of lands and Physical Planning-Muranga County,3/1/2017,2/26/2017,1,3
+Solomon Mungai Njoroge,3/1/2017,2/23/2017,,,,Male,,Yes,54.57,130,0,0,4,Yes,6,"-42,789","-42,795",8,Nyeri,Abroad,,,,illness,Yes,Yes,Female,,,,,USA,3/1/2017,2/23/2017,0,6
+Dorothy Naisiae Keriasek,3/1/2017,2/22/2017,3/3/2017,Friday,Weekday,Female,49,No,84.48,146,1,0,3,Yes,7,9,2,13,Nakuru,Nakuru,Nakuru,0,0,illness,Yes,Yes,Male,,Umash Nairobi,,,,3/1/2017,2/22/2017,1,7
+Ides Wagure Gikuhi,3/1/2017,2/22/2017,3/3/2017,Friday,Weekday,Female,,Yes,58.96,180,9,1,2,Yes,7,9,2,11,Murang'a,Murang'a,Murang'a,0,0,illness,Yes,Yes,Male,,Murilanjas Hospital Mortuary,,,,3/1/2017,2/22/2017,1,7
+Albert Juma Nyatodo Ogola,3/1/2017,2/26/2017,11/3/2017,Saturday,Weekend,Male,,Yes,125.84,378,8,6,7,Yes,3,13,10,28,Siaya,Nairobi,Nairobi,402,402,illness,Yes,Yes,Female,Coptic Hospital,Coptic Hospital Mortuary,Yes,,,3/1/2017,2/26/2017,1,3
+Reynold Mutinda Munywoki,3/1/2017,2/26/2017,3/3/2017,Friday,Weekday,Male,1,Yes,54.56,120,0,0,3,Yes,3,5,2,8,Kitui,Kiambu,Kiambu,152,152,illness,No,,,Metropolitan Hospital,Kenyatta University,No,,,3/1/2017,2/26/2017,1,3
+Martha Njambi Mwaniki,3/1/2017,2/25/2017,3/3/2017,Friday,Weekday,Female,82,Yes,54.56,171,3,0,0,Yes,4,6,2,23,Nyeri,,,,,,Yes,No,Male,,,,,,3/1/2017,2/25/2017,1,4
+Priscilla Wanjiku Mwita,3/1/2017,2/23/2017,7/3/2017,Tuesday,Weekday,Female,93,Yes,67.76,180,9,1,4,Yes,6,12,6,23,Kiambu,Kiambu,Kiambu,0,0,illness,Yes,No,Male,,Kenyatta University,,,,3/1/2017,2/23/2017,1,6
+Cpa Simon Kiptanui Mctoo,3/1/2017,2/22/2017,4/3/2017,Saturday,Weekend,Male,30,Yes,84.48,274,0,0,6,Yes,7,10,3,29,Uasin Gishu,,,,,,No,,,,,,,,3/1/2017,2/22/2017,1,7
+Caroline Wairimu Wanjihia,3/1/2017,2/26/2017,3/3/2017,Friday,Weekday,Female,63,Yes,212.8,133,5,0,0,Yes,3,5,2,13,,,,,,,No,,,,,,,,3/1/2017,2/26/2017,1,3
+H.E Hon. Nderitu Gachagua,3/1/2017,2/24/2017,6/3/2017,Monday,Weekday,Male,64,Yes,440,383,7,0,2,Yes,5,10,5,30,Nyeri,Abroad,Nairobi,,151,illness,Yes,Yes,Female,Royal Mardsen Hospital-UK,Lee Funeral Home,No,,Governor-Nyeri,3/1/2017,2/24/2017,1,5
+Elder(rtd) Phylis wanjeri Mwaura,3/17/2017,3/12/2017,3/21/2017,Tuesday,Weekday,Female,89,Yes,54.56,210,2,0,3,Yes,5,9,4,21,Nakuru,Nakuru,Nakuru,0,0,illness,Yes,No,Male,,Umash Nairobi,,,,3/17/2017,3/12/2017,1,5
+Evan Wangome,3/17/2017,3/13/2017,3/22/2017,Wednesday,Weekday,Male,,Yes,54.56,224,3,0,4,Yes,4,9,5,18,Nyeri,Nairobi,Nairobi,151,151,illness,Yes,No,Female,,Lee Funeral Home,,,,3/17/2017,3/13/2017,1,4
+Lynne Ncabira Kithinji,3/17/2017,3/13/2017,3/20/2017,Monday,Weekday,Female,,Yes,54.56,196,1,0,2,Yes,4,7,3,13,,,,0,0,illness,No,,,Chogoria,Chogoria Hospital Mortuary,Yes,,,3/17/2017,3/13/2017,1,4
+Elisha Mwanzige,3/17/2017,3/14/2017,3/22/2017,Wednesday,Weekday,Male,,Yes,54.56,152,3,0,0,Yes,3,8,5,17,Mombasa,Mombasa,Mombasa,0,0,illness,Yes,Yes,Female,,Pandya Memorial,,,,3/17/2017,3/14/2017,1,3
+Agnes Hilda Anyango Nyimbae,3/17/2017,3/13/2017,,,,Female,,Yes,80.08,149,7,0,0,Yes,4,"-42,807","-42,811",23,,,,,,,Yes,Yes,Male,,,,,,3/17/2017,3/13/2017,0,4
+Faith Wangui Mwathi,3/17/2017,3/13/2017,3/18/2017,Saturday,Weekend,Female,,Yes,110,224,1,0,0,Yes,4,5,1,18,Nairobi,Nairobi,Nairobi,0,0,illness,No,,,,Lee Funeral Home,,,Safaricom,3/17/2017,3/13/2017,1,4
+Mama Agnes Omwenga Nyakundi,3/17/2017,3/12/2017,3/24/2017,Friday,Weekday,Female,,Yes,130.24,339,6,3,14,Yes,5,12,7,54,Kisii,Kisii,Kisii,0,0,illness,Yes,No,Male,Hema Hospital,Hema Hospital Mortuary,Yes,,,3/17/2017,3/12/2017,1,5
+Mrs Jane Wanjiru Kaniu(Nyina Wa Andu),3/17/2017,3/11/2017,3/22/2017,Wednesday,Weekday,Female,73,Yes,131.22,166,12,4,3,Yes,6,11,5,27,Murang'a,Abroad,Kiambu,,67,illness,Yes,No,Male,,Kenyatta University,No,,Huplan Ltd,3/17/2017,3/11/2017,1,6
+Mzee Muliko Kimanga,3/17/2017,3/12/2017,3/18/2017,Saturday,Weekend,Male,70,Yes,54.56,216,10,0,1,Yes,5,6,1,21,Makueni,Machakos,Machakos,76,76,illness,Yes,Yes,Female,Shalom Community Hospital,Machakos Funeral Home,No,,,3/17/2017,3/12/2017,1,5
